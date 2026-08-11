@@ -366,10 +366,14 @@ def run_refresh():
         'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36',
     }
     
-    res = requests.get(BASE_URL, headers=headers, impersonate="chrome")
-    if res.status_code != 200:
-        print(f"[!] Error accessing storefront: HTTP {res.status_code}", file=sys.stderr)
-        sys.exit(1)
+    try:
+        res = requests.get(BASE_URL, headers=headers, impersonate="chrome")
+        if res.status_code != 200:
+            print(f"[!] Warning: Error accessing storefront (HTTP {res.status_code}). Using existing inventory data.", file=sys.stderr)
+            return
+    except Exception as err:
+        print(f"[!] Warning: Storefront request exception ({err}). Using existing inventory data.", file=sys.stderr)
+        return
         
     soup = BeautifulSoup(res.text, 'html.parser')
     doc_url = None
@@ -383,8 +387,8 @@ def run_refresh():
                 break
                 
     if not doc_url:
-        print("[!] Dynamic vehicle PDF link not found.", file=sys.stderr)
-        sys.exit(1)
+        print("[!] Warning: Dynamic vehicle PDF link not found. Using existing inventory data.", file=sys.stderr)
+        return
         
     doc_info = parse_dotnet_ticks(doc_url)
     if doc_info:

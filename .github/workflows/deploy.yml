@@ -41,6 +41,7 @@ jobs:
       - name: Run Live Inventory Refresh Pipeline
         run: |
           python src/refresh_inventory.py
+        continue-on-error: true
 
       - name: Commit & Push Updated Inventory Data
         run: |
