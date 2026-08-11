@@ -27,6 +27,9 @@
                 </div>
             </div>
             <div class="header-actions">
+                <button class="btn btn-outline" id="about-app-btn">
+                    <i class="fa-solid fa-circle-info"></i> About
+                </button>
                 <button class="btn btn-primary" id="refresh-data-btn">
                     <i class="fa-solid fa-arrows-rotate"></i> Sync Live Inventory
                 </button>
@@ -409,6 +412,123 @@
                 </button>
                 <button class="btn btn-primary" id="review-switch-to-specs-btn">
                     <i class="fa-solid fa-list-check"></i> View Full Specifications
+                </button>
+            </div>
+        </div>
+    <!-- About Application Modal -->
+    <div class="modal-backdrop" id="about-modal">
+        <div class="modal-card modal-lg">
+            <button class="modal-close-btn" id="about-modal-close-btn" aria-label="Close about modal">
+                <i class="fa-solid fa-xmark"></i>
+            </button>
+            <div class="modal-header">
+                <div class="modal-badge-container">
+                    <span class="asset-badge"><i class="fa-solid fa-star text-gold"></i> Public Fleet Intelligence</span>
+                    <span class="status-chip"><i class="fa-solid fa-circle-check"></i> Texas State Surplus Store</span>
+                </div>
+                <h2 class="modal-title">About Texas Surplus Vehicles Tracker</h2>
+                <p class="modal-subtitle">Automated Inventory Analytics, NHTSA VIN Decoding & Used Fleet Valuations</p>
+            </div>
+            
+            <div class="modal-body">
+                <!-- Overview Section -->
+                <div class="about-section-card">
+                    <h3><i class="fa-solid fa-building-columns text-primary"></i> Purpose & Overview</h3>
+                    <p class="about-text">
+                        The <strong>Texas State Surplus Store</strong> (operated by the Texas Facilities Commission - TFC at 6506 Bolm Rd, Austin, TX) regularly lists government surplus vehicles—including police pursuit interceptors, pickup trucks, SUVs, and passenger sedans—for public sale.
+                    </p>
+                    <p class="about-text">
+                        This application provides an automated data integration pipeline and modern web dashboard designed to make public surplus vehicle inventory easily searchable, transparent, and actionable for buyers and fleet managers.
+                    </p>
+                </div>
+
+                <!-- Feature Grid Section -->
+                <div class="about-grid">
+                    <div class="about-feature-card">
+                        <div class="about-icon bg-blue"><i class="fa-solid fa-file-invoice"></i></div>
+                        <h4>Automated Data Ingestion</h4>
+                        <p>Automatically resolves published PDF inventory listings from the Texas State Surplus Store, decoding 64-bit timestamps into exact Central Time publication dates.</p>
+                    </div>
+
+                    <div class="about-feature-card">
+                        <div class="about-icon bg-emerald"><i class="fa-solid fa-shield-halved"></i></div>
+                        <h4>NHTSA VIN Specs & Aspiration</h4>
+                        <p>Queries official NHTSA VPIC APIs to decode engine displacement, cylinder count, horsepower, drivetrain (FWD/RWD/AWD), assembly plant location, and powertrain aspiration (Turbocharged vs Naturally Aspirated).</p>
+                    </div>
+
+                    <div class="about-feature-card">
+                        <div class="about-icon bg-amber"><i class="fa-solid fa-triangle-exclamation"></i></div>
+                        <h4>NHTSA Open Safety Recalls</h4>
+                        <p>Cross-references active safety recall campaigns, affected components, defect summaries, potential safety consequences, and official manufacturer dealer remedies.</p>
+                    </div>
+
+                    <div class="about-feature-card">
+                        <div class="about-icon bg-purple"><i class="fa-solid fa-chart-line"></i></div>
+                        <h4>Market Valuation Suite</h4>
+                        <p>Calculates Kelley Blue Book (KBB) Fair Purchase Values, suggested retail ranges, and estimated savings compared to state surplus pricing, paired with Edmunds expert reviews.</p>
+                    </div>
+                </div>
+
+                <!-- Data Sources & Transparency -->
+                <div class="about-section-card">
+                    <h3><i class="fa-solid fa-database text-gold"></i> Data Sources & Transparency</h3>
+                    <ul class="about-sources-list">
+                        <li>
+                            <i class="fa-solid fa-link text-primary"></i>
+                            <div>
+                                <strong>Texas Facilities Commission (TFC)</strong> — Storefront vehicle inventory PDF publications (Austin, TX storefront).
+                            </div>
+                        </li>
+                        <li>
+                            <i class="fa-solid fa-link text-primary"></i>
+                            <div>
+                                <strong>U.S. Department of Transportation / NHTSA</strong> — VPIC VIN Specification API & Safety Recalls Campaign Database.
+                            </div>
+                        </li>
+                        <li>
+                            <i class="fa-solid fa-link text-primary"></i>
+                            <div>
+                                <strong>U.S. Department of Energy / EPA</strong> — FuelEconomy.gov City, Highway, and Combined MPG ratings.
+                            </div>
+                        </li>
+                        <li>
+                            <i class="fa-solid fa-link text-primary"></i>
+                            <div>
+                                <strong>Edmunds & Kelley Blue Book (KBB)</strong> — Independent automotive expert ratings, pros/cons, and used market value baselines.
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+
+                <!-- Store & Contact Information -->
+                <div class="about-store-info">
+                    <div class="store-info-item">
+                        <i class="fa-solid fa-location-dot text-rose"></i>
+                        <div>
+                            <strong>Storefront Address</strong>
+                            <span>6506 Bolm Rd, Austin, TX 78721</span>
+                        </div>
+                    </div>
+                    <div class="store-info-item">
+                        <i class="fa-solid fa-clock text-amber"></i>
+                        <div>
+                            <strong>Public Shopping Hours</strong>
+                            <span>Mon - Fri: 8:00 AM - 4:30 PM CT</span>
+                        </div>
+                    </div>
+                    <div class="store-info-item">
+                        <i class="fa-solid fa-envelope text-emerald"></i>
+                        <div>
+                            <strong>Surplus Sales Contact</strong>
+                            <span>state.surplus@tfc.texas.gov</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="modal-footer">
+                <button class="btn btn-primary" id="about-modal-close-footer-btn">
+                    <i class="fa-solid fa-check"></i> Got It
                 </button>
             </div>
         </div>

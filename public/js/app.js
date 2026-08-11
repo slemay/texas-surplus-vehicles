@@ -587,6 +587,33 @@ document.addEventListener('DOMContentLoaded', () => {
             });
     });
 
+    // About Modal Handlers
+    const aboutAppBtn = document.getElementById('about-app-btn');
+    const aboutModal = document.getElementById('about-modal');
+    const aboutModalCloseBtn = document.getElementById('about-modal-close-btn');
+    const aboutModalCloseFooterBtn = document.getElementById('about-modal-close-footer-btn');
+
+    if (aboutAppBtn && aboutModal) {
+        aboutAppBtn.addEventListener('click', () => {
+            aboutModal.classList.add('active');
+        });
+        if (aboutModalCloseBtn) {
+            aboutModalCloseBtn.addEventListener('click', () => {
+                aboutModal.classList.remove('active');
+            });
+        }
+        if (aboutModalCloseFooterBtn) {
+            aboutModalCloseFooterBtn.addEventListener('click', () => {
+                aboutModal.classList.remove('active');
+            });
+        }
+        aboutModal.addEventListener('click', (e) => {
+            if (e.target === aboutModal) {
+                aboutModal.classList.remove('active');
+            }
+        });
+    }
+
     // Filter event listeners
     searchInput.addEventListener('input', renderVehicles);
     makeFilter.addEventListener('change', renderVehicles);
