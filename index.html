@@ -1,0 +1,421 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Texas Surplus Vehicle Inventory Dashboard</title>
+    <meta name="description" content="Dynamic vehicle inventory dashboard for the Texas State Surplus Store with NHTSA VIN decoding, safety recalls, EPA MPG ratings, and stock illustrations.">
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Outfit:wght@400;600;700;800&display=swap" rel="stylesheet">
+    <!-- FontAwesome Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body class="dark-theme">
+    <!-- Navbar / Header -->
+    <header class="app-header">
+        <div class="header-container">
+            <div class="brand-badge">
+                <div class="tx-flag-icon">
+                    <i class="fa-solid fa-star text-gold"></i>
+                </div>
+                <div>
+                    <h1 class="brand-title">Texas Surplus Vehicles</h1>
+                    <p class="brand-subtitle">State Surplus Store &bull; Austin, TX</p>
+                </div>
+            </div>
+            <div class="header-actions">
+                <button class="btn btn-primary" id="refresh-data-btn">
+                    <i class="fa-solid fa-arrows-rotate"></i> Sync Live Inventory
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <main class="main-container">
+        <!-- Published Timestamp Notice Banner -->
+        <section class="published-notice-card" id="published-notice-card">
+            <div class="notice-main-content">
+                <div class="notice-icon-wrapper">
+                    <i class="fa-solid fa-calendar-check"></i>
+                    <span class="live-pulse-dot" title="TFC Dynamic Document Link Active"></span>
+                </div>
+                <div class="notice-details">
+                    <div class="notice-header-row">
+                        <span class="notice-badge-pill"><i class="fa-solid fa-file-invoice"></i> TFC Inventory PDF Published</span>
+                    </div>
+                    <div class="notice-title">
+                        List Generated On: <span class="notice-datetime-highlight" id="banner-generated-time">July 22, 2026 at 10:29 AM CDT</span>
+                    </div>
+                    <p class="notice-subtitle">
+                        Decoded from dynamic TFC document link:
+                        <a href="https://web.tfc.texas.gov/home/showpublisheddocument/232/639203309514970000" id="banner-doc-link" target="_blank" rel="noopener" class="notice-link">
+                            <span id="banner-doc-link-text">https://web.tfc.texas.gov/home/showpublisheddocument/232/639203309514970000</span> <i class="fa-solid fa-up-right-from-square"></i>
+                        </a>
+                    </p>
+                </div>
+            </div>
+            <div class="notice-action">
+                <a href="Texas_State_Surplus_Vehicles.pdf" target="_blank" class="btn btn-sm btn-outline-glow">
+                    <i class="fa-solid fa-file-pdf"></i> View Source PDF
+                </a>
+            </div>
+        </section>
+
+        <!-- Hero Stats Banner -->
+        <section class="hero-stats">
+            <div class="stat-card">
+                <div class="stat-icon bg-blue">
+                    <i class="fa-solid fa-car-side"></i>
+                </div>
+                <div class="stat-info">
+                    <span class="stat-label">Active Listings</span>
+                    <span class="stat-value" id="stat-total-count">17</span>
+                </div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-icon bg-emerald">
+                    <i class="fa-solid fa-tag"></i>
+                </div>
+                <div class="stat-info">
+                    <span class="stat-label">Average Price</span>
+                    <span class="stat-value" id="stat-avg-price">$8,282</span>
+                </div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-icon bg-amber">
+                    <i class="fa-solid fa-gauge-high"></i>
+                </div>
+                <div class="stat-info">
+                    <span class="stat-label">Average Mileage</span>
+                    <span class="stat-value" id="stat-avg-mileage">155,758 mi</span>
+                </div>
+            </div>
+
+            <div class="stat-card">
+                <div class="stat-icon bg-purple">
+                    <i class="fa-solid fa-building-columns"></i>
+                </div>
+                <div class="stat-info">
+                    <span class="stat-label">Store Location</span>
+                    <span class="stat-value stat-small">6506 Bolm Rd, Austin</span>
+                </div>
+            </div>
+        </section>
+
+        <!-- Controls / Filters bar -->
+        <section class="filter-bar-container">
+            <div class="filter-bar">
+                <div class="search-box">
+                    <i class="fa-solid fa-magnifying-glass search-icon"></i>
+                    <input type="text" id="search-input" placeholder="Search by make, model, VIN, asset #..." autocomplete="off">
+                </div>
+                <div class="filter-group">
+                    <select id="make-filter" class="custom-select">
+                        <option value="ALL">All Makes</option>
+                        <option value="CHEVROLET">Chevrolet</option>
+                        <option value="FORD">Ford</option>
+                        <option value="RAM">RAM</option>
+                        <option value="DODGE">Dodge</option>
+                    </select>
+
+                    <select id="body-filter" class="custom-select">
+                        <option value="ALL">All Body Styles</option>
+                        <option value="SUV">SUV / Police Pursuit</option>
+                        <option value="Pickup">Pickup Truck</option>
+                        <option value="Sedan">Sedan / Interceptor</option>
+                    </select>
+
+                    <select id="sort-select" class="custom-select">
+                        <option value="price-asc">Price: Low to High</option>
+                        <option value="price-desc">Price: High to Low</option>
+                        <option value="mpg-desc">MPG: Highest First</option>
+                        <option value="mileage-asc">Mileage: Low to High</option>
+                        <option value="year-desc">Year: Newest First</option>
+                    </select>
+                </div>
+            </div>
+        </section>
+
+        <!-- Vehicle Inventory Grid -->
+        <section class="inventory-section">
+            <div class="section-header">
+                <h2 class="section-title">State Surplus Vehicle Inventory</h2>
+                <span class="results-badge" id="results-count">Showing 17 vehicles</span>
+            </div>
+            
+            <div class="vehicle-grid" id="vehicle-grid">
+                <!-- Vehicle cards populated dynamically -->
+            </div>
+        </section>
+    </main>
+
+    <!-- Detailed VIN Modal / Drawer -->
+    <div class="modal-backdrop" id="vin-modal">
+        <div class="modal-card">
+            <button class="modal-close-btn" id="modal-close-btn" aria-label="Close modal">
+                <i class="fa-solid fa-xmark"></i>
+            </button>
+            <div class="modal-header">
+                <div class="modal-badge-container">
+                    <span class="asset-badge" id="modal-asset-num">Asset #</span>
+                    <span class="status-chip"><i class="fa-solid fa-circle-check"></i> Surplus Inventory</span>
+                </div>
+                <h2 class="modal-title" id="modal-title">2020 Chevrolet Tahoe PPV</h2>
+                <p class="modal-subtitle" id="modal-vin-display">VIN: 1GNLCDEC7LR289643</p>
+            </div>
+            
+            <div class="modal-body">
+                <div class="modal-image-wrapper">
+                    <img id="modal-vehicle-img" src="" alt="Vehicle Illustration">
+                    <div class="price-overlay">
+                        <span class="modal-price" id="modal-price">$9,300</span>
+                    </div>
+                </div>
+
+                <div class="modal-specs-grid">
+                    <div class="spec-card">
+                        <div class="spec-card-icon"><i class="fa-solid fa-microchip"></i></div>
+                        <div class="spec-card-content">
+                            <span class="spec-card-label">Engine Specs</span>
+                            <span class="spec-card-val" id="modal-engine">5.3L V8 Engine</span>
+                        </div>
+                    </div>
+                    <div class="spec-card">
+                        <div class="spec-card-icon"><i class="fa-solid fa-leaf text-emerald"></i></div>
+                        <div class="spec-card-content">
+                            <span class="spec-card-label">Fuel Economy (EPA)</span>
+                            <span class="spec-card-val" id="modal-mpg">18 MPG Comb (15/22)</span>
+                        </div>
+                    </div>
+                    <div class="spec-card">
+                        <div class="spec-card-icon"><i class="fa-solid fa-gauge-high"></i></div>
+                        <div class="spec-card-content">
+                            <span class="spec-card-label">Odometer</span>
+                            <span class="spec-card-val" id="modal-mileage">163,160 miles</span>
+                        </div>
+                    </div>
+                    <div class="spec-card">
+                        <div class="spec-card-icon"><i class="fa-solid fa-gears"></i></div>
+                        <div class="spec-card-content">
+                            <span class="spec-card-label">Drivetrain</span>
+                            <span class="spec-card-val" id="modal-drivetrain">RWD / 4x2</span>
+                        </div>
+                    </div>
+                    <div class="spec-card">
+                        <div class="spec-card-icon"><i class="fa-solid fa-industry"></i></div>
+                        <div class="spec-card-content">
+                            <span class="spec-card-label">Assembly Plant</span>
+                            <span class="spec-card-val" id="modal-plant">Arlington, Texas, USA</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 1. NHTSA VIN Decoder Details Section (FIRST) -->
+                <div class="nhtsa-details-section">
+                    <h3 class="nhtsa-title"><i class="fa-solid fa-shield-halved"></i> NHTSA VIN Decoder Details</h3>
+                    <div class="nhtsa-table" id="nhtsa-table">
+                        <!-- NHTSA Key Values -->
+                    </div>
+                </div>
+
+                <!-- 2. Open Safety Recalls Section (SECOND) -->
+                <div class="recalls-section" id="recalls-section">
+                    <div class="recalls-header" id="recalls-header">
+                        <div class="recalls-header-title">
+                            <i class="fa-solid fa-triangle-exclamation text-amber"></i>
+                            <h3 id="recalls-header-text">NHTSA Safety Recalls Identified</h3>
+                        </div>
+                        <span class="recall-count-badge" id="recall-count-badge">0 Recalls</span>
+                    </div>
+                    <div class="recalls-list" id="recalls-list">
+                        <!-- Recalls cards rendered here -->
+                    </div>
+                </div>
+                <!-- 3. Edmunds Expert Review & KBB Valuation Section (THIRD) -->
+                <div class="expert-reviews-preview-section">
+                    <div class="expert-preview-header">
+                        <div>
+                            <h3><i class="fa-solid fa-star text-gold"></i> Edmunds Rating & KBB Market Value</h3>
+                            <p class="expert-preview-sub">Independent automotive reviews & used car market price comparisons</p>
+                        </div>
+                        <button class="btn btn-secondary btn-sm" id="view-full-review-btn">
+                            Full Details <i class="fa-solid fa-arrow-right"></i>
+                        </button>
+                    </div>
+
+                    <div class="expert-preview-cards">
+                        <div class="preview-mini-card">
+                            <div class="preview-mini-title">
+                                <span class="edmunds-tag">Edmunds</span>
+                                <span id="specs-edmunds-rating" class="rating-num">4.6 / 5</span>
+                            </div>
+                            <p id="specs-edmunds-summary" class="preview-mini-text">Loading Edmunds review...</p>
+                        </div>
+                        <div class="preview-mini-card">
+                            <div class="preview-mini-title">
+                                <span class="kbb-tag">KBB Market Value</span>
+                                <span id="specs-kbb-fair" class="kbb-fair-num">$14,800 Fair Value</span>
+                            </div>
+                            <p id="specs-kbb-savings" class="preview-mini-text text-emerald">Save $5,500 below KBB estimated value</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="modal-footer">
+                <button class="btn btn-outline" id="copy-vin-btn">
+                    <i class="fa-regular fa-copy"></i> Copy VIN
+                </button>
+                <a href="mailto:state.surplus@tfc.texas.gov?subject=Inquiry%20about%20Surplus%20Vehicle" class="btn btn-primary">
+                    <i class="fa-solid fa-envelope"></i> Contact Surplus Sales (Britt Davey)
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Expert Review & KBB Valuation Modal -->
+    <div class="modal-backdrop" id="review-modal">
+        <div class="modal-card modal-lg">
+            <button class="modal-close-btn" id="review-modal-close-btn" aria-label="Close modal">
+                <i class="fa-solid fa-xmark"></i>
+            </button>
+            <div class="modal-header">
+                <div class="modal-badge-container">
+                    <span class="review-source-chip edmunds-chip"><i class="fa-solid fa-award"></i> Edmunds Overview</span>
+                    <span class="review-source-chip kbb-chip"><i class="fa-solid fa-chart-line"></i> KBB Market Value</span>
+                </div>
+                <h2 class="modal-title" id="review-modal-title">2020 Chevrolet Tahoe PPV</h2>
+                <p class="modal-subtitle" id="review-modal-subtitle">Asset #405-516956 &bull; VIN: 1GNLCDEC7LR289643</p>
+            </div>
+            
+            <div class="modal-body">
+                <div class="review-dual-grid">
+                    <!-- Edmunds Review Card -->
+                    <div class="expert-card edmunds-card">
+                        <div class="expert-card-header">
+                            <div class="edmunds-brand">
+                                <span class="brand-logo-badge">edmunds</span>
+                                <div>
+                                    <h3 class="expert-section-title">Edmunds Overview</h3>
+                                    <span class="edmunds-rating-text" id="review-rating-text">Rating: 4.6 / 5 - Excellent</span>
+                                </div>
+                            </div>
+                            <div class="rating-stars" id="review-stars">
+                                <i class="fa-solid fa-star text-gold"></i>
+                                <i class="fa-solid fa-star text-gold"></i>
+                                <i class="fa-solid fa-star text-gold"></i>
+                                <i class="fa-solid fa-star text-gold"></i>
+                                <i class="fa-solid fa-star-half-stroke text-gold"></i>
+                            </div>
+                        </div>
+
+                        <div class="expert-summary-box">
+                            <p id="review-summary-text">Loading Edmunds review summary...</p>
+                        </div>
+
+                        <div class="pros-cons-grid">
+                            <div class="pros-box">
+                                <h4><i class="fa-solid fa-circle-check text-emerald"></i> Vehicle Pros</h4>
+                                <ul id="review-pros-list">
+                                    <!-- Pros items -->
+                                </ul>
+                            </div>
+                            <div class="cons-box">
+                                <h4><i class="fa-solid fa-circle-exclamation text-rose"></i> Vehicle Cons</h4>
+                                <ul id="review-cons-list">
+                                    <!-- Cons items -->
+                                </ul>
+                            </div>
+                        </div>
+
+                        <div class="verdict-banner">
+                            <i class="fa-solid fa-quote-left text-primary"></i>
+                            <span id="review-verdict-text">Edmunds Verdict loading...</span>
+                        </div>
+
+                        <a href="https://www.edmunds.com/" target="_blank" id="review-edmunds-link" class="external-link-btn">
+                            View on Edmunds.com <i class="fa-solid fa-up-right-from-square"></i>
+                        </a>
+                    </div>
+
+                    <!-- KBB Estimated Valuation Card -->
+                    <div class="expert-card kbb-card">
+                        <div class="expert-card-header">
+                            <div class="kbb-brand">
+                                <span class="kbb-logo-badge">KBB</span>
+                                <div>
+                                    <h3 class="expert-section-title">Kelley Blue Book Market Value</h3>
+                                    <span class="kbb-subtitle">Estimated Used Vehicle Market Value</span>
+                                </div>
+                            </div>
+                            <div class="savings-badge-pill" id="kbb-savings-pill">
+                                <i class="fa-solid fa-piggy-bank"></i> Save $5,500 vs KBB
+                            </div>
+                        </div>
+
+                        <div class="kbb-valuation-main">
+                            <div class="kbb-metric-row">
+                                <div class="kbb-metric">
+                                    <span class="kbb-metric-label">Surplus Asking Price</span>
+                                    <span class="kbb-metric-val surplus-price" id="kbb-surplus-price">$9,300</span>
+                                </div>
+                                <div class="kbb-vs-icon"><i class="fa-solid fa-arrows-left-right"></i></div>
+                                <div class="kbb-metric">
+                                    <span class="kbb-metric-label">KBB Fair Market Value</span>
+                                    <span class="kbb-metric-val kbb-fair-price" id="kbb-fair-price">$14,800</span>
+                                </div>
+                            </div>
+
+                            <div class="kbb-range-visual">
+                                <div class="range-labels">
+                                    <span>Est. Private Party: <strong id="kbb-range-min">$13,100</strong></span>
+                                    <span>Dealer Retail: <strong id="kbb-range-max">$16,500</strong></span>
+                                </div>
+                                <div class="range-bar-container">
+                                    <div class="range-bar-track"></div>
+                                    <div class="range-bar-fill" id="kbb-range-bar-fill"></div>
+                                </div>
+                            </div>
+
+                            <div class="kbb-details-grid">
+                                <div class="kbb-detail-item">
+                                    <span class="kbb-detail-label">Fair Purchase Price Range</span>
+                                    <span class="kbb-detail-val" id="kbb-price-range">$13,100 - $16,500</span>
+                                </div>
+                                <div class="kbb-detail-item">
+                                    <span class="kbb-detail-label">Suggested Retail Value</span>
+                                    <span class="kbb-detail-val" id="kbb-retail-val">$16,200</span>
+                                </div>
+                                <div class="kbb-detail-item">
+                                    <span class="kbb-detail-label">Surplus Price Advantage</span>
+                                    <span class="kbb-detail-val text-emerald" id="kbb-total-savings">37.2% ($5,500 off)</span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <a href="https://www.kbb.com/" target="_blank" id="kbb-official-link" class="external-link-btn kbb-btn">
+                            Check Price on KBB.com <i class="fa-solid fa-up-right-from-square"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="modal-footer">
+                <button class="btn btn-outline" id="review-close-footer-btn">
+                    <i class="fa-solid fa-xmark"></i> Close
+                </button>
+                <button class="btn btn-primary" id="review-switch-to-specs-btn">
+                    <i class="fa-solid fa-list-check"></i> View Full Specifications
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Script -->
+    <script src="app.js?v=2"></script>
+</body>
+</html>
+

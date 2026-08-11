@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 338" width="600" height="338">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#1e293b" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0284c7" />
+      <stop offset="100%" stop-color="#38bdf8" />
+    </linearGradient>
+  </defs>
+  
+  <rect width="600" height="338" fill="url(#bg)" />
+  
+  <!-- Subtle Grid Pattern -->
+  <path d="M0 50 H600 M0 100 H600 M0 150 H600 M0 200 H600 M0 250 H600 M0 300 H600" stroke="rgba(255,255,255,0.03)" stroke-width="1" />
+  <path d="M100 0 V338 M200 0 V338 M300 0 V338 M400 0 V338 M500 0 V338" stroke="rgba(255,255,255,0.03)" stroke-width="1" />
+  
+  <!-- Car Silhouette Icon -->
+  <g transform="translate(180, 70)" fill="url(#accent)" opacity="0.85">
+    <path d="M 30 90 L 60 50 L 150 40 L 190 90 Z" fill="none" stroke="url(#accent)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M 10 90 H 230 C 235 90 240 95 240 100 L 235 120 C 235 125 230 130 225 130 H 15 Z" fill="url(#accent)" opacity="0.2" />
+    <circle cx="60" cy="125" r="22" fill="#0f172a" stroke="url(#accent)" stroke-width="6" />
+    <circle cx="180" cy="125" r="22" fill="#0f172a" stroke="url(#accent)" stroke-width="6" />
+  </g>
+  
+  <!-- Vehicle Header Label -->
+  <rect x="30" y="220" width="120" height="24" rx="6" fill="#0284c7" opacity="0.2" />
+  <text x="40" y="236" font-family="sans-serif" font-size="12" font-weight="bold" fill="#0284c7">2022 FORD</text>
+  
+  <text x="30" y="275" font-family="sans-serif" font-size="24" font-weight="800" fill="#ffffff">F-150 SUPERCREW</text>
+  <text x="30" y="298" font-family="sans-serif" font-size="12" fill="#94a3b8">STOCK ILLUSTRATION &bull; TEXAS SURPLUS INVENTORY</text>
+</svg>

@@ -1,0 +1,20 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# System & OS Files
+.DS_Store
+Thumbs.db
+
+# Task & Temp Files
+*.log
+scratch/
+downloaded_document.bin

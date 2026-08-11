@@ -1,0 +1,1821 @@
+{
+  "generatedAt": {
+    "ticks": "639213517236230000",
+    "docUrl": "https://web.tfc.texas.gov/home/showpublisheddocument/232/639213517236230000",
+    "isoUtc": "2026-08-03T11:02:03.623000+00:00",
+    "formattedCentral": "August 03, 2026 at 06:02 AM CDT",
+    "formattedShort": "Aug 03, 2026, 06:02 AM",
+    "dateOnly": "August 03, 2026"
+  },
+  "vehicles": [
+    {
+      "assetNumber": "405-516956-01-001",
+      "description": "2016 RAM 1500 CREW CAB 2WD",
+      "vin": "3C6RR6KT8GG373839",
+      "mileage": 179465,
+      "salesPrice": 7300.0,
+      "specs": {
+        "Make": "RAM",
+        "Model": "1500",
+        "ModelYear": "2016",
+        "BodyClass": "Pickup",
+        "EngineCylinders": "8",
+        "DisplacementL": "5.7",
+        "EngineHP": "",
+        "FuelTypePrimary": "Gasoline",
+        "DriveType": "4x2",
+        "PlantCity": "SALTILLO",
+        "PlantState": "COAHUILA",
+        "PlantCountry": "MEXICO",
+        "VehicleType": "TRUCK",
+        "Manufacturer": "CHRYSLER DE MEXICO TOLUCA",
+        "Trim": "ST",
+        "Series": "",
+        "Aspiration": "Standard"
+      },
+      "recalls": {
+        "count": 17,
+        "items": [
+          {
+            "campaignNumber": "20V475000",
+            "component": "ENGINE AND ENGINE COOLING:ENGINE:DIESEL",
+            "summary": "Chrysler (FCA US LLC) is recalling certain 2014-2018 Ram 1500 and 2014-2016 Jeep Grand Cherokee vehicles equipped with 3.0L diesel engines.  The crankshaft position sensor tone wheel may delaminate causing the engine to lose its ability to synchronize the fuel injector pulses and cam shaft timing, possibly resulting in an engine stall.",
+            "consequence": "An engine stall can increase the risk of a crash.",
+            "remedy": "FCA US will notify owners, and dealers will update the powertrain control module software to maintain vehicle propulsion by reading the camshaft position signal in the event that the crankshaft position signal is lost, free of charge.  Owner notification letters were mailed on May 13, 2021.  Owners may contact FCA US customer service at 1-800-853-2002.  FCA US's number for this recall is W58.",
+            "date": "13/08/2020"
+          },
+          {
+            "campaignNumber": "19V347000",
+            "component": "LATCHES/LOCKS/LINKAGES:TAILGATE:LATCH",
+            "summary": "Chrysler (FCA US LLC) is recalling certain 2015-2017 Ram 1500, 2500 and 3500 pickup trucks equipped with an 8 foot bed and a power locking tailgate.  Chrysler is also recalling all 2013-2014 and 2018 Ram 1500, 2500 and 3500 pickup trucks built before April 1, 2018 with a 6 or 8 foot bed and a power locking tailgate.  On August 29, 2019 Chrysler expanded the recall to include an additional 693,128 model year 2013-2014 Ram 1500, 2500 and 3500 pickup trucks.  The tailgate actuator limiter tab may fracture and cause the tailgate to unlatch and open while driving.",
+            "consequence": "If the tailgate opens while the vehicle is being driven, cargo may fall out the vehicle and create a road hazard, increasing the risk of crash.",
+            "remedy": "Chrysler will notify owners, and dealers will repair the tailgate latch, free of charge.  The recall began May 23, 2019.  Chrysler is expected to notify owners of the expanded population on October 18, 2019.  Owners may contact FCA US customer service at 1-800-853-1403.  FCA US's number for this recall is V44.  Note: 2015-2017 MY Ram 1500 pickup trucks with truck beds other than 8 foot, are currently covered under NHTSA recall 18V-486 for this issue.",
+            "date": "09/05/2019"
+          },
+          {
+            "campaignNumber": "18V486000",
+            "component": "STRUCTURE:BODY:TAILGATE",
+            "summary": "Chrysler (FCA US LLC) is recalling certain 2015-2017 RAM 1500, 2500, and 3500 pickup trucks equipped with a power locking tailgate and either a 5 foot, 7 inch or 6 foot, 4 inch bed.  The tailgate actuator limiter tab may fracture and cause the tailgate to unlatch and open while driving.",
+            "consequence": "If the tailgate latch releases and the tailgate opens while driving, cargo may fall out, creating a road hazard and increasing the risk of a crash.",
+            "remedy": "Chrysler will notify owners, and dealers will repair the vehicle, free of charge.  The recall began September 17, 2018.  Owners may contact Chrysler customer service at 1-800-853-1403.  Chrysler's number for this recall is U74.",
+            "date": "27/07/2018"
+          },
+          {
+            "campaignNumber": "18V332000",
+            "component": "ELECTRICAL SYSTEM:WIRING",
+            "summary": "Chrysler (FCA US LLC) is recalling certain 2014-2018 Dodge Journey, Charger and Durango, RAM 2500, 3500, 3500 Cab Chassis (more than 10,000lb), 4500 Cab Chassis and 5500 Cab Chassis, Jeep Cherokee and Grand Cherokee and Chrysler 300, 2014-2019 RAM 1500, 2015-2018 Dodge Challenger, 2015-2017 Chrysler 200, 2016-2018 RAM 3500 Cab Chassis (less than 10,000 lb), 2017-2018 Chrysler Pacifica and 2018 Jeep Wrangler vehicles.  These vehicles are being recalled to address a defect that could prevent the cruise control system from disengaging.  If, when using cruise control, there is a short circuit within the vehicle's wiring, the driver may not be able to shut off the cruise control either by depressing the brake pedal or manually turning the system off once it has been engaged, resulting in either the vehicle maintaining its current speed or possibly accelerating.",
+            "consequence": "If the vehicle maintains its speed or accelerates despite attempts to deactivate the cruise control, there would be an increased risk of a crash.",
+            "remedy": "Chrysler will notify owners, and dealers will inspect the software, and perform a software flash on the engine or powertrain control module, free of charge.  The recall began June 4, 2018.  Owners may contact Chrysler customer service at 1-800-853-1403.  Note: Owners are advised to stop using cruise control until the software update has been performed.  In the event that cruise control cannot be disengaged while driving, owners should firmly and steadily apply the brakes and shift the transmission to neutral, placing the vehicle in park once it has stopped.",
+            "date": "17/05/2018"
+          },
+          {
+            "campaignNumber": "21V632000",
+            "component": "AIR BAGS:SIDE/WINDOW:CURTAIN:INFLATOR",
+            "summary": "Chrysler (FCA US, LLC) is recalling certain 2015-2020 Ram 1500 Classic, 2015-2016 Ram 3500, and Ram 2500 vehicles, and 2016 Ram 3500 Cab Chassis with a gross vehicle weight rating less than 10,000 lbs.  The side air bag inflatable curtain (SABIC) inflator end cap may detach from the inflator, or the inflator sidewall may rupture.",
+            "consequence": "A separated inflator end cap or inflator rupture can allow compressed gas to escape, resulting in the end cap or other components being propelled into the vehicle, increasing the risk of injury or crash.",
+            "remedy": "Dealers will inspect and replace as necessary, the SABIC assemblies, free of charge.  Interim owner notification letters were mailed on October 4, 2021.  Owner notification letters were mailed on May 26, 2022.  Owners may contact FCA US, LLC customer service at 1-800-853-1403.  FCA US, LLC's number for this recall is Y55.",
+            "date": "12/08/2021"
+          },
+          {
+            "campaignNumber": "19V757000",
+            "component": "ENGINE AND ENGINE COOLING:EXHAUST SYSTEM:EMISSION CONTROL:GAS RECIRCULATION VALVE (EGR VALVE)",
+            "summary": "Chrysler (FCA US LLC) is recalling certain 2014-2019 Ram 1500 and 1500 Classic Pickup trucks equipped with 3.0L Eco Diesel engines.  The Exhaust Gas Recirculation (EGR) cooler may crack and allow pre-heated vaporized coolant to enter the EGR system. This mixture may combust inside the intake manifold.",
+            "consequence": "Combustion in the intake manifold can increase the risk of a fire.",
+            "remedy": "Chrysler will notify owners, and dealers will replace the EGR cooler, free of charge.  Dealers will also inspect and, as necessary, replace the intake manifold.  The recall began April 16, 2020.  Owners may contact Chrysler customer service at 1-800-853-1403.  Chrysler's number for this recall is VB1.",
+            "date": "24/10/2019"
+          },
+          {
+            "campaignNumber": "17V821000",
+            "component": "POWER TRAIN:AUTOMATIC TRANSMISSION:LEVER AND LINKAGE:COLUMN SHIFT",
+            "summary": "Chrysler (FCA US LLC) is recalling certain 2016-2017 Ram 3500 Cab Chassis with a Gross Vehicle Weight Rating (GVWR) of less than 10,000 lbs, 2011-2017 Ram 3500, 4500 and 5500 Cab Chassis vehicles, 2009-2017 Ram 1500 and 2010-2017 Ram 2500 and 3500 pickup trucks, all equipped with a column shifter.  Pushing the brake pedal for prolonged periods when the vehicle is running and in PARK may cause the Brake Transmission Shift Interlock (BTSI) pin to stick in the open position.  With the pin in the open position, the transmission can be shifted out of PARK into any gear without pushing the brake pedal or having the key in the ignition.",
+            "consequence": "Being able to shift the transmission without pushing the brake pedal and/or without a key in the ignition can increase the risk of an unintended vehicle rollaway that may result in personal injury or a crash.",
+            "remedy": "Chrysler will notify owners, and dealers will update the vehicle software, inspect the BTSI, and, as necessary, replace it, free of charge. The recall began February 26, 2018.  Owners may contact Chrysler customer service at 1-800-853-1403.  Chrysler's number for this recall is T79.",
+            "date": "20/12/2017"
+          },
+          {
+            "campaignNumber": "17V198000",
+            "component": "POWER TRAIN:DRIVELINE:DIFFERENTIAL UNIT",
+            "summary": "Chrysler (FCA US LLC) is recalling certain 2016-2017 Ram 1500 trucks.  The differential pin retaining screw may come loose while driving, potentially causing the differential to break or lock up.",
+            "consequence": "A broken or locked up differential may result in a loss of motive power and possibly a loss of vehicle control.  Either scenario increases the risk of a crash.",
+            "remedy": "Chrysler will notify owners, and dealers will inspect and replace the differential retaining pin, free of charge.  The recall began April 24, 2017.  Owners may contact Chrysler customer service at 1-800-853-1403.  Chrysler's number for this recall is T20.",
+            "date": "23/03/2017"
+          },
+          {
+            "campaignNumber": "17V302000",
+            "component": "AIR BAGS",
+            "summary": "Chrysler (FCA US LLC) is recalling certain model year 2013-2016 Ram 1500, Ram 2500, and 2014-2016 Ram 3500 vehicles.  Certain driving conditions, such as driving off-road or debris striking the vehicle may cause the roll rate sensor to trigger a fault within the Occupant Restraint Controller (ORC).  If this fault occurs, the rollover side curtain air bag and the seat belt pretensioner will be disabled from deploying.",
+            "consequence": "If the rollover side curtain air bags and seat belt pretensioners are disabled, there is an increased risk of injury to the vehicle occupants in the event of a crash that necessitates activation of these safety systems.",
+            "remedy": "Chrysler will notify owners, and dealers will update the ORC software, free of charge.  The recall began June 26, 2017.  Owners may contact Chrysler customer service at 1-800-853-1403.  Chrysler's number for this recall is T25.",
+            "date": "09/05/2017"
+          },
+          {
+            "campaignNumber": "16V301000",
+            "component": "POWER TRAIN:AXLE ASSEMBLY:AXLE SHAFT",
+            "summary": "Chrysler (FCA US LLC) is recalling certain 2016 RAM 1500 trucks manufactured February 19, 2016, to March 3, 2016.  The front halfshafts may have been incorrectly manufactured causing them to fracture without warning.",
+            "consequence": "A fractured halfshaft may damage underbody components and create road debris, increasing the risk of a crash.",
+            "remedy": "Chrysler will notify owners, and dealers will replace both front halfshafts, free of charge. The recall began on July 5, 2016.  Owners may contact Chrysler customer service at 1-800-853-1403.  Chrysler's number for this recall is S32.",
+            "date": "16/05/2016"
+          },
+          {
+            "campaignNumber": "15V663000",
+            "component": "TIRES:TEMPORARY/EMERGENCY SPARE TIRE",
+            "summary": "Chrysler (FCA US LLC) is recalling certain model year 2016 Ram 1500 trucks with a 5.7L engine and dual exhaust manufactured August 3, 2015, to August 10, 2015.  The affected vehicles may be missing a heat shield for the spare tire.",
+            "consequence": "Without a heat shield, heat from the exhaust system may damage the spare tire.  When used, the damaged tire may have a tread separation or side wall rupture, resulting in a loss of control and an increased risk of a crash.",
+            "remedy": "Chrysler will notify owners, and dealers will install a spare tire heat shield if the vehicle is missing one.  Vehicles that have already been sold with an excess of 50 miles will also have their spare tires replaced.  These repairs will be performed free of charge.  The recall began on December 2, 2015.  Owners may contact Chrysler customer service at 1-800-853-1403.  Chrysler's number for this recall is R58.",
+            "date": "16/10/2015"
+          },
+          {
+            "campaignNumber": "15V661000",
+            "component": "POWER TRAIN:AXLE ASSEMBLY:AXLE SHAFT",
+            "summary": "Chrysler (FCA US LLC) is recalling certain model year 2015-2016 Ram 1500 trucks manufactured June 17, 2015, to September 28, 2015.  The affected vehicles may have been built with rear axles that were incorrectly heat treated.",
+            "consequence": "If the rear axle shaft was not properly heated treated, it may fracture and a wheel separation could occur, increasing the risk of a crash.",
+            "remedy": "Chrysler will notify owners, and dealers will inspect the vehicles and replace the axle assemblies, as necessary, free of charge.  The recall began on November 23, 2015.  Owners may contact Chrysler customer service at 1-800-853-1403.  Chrysler's number for this recall is R59.",
+            "date": "15/10/2015"
+          },
+          {
+            "campaignNumber": "16V167000",
+            "component": "STEERING:ELECTRIC POWER ASSIST SYSTEM",
+            "summary": "Chrysler (FCA US LLC) is recalling certain model year 2015-2016 Ram 1500 trucks manufactured January 22, 2015, to September 13, 2015.  Contamination on the Electric Power Steering (EPS) control circuit board may cause a short and result in the loss of power steering assist.",
+            "consequence": "If the vehicle experiences a loss of power steering assist, extra steering effort will be required, especially at lower speeds, increasing the risk of a vehicle crash.",
+            "remedy": "Chrysler will notify owners, and dealers will replace the EPS unit, free of charge.  The recall is expected to begin on May 16, 2016.  Owners may contact Chrysler customer service at 1-800-853-1403.  Chrysler's number for this recall is S19.",
+            "date": "23/03/2016"
+          },
+          {
+            "campaignNumber": "16E041000",
+            "component": "EQUIPMENT",
+            "summary": "Chrysler (FCA US LLC) is recalling aftermarket Mopar Canvas Seat Covers for certain 2012-2016 RAM 1500, 2500, and 3500 trucks.  These Mopar canvas seat covers were sold through Chrysler dealerships beginning October 15, 2015.  The seat covers can impede the deployment of the seat thorax airbags.",
+            "consequence": "If the seat cover impedes the air bag deployment, the seat thorax air bags may not provide adequate protection in the event of a crash, increasing the risk of a injury.",
+            "remedy": "Chrysler will notify owners to remove the front seat covers and return them for a full refund.  The recall began on July 1, 2016.  Owners may contact Chrysler customer service at 1-800-853-1403.  Chrysler's number for this recall is S30.",
+            "date": "16/05/2016"
+          },
+          {
+            "campaignNumber": "22V406000",
+            "component": "FUEL SYSTEM, DIESEL:DELIVERY:FUEL PUMP",
+            "summary": "Chrysler (FCA US, LLC) is recalling certain 2014-2020 Jeep Grand Cherokee, and 2014-2019 Ram 1500 vehicles equipped with 3.0L diesel engines.  A high pressure fuel pump (HPFP) failure may introduce internal debris into the fuel system, potentially resulting in fuel starvation.",
+            "consequence": "Fuel starvation may result in an unexpected loss of drive power, increasing the risk of a crash.",
+            "remedy": "Dealers will replace the HPFP, and inspect and replace, if necessary, additional fuel system components, free of charge.  Interim notification letters informing owners of the safety risk were mailed July 21, 2022.  Owner notification letters for were mailed for Jeep Grand Cherokee owners starting January 11, 2024.  Owner notification letters for Ram 1500 owners were mailed March 7, 2024.  Owners may contact FCA US, LLC customer service at 1-800-853-1403.  FCA US, LLS's number for this recall is Z46.",
+            "date": "09/06/2022"
+          },
+          {
+            "campaignNumber": "23V411000",
+            "component": "ENGINE AND ENGINE COOLING",
+            "summary": "Chrysler (FCA US, LLC) is recalling certain 2014-2019 Ram 1500 and 2014-2020 Jeep Grand Cherokee vehicles equipped with 3.0L Diesel engines.  The crankshaft position sensor tone wheel may delaminate, causing the engine to lose its ability to synchronize the fuel injector pulses and cam shaft timing, possibly resulting in an engine stall.",
+            "consequence": "An engine stall can increase the risk of a crash.",
+            "remedy": "Dealers will update the powertrain control module software to maintain vehicle propulsion, free of charge.  Interim notification letters, notifying owners of the safety risk, were mailed August 3, 2023.  Some owner notification letters were mailed October 31, 2023.  The remaining owner notification letters will be mailed at a future date, anticipated July 2024.  Owners may contact FCA US, LLC customer service at 1-800-853-1403.  FCA US, LLC's number for this recall is 66A.  This recall is an expansion of recall 20V-475.",
+            "date": "08/06/2023"
+          },
+          {
+            "campaignNumber": "25V010000",
+            "component": "AIR BAGS:SIDE/WINDOW:CURTAIN:INFLATOR",
+            "summary": "Chrysler (FCA US, LLC) is recalling certain 2016-2019 Ram 3500, Ram 1500, 2016-2020 Ram 2500, and 2016 Ram 3500 Cab Chassis vehicles.  The right and left side curtain air bag inflators may rupture due to a manufacturing defect.",
+            "consequence": "An inflator rupture may result in sharp metal fragments striking occupants, resulting in injury.",
+            "remedy": "Dealers will replace one or both side curtain air bags, as necessary, free of charge.  Owner notification letters were mailed February 13, 2025.  Owners may contact FCA customer service at 1-800-853-1403.  FCA's numbers for this recall are 05C, 09C, and 10C.",
+            "date": "16/01/2025"
+          }
+        ]
+      },
+      "mpg": {
+        "city": 15,
+        "hwy": 22,
+        "combined": 17
+      },
+      "image": "images/ram_1500.jpg",
+      "edmundsReview": {
+        "rating": 4.5,
+        "ratingText": "Edmunds Rating: 4.5 / 5 - Outstanding",
+        "summary": "The 2016 RAM 1500 stands out in the full-size pickup class thanks to its ultra-smooth coil-spring rear suspension, quiet and luxurious cabin, and muscular 5.7L Hemi V8 engine.",
+        "pros": [
+          "Unique coil-spring rear suspension delivers the smoothest ride quality in its class",
+          "Powerful 5.7L Hemi V8 with smooth 8-speed automatic transmission",
+          "Quiet, upscale interior with intuitive Uconnect 8.4 touchscreen",
+          "Lockable RamBox bedside storage bins add great utility"
+        ],
+        "cons": [
+          "Maximum towing capacity falls slightly behind Ford/Chevy class leaders",
+          "Rotary gear-selector dial takes time to get used to"
+        ],
+        "verdict": "An exceptional full-size truck for daily driving and long-distance hauling with best-in-class ride comfort.",
+        "url": "https://www.edmunds.com/ram/1500/2016/review/"
+      },
+      "kbbValuation": {
+        "fairPurchasePrice": 9319,
+        "formattedFairPrice": "$9,319",
+        "priceRange": "$8,200 - $10,437",
+        "privatePartyValue": 8573,
+        "suggestedRetail": 10250,
+        "savingsVsKbb": 2019,
+        "savingsPct": 21.7,
+        "formattedSavings": "$2,019",
+        "url": "https://www.kbb.com/ram/1500-crew-cab/2016/"
+      }
+    },
+    {
+      "assetNumber": "405-517056-01-001",
+      "description": "2016 INTERCEPTOR TAURUS AWD",
+      "vin": "1FAHP2MK6GG145332",
+      "mileage": 144929,
+      "salesPrice": 3800.0,
+      "specs": {
+        "Make": "FORD",
+        "Model": "Taurus",
+        "ModelYear": "2016",
+        "BodyClass": "Sedan/Saloon",
+        "EngineCylinders": "6",
+        "DisplacementL": "3.7",
+        "EngineHP": "",
+        "FuelTypePrimary": "Gasoline",
+        "DriveType": "AWD/All-Wheel Drive",
+        "PlantCity": "CHICAGO",
+        "PlantState": "ILLINOIS",
+        "PlantCountry": "UNITED STATES (USA)",
+        "VehicleType": "PASSENGER CAR",
+        "Manufacturer": "FORD MOTOR COMPANY",
+        "Trim": "Police",
+        "Series": "",
+        "Aspiration": "Standard"
+      },
+      "recalls": {
+        "count": 4,
+        "items": [
+          {
+            "campaignNumber": "16V925000",
+            "component": "ENGINE AND ENGINE COOLING:ENGINE:GASOLINE:TURBO/SUPERCHARGER",
+            "summary": "Ford Motor Company (Ford) is recalling certain model year 2016 Ford Taurus, 2016-2017 Ford Flex, Lincoln MKT, 2017 Ford Explorer and Ford Explorer Police Interceptor Utility vehicles equipped with 3.5L GTDI engines.  Improperly brazed turbocharger oil supply tubes may leak oil on engine components.",
+            "consequence": "An oil leak, in the presence of an ignition source, increases the risk of a fire.",
+            "remedy": "Ford will notify owners, and dealers will inspect, and if necessary, replace the turbocharger oil supply tubes, free of charge.  The recall began on January 31, 2017.  Owners may contact Ford customer service at 1-866-436-7332.  Ford's number for this recall is 16S46.",
+            "date": "22/12/2016"
+          },
+          {
+            "campaignNumber": "20V072000",
+            "component": "SUSPENSION:REAR",
+            "summary": "Ford Motor Company (Ford) is recalling certain 2013-2018 Lincoln MKT and Ford Flex and Taurus vehicles with the Police Interceptor or SHO Performance Pack.  The rear suspension toe links may fracture due to stress on the rear suspension.",
+            "consequence": "A fractured rear toe link will cause a sudden change in vehicle handling and increase the risk of a crash.",
+            "remedy": "Ford will notify owners, and dealers will replace the rear suspension toe links, free of charge.  Remedy parts are not currently available.  Owners were notified about the recall on March 3, 2020.  A second notice will be mailed when remedy parts become available, which is currently expected to be the end of September 2020. The recall began October 28, 2020.  Owners may contact Ford customer service at 1-866-436-7332 or Lincoln customer service at 1-800-521-4140.  Ford's number for this recall is 20S04.",
+            "date": "10/02/2020"
+          },
+          {
+            "campaignNumber": "25V611000",
+            "component": "STRUCTURE:EXTERIOR TRIM",
+            "summary": "Ford Motor Company (Ford) is recalling certain 2016-2019 Taurus vehicles. The driver and front passenger B-Pillar door trim may detach while driving.",
+            "consequence": "Door trim that detaches while driving can create a road hazard, increasing the risk of a crash.",
+            "remedy": "Dealers will repair or replace the B-pillar trim as necessary, free of charge. Owner notification letters were mailed February 20, 2026. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 25S91.",
+            "date": "12/09/2025"
+          },
+          {
+            "campaignNumber": "25V695000",
+            "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+            "summary": "Ford Motor Company (Ford) is recalling certain 2015-2019 Flex, 2015 Explorer, Lincoln MKT,  Lincoln MKZ, 2015-2016 C-Max, Escape, Taurus, 2016 Fusion, 2018-2019 Taurus, 2019 Lincoln MKT, Fiesta, and 2020 Mustang vehicles.  The rearview camera may display a distorted,  intermittent, or blank image when the vehicle is in reverse.",
+            "consequence": "A rearview camera that fails to properly display an image can reduce the driver\u2019s view behind the vehicle, increasing the risk of a crash.",
+            "remedy": "Dealers will inspect and replace the rearview camera as necessary, free of charge. This will be a phased campaign, with the remedy becoming available in different phases based on model and model years. Interim letters notifying owners of the safety risk were mailed on October 25, 2025. Additional letters will be mailed once the final remedy is available on each phase. Mustang owner notification letters were mailed January 2, 2026. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 25SA9. Vehicle Identification Numbers (VINs) involved in this recall became searchable on NHTSA.gov on October 14, 2025.",
+            "date": "13/10/2025"
+          }
+        ]
+      },
+      "mpg": {
+        "city": 16,
+        "hwy": 23,
+        "combined": 18
+      },
+      "image": "images/ford_taurus.jpg",
+      "edmundsReview": {
+        "rating": 4.2,
+        "ratingText": "Edmunds Rating: 4.2 / 5 - Very Good",
+        "summary": "The Ford Police Interceptor Sedan (built on the Taurus platform) offers heavy-duty high-speed stability, standard All-Wheel Drive, and robust fleet engineering designed for severe service.",
+        "pros": [
+          "Standard Intelligent AWD provides exceptional all-weather traction and handling",
+          "Heavy-duty police suspension, high-capacity cooling, and reinforced brakes",
+          "Quiet front cabin with heavy-duty police pursuit calibration",
+          "Strong crash safety ratings and sturdy body structure"
+        ],
+        "cons": [
+          "Thick roof pillars restrict rearward blind-spot visibility",
+          "Rear seat legroom is somewhat limited relative to large exterior dimensions"
+        ],
+        "verdict": "A tough, high-performance AWD sedan offering pursuit-grade mechanicals at an unbeatable surplus price point.",
+        "url": "https://www.edmunds.com/ford/taurus/2016/review/"
+      },
+      "kbbValuation": {
+        "fairPurchasePrice": 7427,
+        "formattedFairPrice": "$7,427",
+        "priceRange": "$6,535 - $8,318",
+        "privatePartyValue": 6832,
+        "suggestedRetail": 8169,
+        "savingsVsKbb": 3627,
+        "savingsPct": 48.8,
+        "formattedSavings": "$3,627",
+        "url": "https://www.kbb.com/ford/taurus/2018/"
+      }
+    },
+    {
+      "assetNumber": "405-525446-01-001",
+      "description": "2018 FORD INTERCEPTOR SEDAN",
+      "vin": "1FAHP2MK2JG103330",
+      "mileage": 150291,
+      "salesPrice": 5700.0,
+      "specs": {
+        "Make": "FORD",
+        "Model": "Taurus",
+        "ModelYear": "2018",
+        "BodyClass": "Sedan/Saloon",
+        "EngineCylinders": "6",
+        "DisplacementL": "3.7",
+        "EngineHP": "305",
+        "FuelTypePrimary": "Gasoline",
+        "DriveType": "AWD/All-Wheel Drive",
+        "PlantCity": "CHICAGO",
+        "PlantState": "ILLINOIS",
+        "PlantCountry": "UNITED STATES (USA)",
+        "VehicleType": "PASSENGER CAR",
+        "Manufacturer": "FORD MOTOR COMPANY",
+        "Trim": "Police AWD",
+        "Series": "",
+        "Aspiration": "Standard"
+      },
+      "recalls": {
+        "count": 4,
+        "items": [
+          {
+            "campaignNumber": "18V141000",
+            "component": "ELECTRICAL SYSTEM:IGNITION",
+            "summary": "Ford Motor Company (Ford) is recalling certain 2017-2018 Ford Taurus vehicles equipped with mechanical key ignition systems.  The keys for these vehicles may be able to be removed from the ignition when transmission is not in the PARK position.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard (FMVSS) number 114, \"Theft Protection.\"",
+            "consequence": "If the key is removed from the ignition while the vehicle is not in the PARK position and the parking brake is not applied, the vehicle may roll away, increasing the risk of a crash.",
+            "remedy": "Ford will notify owners, and dealers will replace the shifter assembly, free of charge.  The recall began May 11, 2018.  Owners may contact Ford customer service at 1-866-436-7332.  Ford's number for this recall is 18C02.",
+            "date": "01/03/2018"
+          },
+          {
+            "campaignNumber": "20V072000",
+            "component": "SUSPENSION:REAR",
+            "summary": "Ford Motor Company (Ford) is recalling certain 2013-2018 Lincoln MKT and Ford Flex and Taurus vehicles with the Police Interceptor or SHO Performance Pack.  The rear suspension toe links may fracture due to stress on the rear suspension.",
+            "consequence": "A fractured rear toe link will cause a sudden change in vehicle handling and increase the risk of a crash.",
+            "remedy": "Ford will notify owners, and dealers will replace the rear suspension toe links, free of charge.  Remedy parts are not currently available.  Owners were notified about the recall on March 3, 2020.  A second notice will be mailed when remedy parts become available, which is currently expected to be the end of September 2020. The recall began October 28, 2020.  Owners may contact Ford customer service at 1-866-436-7332 or Lincoln customer service at 1-800-521-4140.  Ford's number for this recall is 20S04.",
+            "date": "10/02/2020"
+          },
+          {
+            "campaignNumber": "25V611000",
+            "component": "STRUCTURE:EXTERIOR TRIM",
+            "summary": "Ford Motor Company (Ford) is recalling certain 2016-2019 Taurus vehicles. The driver and front passenger B-Pillar door trim may detach while driving.",
+            "consequence": "Door trim that detaches while driving can create a road hazard, increasing the risk of a crash.",
+            "remedy": "Dealers will repair or replace the B-pillar trim as necessary, free of charge. Owner notification letters were mailed February 20, 2026. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 25S91.",
+            "date": "12/09/2025"
+          },
+          {
+            "campaignNumber": "25V695000",
+            "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+            "summary": "Ford Motor Company (Ford) is recalling certain 2015-2019 Flex, 2015 Explorer, Lincoln MKT,  Lincoln MKZ, 2015-2016 C-Max, Escape, Taurus, 2016 Fusion, 2018-2019 Taurus, 2019 Lincoln MKT, Fiesta, and 2020 Mustang vehicles.  The rearview camera may display a distorted,  intermittent, or blank image when the vehicle is in reverse.",
+            "consequence": "A rearview camera that fails to properly display an image can reduce the driver\u2019s view behind the vehicle, increasing the risk of a crash.",
+            "remedy": "Dealers will inspect and replace the rearview camera as necessary, free of charge. This will be a phased campaign, with the remedy becoming available in different phases based on model and model years. Interim letters notifying owners of the safety risk were mailed on October 25, 2025. Additional letters will be mailed once the final remedy is available on each phase. Mustang owner notification letters were mailed January 2, 2026. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 25SA9. Vehicle Identification Numbers (VINs) involved in this recall became searchable on NHTSA.gov on October 14, 2025.",
+            "date": "13/10/2025"
+          }
+        ]
+      },
+      "mpg": {
+        "city": 16,
+        "hwy": 23,
+        "combined": 18
+      },
+      "image": "images/ford_taurus.jpg",
+      "edmundsReview": {
+        "rating": 4.2,
+        "ratingText": "Edmunds Rating: 4.2 / 5 - Very Good",
+        "summary": "The Ford Police Interceptor Sedan (built on the Taurus platform) offers heavy-duty high-speed stability, standard All-Wheel Drive, and robust fleet engineering designed for severe service.",
+        "pros": [
+          "Standard Intelligent AWD provides exceptional all-weather traction and handling",
+          "Heavy-duty police suspension, high-capacity cooling, and reinforced brakes",
+          "Quiet front cabin with heavy-duty police pursuit calibration",
+          "Strong crash safety ratings and sturdy body structure"
+        ],
+        "cons": [
+          "Thick roof pillars restrict rearward blind-spot visibility",
+          "Rear seat legroom is somewhat limited relative to large exterior dimensions"
+        ],
+        "verdict": "A tough, high-performance AWD sedan offering pursuit-grade mechanicals at an unbeatable surplus price point.",
+        "url": "https://www.edmunds.com/ford/taurus/2016/review/"
+      },
+      "kbbValuation": {
+        "fairPurchasePrice": 7739,
+        "formattedFairPrice": "$7,739",
+        "priceRange": "$6,810 - $8,667",
+        "privatePartyValue": 7119,
+        "suggestedRetail": 8512,
+        "savingsVsKbb": 2039,
+        "savingsPct": 26.3,
+        "formattedSavings": "$2,039",
+        "url": "https://www.kbb.com/ford/taurus/2018/"
+      }
+    },
+    {
+      "assetNumber": "405-526118-01-001",
+      "description": "2019 CHEVROLET TAHOE PPV",
+      "vin": "1GNLCDEC9KR251362",
+      "mileage": 187086,
+      "salesPrice": 9700.0,
+      "specs": {
+        "Make": "CHEVROLET",
+        "Model": "Tahoe",
+        "ModelYear": "2019",
+        "BodyClass": "Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV]",
+        "EngineCylinders": "8",
+        "DisplacementL": "5.3",
+        "EngineHP": "",
+        "FuelTypePrimary": "Gasoline",
+        "DriveType": "4x2",
+        "PlantCity": "ARLINGTON",
+        "PlantState": "TEXAS",
+        "PlantCountry": "UNITED STATES (USA)",
+        "VehicleType": "MULTIPURPOSE PASSENGER VEHICLE (MPV)",
+        "Manufacturer": "GENERAL MOTORS LLC",
+        "Trim": "Police Vehicle",
+        "Series": "",
+        "Aspiration": "Standard"
+      },
+      "recalls": {
+        "count": 2,
+        "items": [
+          {
+            "campaignNumber": "19V761000",
+            "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:WHEEL SPEED SENSOR/TONE RING",
+            "summary": "General Motors LLC (GM) is recalling certain 2015-2020 Chevrolet Suburban, Tahoe, and GMC Yukon, and 2014-2018 Chevrolet Silverado 1500 and GMC Sierra 1500 vehicles equipped with a 5.3-liter engine, a 3.08-ratio rear axle and four-wheel drive.  If a wheel-speed sensor fails, while the vehicle is traveling between 41 and 60 mph in four-wheel or automatic mode, the Electronic-Brake Control Module (EBCM) software may activate the driveline-protection system.",
+            "consequence": "Unintended activation of the driveline-protection system will cause unintended braking on the wheel on the opposite side of the failed sensor, causing the vehicle to pull to one side unexpectedly, increasing the risk of a crash.",
+            "remedy": "GM will notify owners, and dealers will reprogram the EBCM, free of charge.  The recall began December 11, 2019.  Owners may contact Chevrolet customer service at 1-800-630-2438 or GMC customer service at 1-800-462-8782.  GM's number for this recall is N192261050.",
+            "date": "24/10/2019"
+          },
+          {
+            "campaignNumber": "26V289000",
+            "component": "POWER TRAIN:TRANSFER CASE (4-WHEEL DRIVE)",
+            "summary": "General Motors, LLC (GM) is recalling certain 2026 Cadillac Escalade and Escalade ESV, Chevrolet Silverado 1500, Suburban, and Tahoe, and GMC Sierra 1500, Yukon, and Yukon XL vehicles with four-wheel (4WD) or all-wheel drive (AWD), and certain 2015-2020 Suburban, Escalade, Escalade ESV, Yukon, Yukon XL, and Tahoe vehicles. A component missing from the drivetrain transfer case may cause the front and/or rear wheels to lock up without warning to the driver.",
+            "consequence": "Front or rear wheel lockup increases the risk of a crash.",
+            "remedy": "Owners are advised not to drive their vehicle until the remedy is completed. Dealers will inspect and, if necessary, replace the transfer case assembly, free of charge. Owner notification letters were mailed May 18, 2026. Owners may contact GMC customer service at 1-800-462-8782, Chevrolet customer service at 1-800-222-1020 or Cadillac customer service at 1-800-333-4223.  GM's number for this recall is N262557620. Vehicle Identification Numbers (VINs) involved in this recall became searchable on NHTSA.gov on May 7, 2026.",
+            "date": "07/05/2026"
+          }
+        ]
+      },
+      "mpg": {
+        "city": 15,
+        "hwy": 22,
+        "combined": 18
+      },
+      "image": "images/chevrolet_tahoe.jpg",
+      "edmundsReview": {
+        "rating": 4.6,
+        "ratingText": "Edmunds Rating: 4.6 / 5 - Excellent",
+        "summary": "The Chevrolet Tahoe PPV (Police Pursuit Vehicle) combines a commanding 5.3L V8 engine, heavy-duty pursuit suspension, lower ride height for high-speed stability, and massive cargo capability.",
+        "pros": [
+          "Robust 5.3L EcoTec3 V8 delivers confident acceleration and high towing capability",
+          "PPV pursuit package includes upgraded oil coolers, heavy-duty brakes, and lowered suspension",
+          "Extremely spacious cabin with versatile cargo storage capacity",
+          "Quiet high-speed cruising with impressive highway stability"
+        ],
+        "cons": [
+          "Solid rear axle can feel firm over severe bumps",
+          "Cargo floor is somewhat high due to fold-flat seating design"
+        ],
+        "verdict": "The gold standard for full-size utility vehicles \u2014 rugged, powerful, and built to handle harsh conditions.",
+        "url": "https://www.edmunds.com/chevrolet/tahoe/2020/review/"
+      },
+      "kbbValuation": {
+        "fairPurchasePrice": 13852,
+        "formattedFairPrice": "$13,852",
+        "priceRange": "$12,189 - $15,514",
+        "privatePartyValue": 12743,
+        "suggestedRetail": 15237,
+        "savingsVsKbb": 4152,
+        "savingsPct": 30.0,
+        "formattedSavings": "$4,152",
+        "url": "https://www.kbb.com/chevrolet/tahoe/2020/"
+      }
+    },
+    {
+      "assetNumber": "405-526236-01-001",
+      "description": "2019 Ford Explorer",
+      "vin": "1FM5K8AR6KGB24257",
+      "mileage": 173190,
+      "salesPrice": 6400.0,
+      "specs": {
+        "Make": "FORD",
+        "Model": "Explorer",
+        "ModelYear": "2019",
+        "BodyClass": "Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV]",
+        "EngineCylinders": "6",
+        "DisplacementL": "3.7",
+        "EngineHP": "304",
+        "FuelTypePrimary": "Gasoline",
+        "DriveType": "4WD/4-Wheel Drive/4x4",
+        "PlantCity": "CHICAGO",
+        "PlantState": "ILLINOIS",
+        "PlantCountry": "UNITED STATES (USA)",
+        "VehicleType": "MULTIPURPOSE PASSENGER VEHICLE (MPV)",
+        "Manufacturer": "FORD MOTOR COMPANY",
+        "Trim": "Police",
+        "Series": "",
+        "Aspiration": "Standard"
+      },
+      "recalls": {
+        "count": 6,
+        "items": [
+          {
+            "campaignNumber": "21V316000",
+            "component": "STRUCTURE:BODY",
+            "summary": "Ford Motor Company (Ford) is recalling certain 2016-2019 Explorer vehicles.  The retention pins could loosen and allow the roof rail covers to detach from the vehicle.",
+            "consequence": "A detached roof rail cover can create a road hazard, increasing the risk of a crash.",
+            "remedy": "Dealers will install push-pins and replace any damaged rail clips and roof rail covers, as necessary, free of charge.  The interim owner notification letter was mailed on June 22, 2021.  Owner notification letters (remedy available) were mailed on October 1, 2021.  Owners may contact Ford customer service at 1-866-436-7332.  Ford's number for this recall is 21S22.",
+            "date": "05/05/2021"
+          },
+          {
+            "campaignNumber": "19V633000",
+            "component": "SEATS:FRONT ASSEMBLY:RECLINER",
+            "summary": "Ford Motor Company (Ford) is recalling certain 2018-2020 F-150 and 2019-2020 F-250, F-350, F-450, and F-550 Super Duty pickup trucks, and 2018-2019 Ford Explorer, 2019-2020 Expedition, and 2020 Escape vehicles equipped with driver and/or passenger's manual front seat back recliner mechanisms.  Also included are certain 2020 Ford Explorer and Lincoln Aviator vehicles equipped with rear outboard seats and manual seat back recliner mechanisms.  The recliner mechanisms may be missing the third pawl required for seat back strength, resulting in a loose seat back.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard (FMVSS) numbers 202, \"Head Restraints\" and 207, \"Seating Systems.\"",
+            "consequence": "A seat back with an improperly assembled recliner mechanism may have reduced strength and may not adequately restrain an occupant in a crash, increasing the risk of injury.",
+            "remedy": "Ford will notify owners, and Ford and Lincoln dealers will inspect the seat structure and replace them, as necessary, free of charge.  The recall began October 21, 2019.  Owners may contact Ford customer service at 1-866-436-7332.  Ford's number for this recall is 19C07.",
+            "date": "28/08/2019"
+          },
+          {
+            "campaignNumber": "24V031000",
+            "component": "STRUCTURE:BODY:ROOF AND PILLARS",
+            "summary": "Ford Motor Company (Ford) is recalling certain 2011-2019 Explorer vehicles.  The A-pillar trim retention clips may not be properly engaged, allowing the trim to detach.",
+            "consequence": "A detached trim piece can fall off the vehicle, becoming a road hazard and increasing the risk of a crash.",
+            "remedy": "Dealers will inspect and replace the A-pillar trim as necessary, free of charge. This will be a phased campaign, with the remedy becoming available in different phases based on model years. Owner notification letters were mailed between July 18, 2024 and December 16, 2025. Owners may contact Ford customer service at 1-866-436-7332.  Ford's number for this recall is 24S02.",
+            "date": "19/01/2024"
+          },
+          {
+            "campaignNumber": "26V012000",
+            "component": "EQUIPMENT:ELECTRICAL:ENGINE BLOCK HEATER",
+            "summary": "Ford Motor Company (Ford) is recalling certain 2016-2018 Focus, 2019 Explorer, and 2024 Explorer vehicles. The engine block heater may crack and develop a coolant leak, causing it to short circuit when the block heater is plugged in.",
+            "consequence": "An electrical short circuit can increase the risk of a fire.",
+            "remedy": "Owners are advised not to plug in their block heater until the vehicle is remedied. Dealers will replace the block heater, free of charge. Owners will also have a alternative option to replace engine block heater element with a threaded blanking plug, and remove the block heater electrical cord. Interim letters, notifying owners of the safety risk, were mailed February 13, 2026. Additional letters will be sent once the final remedy is available, anticipated in October 2026. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 25SA4. Vehicle Identification Numbers (VINs) involved in this recall became searchable on NHTSA.gov on January 16, 2026. This recall expands previous recall number 25V685.",
+            "date": "15/01/2026"
+          },
+          {
+            "campaignNumber": "26V101000",
+            "component": "SUSPENSION:REAR",
+            "summary": "Ford Motor Company (Ford) is recalling certain 2017-2019 Explorer vehicles. The rear suspension toe links may fracture.",
+            "consequence": "A rear toe link fracture can result in a loss of steering control, increasing the risk of a crash.",
+            "remedy": "Dealers will replace the toe links, free of charge. Owner notification letters were mailed on March 16, 2026. Owners may contact Ford Customer Service at 1-866-436-7332. Ford's number for this recall is 26S08. This recall is an expansion of previous NHTSA recall number 21V537. Vehicle Identification Numbers (VINs) involved in this recall will be searchable on NHTSA.gov beginning February 25, 2026.",
+            "date": "20/02/2026"
+          },
+          {
+            "campaignNumber": "26V448000",
+            "component": "STRUCTURE:BODY",
+            "summary": "Ford Motor Company (Ford) is recalling certain 2016-2019 Explorer vehicles. The roof rail covers may come loose and detach from the vehicle.",
+            "consequence": "A detached roof rail cover can create a road hazard, increasing the risk of a crash.",
+            "remedy": "Dealers will inspect the roof rail covers and as necessary, repair or replace the push-pins, rail clips, or roof rail covers, free of charge. Interim letters, notifying owners of the safety risk, are expected to be mailed August 24, 2026. Additional letters will be sent once the remedy is available, anticipated in September 2026. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 26S54. This recall expands previous NHTSA recall number 21V316. Vehicle Identification Numbers (VINs) involved in this recall became searchable on NHTSA.gov on July 16, 2026.",
+            "date": "14/07/2026"
+          }
+        ]
+      },
+      "mpg": {
+        "city": 16,
+        "hwy": 22,
+        "combined": 18
+      },
+      "image": "images/ford_explorer.jpg",
+      "edmundsReview": {
+        "rating": 4.3,
+        "ratingText": "Edmunds Rating: 4.3 / 5 - Excellent",
+        "summary": "The Ford Police Interceptor Utility (Explorer chassis) is renowned for its versatile AWD system, pursuit-tuned suspension, roomy interior, and balanced 3.7L V6 performance.",
+        "pros": [
+          "Standard Intelligent AWD provides excellent wet and winter weather capability",
+          "Refined ride quality with heavy-duty police pursuit cooling and suspension upgrades",
+          "Spacious front cabin with durable law-enforcement interior materials",
+          "Solid towing and cargo capacity for active state agency use"
+        ],
+        "cons": [
+          "Wide front pillars can block side cornering view",
+          "Infotainment screen is basic on utility fleet models"
+        ],
+        "verdict": "One of the most capable and popular utility vehicles in public service, offering all-weather versatility and reliability.",
+        "url": "https://www.edmunds.com/ford/explorer/2019/review/"
+      },
+      "kbbValuation": {
+        "fairPurchasePrice": 10539,
+        "formattedFairPrice": "$10,539",
+        "priceRange": "$9,274 - $11,803",
+        "privatePartyValue": 9695,
+        "suggestedRetail": 11592,
+        "savingsVsKbb": 4139,
+        "savingsPct": 39.3,
+        "formattedSavings": "$4,139",
+        "url": "https://www.kbb.com/ford/explorer/2019/"
+      }
+    },
+    {
+      "assetNumber": "405-526243-01-001",
+      "description": "2019 FORD EXPLORER INTERCEPTOR",
+      "vin": "1FM5K8AR3KGB24264",
+      "mileage": 164532,
+      "salesPrice": 7000.0,
+      "specs": {
+        "Make": "FORD",
+        "Model": "Explorer",
+        "ModelYear": "2019",
+        "BodyClass": "Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV]",
+        "EngineCylinders": "6",
+        "DisplacementL": "3.7",
+        "EngineHP": "304",
+        "FuelTypePrimary": "Gasoline",
+        "DriveType": "4WD/4-Wheel Drive/4x4",
+        "PlantCity": "CHICAGO",
+        "PlantState": "ILLINOIS",
+        "PlantCountry": "UNITED STATES (USA)",
+        "VehicleType": "MULTIPURPOSE PASSENGER VEHICLE (MPV)",
+        "Manufacturer": "FORD MOTOR COMPANY",
+        "Trim": "Police",
+        "Series": "",
+        "Aspiration": "Standard"
+      },
+      "recalls": {
+        "count": 6,
+        "items": [
+          {
+            "campaignNumber": "21V316000",
+            "component": "STRUCTURE:BODY",
+            "summary": "Ford Motor Company (Ford) is recalling certain 2016-2019 Explorer vehicles.  The retention pins could loosen and allow the roof rail covers to detach from the vehicle.",
+            "consequence": "A detached roof rail cover can create a road hazard, increasing the risk of a crash.",
+            "remedy": "Dealers will install push-pins and replace any damaged rail clips and roof rail covers, as necessary, free of charge.  The interim owner notification letter was mailed on June 22, 2021.  Owner notification letters (remedy available) were mailed on October 1, 2021.  Owners may contact Ford customer service at 1-866-436-7332.  Ford's number for this recall is 21S22.",
+            "date": "05/05/2021"
+          },
+          {
+            "campaignNumber": "19V633000",
+            "component": "SEATS:FRONT ASSEMBLY:RECLINER",
+            "summary": "Ford Motor Company (Ford) is recalling certain 2018-2020 F-150 and 2019-2020 F-250, F-350, F-450, and F-550 Super Duty pickup trucks, and 2018-2019 Ford Explorer, 2019-2020 Expedition, and 2020 Escape vehicles equipped with driver and/or passenger's manual front seat back recliner mechanisms.  Also included are certain 2020 Ford Explorer and Lincoln Aviator vehicles equipped with rear outboard seats and manual seat back recliner mechanisms.  The recliner mechanisms may be missing the third pawl required for seat back strength, resulting in a loose seat back.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard (FMVSS) numbers 202, \"Head Restraints\" and 207, \"Seating Systems.\"",
+            "consequence": "A seat back with an improperly assembled recliner mechanism may have reduced strength and may not adequately restrain an occupant in a crash, increasing the risk of injury.",
+            "remedy": "Ford will notify owners, and Ford and Lincoln dealers will inspect the seat structure and replace them, as necessary, free of charge.  The recall began October 21, 2019.  Owners may contact Ford customer service at 1-866-436-7332.  Ford's number for this recall is 19C07.",
+            "date": "28/08/2019"
+          },
+          {
+            "campaignNumber": "24V031000",
+            "component": "STRUCTURE:BODY:ROOF AND PILLARS",
+            "summary": "Ford Motor Company (Ford) is recalling certain 2011-2019 Explorer vehicles.  The A-pillar trim retention clips may not be properly engaged, allowing the trim to detach.",
+            "consequence": "A detached trim piece can fall off the vehicle, becoming a road hazard and increasing the risk of a crash.",
+            "remedy": "Dealers will inspect and replace the A-pillar trim as necessary, free of charge. This will be a phased campaign, with the remedy becoming available in different phases based on model years. Owner notification letters were mailed between July 18, 2024 and December 16, 2025. Owners may contact Ford customer service at 1-866-436-7332.  Ford's number for this recall is 24S02.",
+            "date": "19/01/2024"
+          },
+          {
+            "campaignNumber": "26V012000",
+            "component": "EQUIPMENT:ELECTRICAL:ENGINE BLOCK HEATER",
+            "summary": "Ford Motor Company (Ford) is recalling certain 2016-2018 Focus, 2019 Explorer, and 2024 Explorer vehicles. The engine block heater may crack and develop a coolant leak, causing it to short circuit when the block heater is plugged in.",
+            "consequence": "An electrical short circuit can increase the risk of a fire.",
+            "remedy": "Owners are advised not to plug in their block heater until the vehicle is remedied. Dealers will replace the block heater, free of charge. Owners will also have a alternative option to replace engine block heater element with a threaded blanking plug, and remove the block heater electrical cord. Interim letters, notifying owners of the safety risk, were mailed February 13, 2026. Additional letters will be sent once the final remedy is available, anticipated in October 2026. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 25SA4. Vehicle Identification Numbers (VINs) involved in this recall became searchable on NHTSA.gov on January 16, 2026. This recall expands previous recall number 25V685.",
+            "date": "15/01/2026"
+          },
+          {
+            "campaignNumber": "26V101000",
+            "component": "SUSPENSION:REAR",
+            "summary": "Ford Motor Company (Ford) is recalling certain 2017-2019 Explorer vehicles. The rear suspension toe links may fracture.",
+            "consequence": "A rear toe link fracture can result in a loss of steering control, increasing the risk of a crash.",
+            "remedy": "Dealers will replace the toe links, free of charge. Owner notification letters were mailed on March 16, 2026. Owners may contact Ford Customer Service at 1-866-436-7332. Ford's number for this recall is 26S08. This recall is an expansion of previous NHTSA recall number 21V537. Vehicle Identification Numbers (VINs) involved in this recall will be searchable on NHTSA.gov beginning February 25, 2026.",
+            "date": "20/02/2026"
+          },
+          {
+            "campaignNumber": "26V448000",
+            "component": "STRUCTURE:BODY",
+            "summary": "Ford Motor Company (Ford) is recalling certain 2016-2019 Explorer vehicles. The roof rail covers may come loose and detach from the vehicle.",
+            "consequence": "A detached roof rail cover can create a road hazard, increasing the risk of a crash.",
+            "remedy": "Dealers will inspect the roof rail covers and as necessary, repair or replace the push-pins, rail clips, or roof rail covers, free of charge. Interim letters, notifying owners of the safety risk, are expected to be mailed August 24, 2026. Additional letters will be sent once the remedy is available, anticipated in September 2026. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 26S54. This recall expands previous NHTSA recall number 21V316. Vehicle Identification Numbers (VINs) involved in this recall became searchable on NHTSA.gov on July 16, 2026.",
+            "date": "14/07/2026"
+          }
+        ]
+      },
+      "mpg": {
+        "city": 16,
+        "hwy": 22,
+        "combined": 18
+      },
+      "image": "images/ford_explorer.jpg",
+      "edmundsReview": {
+        "rating": 4.3,
+        "ratingText": "Edmunds Rating: 4.3 / 5 - Excellent",
+        "summary": "The Ford Police Interceptor Utility (Explorer chassis) is renowned for its versatile AWD system, pursuit-tuned suspension, roomy interior, and balanced 3.7L V6 performance.",
+        "pros": [
+          "Standard Intelligent AWD provides excellent wet and winter weather capability",
+          "Refined ride quality with heavy-duty police pursuit cooling and suspension upgrades",
+          "Spacious front cabin with durable law-enforcement interior materials",
+          "Solid towing and cargo capacity for active state agency use"
+        ],
+        "cons": [
+          "Wide front pillars can block side cornering view",
+          "Infotainment screen is basic on utility fleet models"
+        ],
+        "verdict": "One of the most capable and popular utility vehicles in public service, offering all-weather versatility and reliability.",
+        "url": "https://www.edmunds.com/ford/explorer/2019/review/"
+      },
+      "kbbValuation": {
+        "fairPurchasePrice": 10842,
+        "formattedFairPrice": "$10,842",
+        "priceRange": "$9,540 - $12,143",
+        "privatePartyValue": 9974,
+        "suggestedRetail": 11926,
+        "savingsVsKbb": 3842,
+        "savingsPct": 35.4,
+        "formattedSavings": "$3,842",
+        "url": "https://www.kbb.com/ford/explorer/2019/"
+      }
+    },
+    {
+      "assetNumber": "405-526273-01-001",
+      "description": "2019 FORD EXPLORER INTERCEPTOR",
+      "vin": "1FM5K8ARXKGA79534",
+      "mileage": 186978,
+      "salesPrice": 6500.0,
+      "specs": {
+        "Make": "FORD",
+        "Model": "Explorer",
+        "ModelYear": "2019",
+        "BodyClass": "Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV]",
+        "EngineCylinders": "6",
+        "DisplacementL": "3.7",
+        "EngineHP": "304",
+        "FuelTypePrimary": "Gasoline",
+        "DriveType": "4WD/4-Wheel Drive/4x4",
+        "PlantCity": "CHICAGO",
+        "PlantState": "ILLINOIS",
+        "PlantCountry": "UNITED STATES (USA)",
+        "VehicleType": "MULTIPURPOSE PASSENGER VEHICLE (MPV)",
+        "Manufacturer": "FORD MOTOR COMPANY",
+        "Trim": "Police",
+        "Series": "",
+        "Aspiration": "Standard"
+      },
+      "recalls": {
+        "count": 6,
+        "items": [
+          {
+            "campaignNumber": "21V316000",
+            "component": "STRUCTURE:BODY",
+            "summary": "Ford Motor Company (Ford) is recalling certain 2016-2019 Explorer vehicles.  The retention pins could loosen and allow the roof rail covers to detach from the vehicle.",
+            "consequence": "A detached roof rail cover can create a road hazard, increasing the risk of a crash.",
+            "remedy": "Dealers will install push-pins and replace any damaged rail clips and roof rail covers, as necessary, free of charge.  The interim owner notification letter was mailed on June 22, 2021.  Owner notification letters (remedy available) were mailed on October 1, 2021.  Owners may contact Ford customer service at 1-866-436-7332.  Ford's number for this recall is 21S22.",
+            "date": "05/05/2021"
+          },
+          {
+            "campaignNumber": "19V633000",
+            "component": "SEATS:FRONT ASSEMBLY:RECLINER",
+            "summary": "Ford Motor Company (Ford) is recalling certain 2018-2020 F-150 and 2019-2020 F-250, F-350, F-450, and F-550 Super Duty pickup trucks, and 2018-2019 Ford Explorer, 2019-2020 Expedition, and 2020 Escape vehicles equipped with driver and/or passenger's manual front seat back recliner mechanisms.  Also included are certain 2020 Ford Explorer and Lincoln Aviator vehicles equipped with rear outboard seats and manual seat back recliner mechanisms.  The recliner mechanisms may be missing the third pawl required for seat back strength, resulting in a loose seat back.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard (FMVSS) numbers 202, \"Head Restraints\" and 207, \"Seating Systems.\"",
+            "consequence": "A seat back with an improperly assembled recliner mechanism may have reduced strength and may not adequately restrain an occupant in a crash, increasing the risk of injury.",
+            "remedy": "Ford will notify owners, and Ford and Lincoln dealers will inspect the seat structure and replace them, as necessary, free of charge.  The recall began October 21, 2019.  Owners may contact Ford customer service at 1-866-436-7332.  Ford's number for this recall is 19C07.",
+            "date": "28/08/2019"
+          },
+          {
+            "campaignNumber": "24V031000",
+            "component": "STRUCTURE:BODY:ROOF AND PILLARS",
+            "summary": "Ford Motor Company (Ford) is recalling certain 2011-2019 Explorer vehicles.  The A-pillar trim retention clips may not be properly engaged, allowing the trim to detach.",
+            "consequence": "A detached trim piece can fall off the vehicle, becoming a road hazard and increasing the risk of a crash.",
+            "remedy": "Dealers will inspect and replace the A-pillar trim as necessary, free of charge. This will be a phased campaign, with the remedy becoming available in different phases based on model years. Owner notification letters were mailed between July 18, 2024 and December 16, 2025. Owners may contact Ford customer service at 1-866-436-7332.  Ford's number for this recall is 24S02.",
+            "date": "19/01/2024"
+          },
+          {
+            "campaignNumber": "26V012000",
+            "component": "EQUIPMENT:ELECTRICAL:ENGINE BLOCK HEATER",
+            "summary": "Ford Motor Company (Ford) is recalling certain 2016-2018 Focus, 2019 Explorer, and 2024 Explorer vehicles. The engine block heater may crack and develop a coolant leak, causing it to short circuit when the block heater is plugged in.",
+            "consequence": "An electrical short circuit can increase the risk of a fire.",
+            "remedy": "Owners are advised not to plug in their block heater until the vehicle is remedied. Dealers will replace the block heater, free of charge. Owners will also have a alternative option to replace engine block heater element with a threaded blanking plug, and remove the block heater electrical cord. Interim letters, notifying owners of the safety risk, were mailed February 13, 2026. Additional letters will be sent once the final remedy is available, anticipated in October 2026. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 25SA4. Vehicle Identification Numbers (VINs) involved in this recall became searchable on NHTSA.gov on January 16, 2026. This recall expands previous recall number 25V685.",
+            "date": "15/01/2026"
+          },
+          {
+            "campaignNumber": "26V101000",
+            "component": "SUSPENSION:REAR",
+            "summary": "Ford Motor Company (Ford) is recalling certain 2017-2019 Explorer vehicles. The rear suspension toe links may fracture.",
+            "consequence": "A rear toe link fracture can result in a loss of steering control, increasing the risk of a crash.",
+            "remedy": "Dealers will replace the toe links, free of charge. Owner notification letters were mailed on March 16, 2026. Owners may contact Ford Customer Service at 1-866-436-7332. Ford's number for this recall is 26S08. This recall is an expansion of previous NHTSA recall number 21V537. Vehicle Identification Numbers (VINs) involved in this recall will be searchable on NHTSA.gov beginning February 25, 2026.",
+            "date": "20/02/2026"
+          },
+          {
+            "campaignNumber": "26V448000",
+            "component": "STRUCTURE:BODY",
+            "summary": "Ford Motor Company (Ford) is recalling certain 2016-2019 Explorer vehicles. The roof rail covers may come loose and detach from the vehicle.",
+            "consequence": "A detached roof rail cover can create a road hazard, increasing the risk of a crash.",
+            "remedy": "Dealers will inspect the roof rail covers and as necessary, repair or replace the push-pins, rail clips, or roof rail covers, free of charge. Interim letters, notifying owners of the safety risk, are expected to be mailed August 24, 2026. Additional letters will be sent once the remedy is available, anticipated in September 2026. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 26S54. This recall expands previous NHTSA recall number 21V316. Vehicle Identification Numbers (VINs) involved in this recall became searchable on NHTSA.gov on July 16, 2026.",
+            "date": "14/07/2026"
+          }
+        ]
+      },
+      "mpg": {
+        "city": 16,
+        "hwy": 22,
+        "combined": 18
+      },
+      "image": "images/ford_explorer.jpg",
+      "edmundsReview": {
+        "rating": 4.3,
+        "ratingText": "Edmunds Rating: 4.3 / 5 - Excellent",
+        "summary": "The Ford Police Interceptor Utility (Explorer chassis) is renowned for its versatile AWD system, pursuit-tuned suspension, roomy interior, and balanced 3.7L V6 performance.",
+        "pros": [
+          "Standard Intelligent AWD provides excellent wet and winter weather capability",
+          "Refined ride quality with heavy-duty police pursuit cooling and suspension upgrades",
+          "Spacious front cabin with durable law-enforcement interior materials",
+          "Solid towing and cargo capacity for active state agency use"
+        ],
+        "cons": [
+          "Wide front pillars can block side cornering view",
+          "Infotainment screen is basic on utility fleet models"
+        ],
+        "verdict": "One of the most capable and popular utility vehicles in public service, offering all-weather versatility and reliability.",
+        "url": "https://www.edmunds.com/ford/explorer/2019/review/"
+      },
+      "kbbValuation": {
+        "fairPurchasePrice": 10056,
+        "formattedFairPrice": "$10,056",
+        "priceRange": "$8,849 - $11,262",
+        "privatePartyValue": 9251,
+        "suggestedRetail": 11061,
+        "savingsVsKbb": 3556,
+        "savingsPct": 35.4,
+        "formattedSavings": "$3,556",
+        "url": "https://www.kbb.com/ford/explorer/2019/"
+      }
+    },
+    {
+      "assetNumber": "405-526387-01-001",
+      "description": "2019 FORD EXPLORER INTERCEPTOR",
+      "vin": "1FM5K8AT5KGB24388",
+      "mileage": 170944,
+      "salesPrice": 7100.0,
+      "specs": {
+        "Make": "FORD",
+        "Model": "Explorer",
+        "ModelYear": "2019",
+        "BodyClass": "Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV]",
+        "EngineCylinders": "6",
+        "DisplacementL": "3.5",
+        "EngineHP": "365",
+        "FuelTypePrimary": "Gasoline",
+        "DriveType": "4WD/4-Wheel Drive/4x4",
+        "PlantCity": "CHICAGO",
+        "PlantState": "ILLINOIS",
+        "PlantCountry": "UNITED STATES (USA)",
+        "VehicleType": "MULTIPURPOSE PASSENGER VEHICLE (MPV)",
+        "Manufacturer": "FORD MOTOR COMPANY",
+        "Trim": "Police",
+        "Series": "",
+        "Aspiration": "Turbocharged"
+      },
+      "recalls": {
+        "count": 6,
+        "items": [
+          {
+            "campaignNumber": "21V316000",
+            "component": "STRUCTURE:BODY",
+            "summary": "Ford Motor Company (Ford) is recalling certain 2016-2019 Explorer vehicles.  The retention pins could loosen and allow the roof rail covers to detach from the vehicle.",
+            "consequence": "A detached roof rail cover can create a road hazard, increasing the risk of a crash.",
+            "remedy": "Dealers will install push-pins and replace any damaged rail clips and roof rail covers, as necessary, free of charge.  The interim owner notification letter was mailed on June 22, 2021.  Owner notification letters (remedy available) were mailed on October 1, 2021.  Owners may contact Ford customer service at 1-866-436-7332.  Ford's number for this recall is 21S22.",
+            "date": "05/05/2021"
+          },
+          {
+            "campaignNumber": "19V633000",
+            "component": "SEATS:FRONT ASSEMBLY:RECLINER",
+            "summary": "Ford Motor Company (Ford) is recalling certain 2018-2020 F-150 and 2019-2020 F-250, F-350, F-450, and F-550 Super Duty pickup trucks, and 2018-2019 Ford Explorer, 2019-2020 Expedition, and 2020 Escape vehicles equipped with driver and/or passenger's manual front seat back recliner mechanisms.  Also included are certain 2020 Ford Explorer and Lincoln Aviator vehicles equipped with rear outboard seats and manual seat back recliner mechanisms.  The recliner mechanisms may be missing the third pawl required for seat back strength, resulting in a loose seat back.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard (FMVSS) numbers 202, \"Head Restraints\" and 207, \"Seating Systems.\"",
+            "consequence": "A seat back with an improperly assembled recliner mechanism may have reduced strength and may not adequately restrain an occupant in a crash, increasing the risk of injury.",
+            "remedy": "Ford will notify owners, and Ford and Lincoln dealers will inspect the seat structure and replace them, as necessary, free of charge.  The recall began October 21, 2019.  Owners may contact Ford customer service at 1-866-436-7332.  Ford's number for this recall is 19C07.",
+            "date": "28/08/2019"
+          },
+          {
+            "campaignNumber": "24V031000",
+            "component": "STRUCTURE:BODY:ROOF AND PILLARS",
+            "summary": "Ford Motor Company (Ford) is recalling certain 2011-2019 Explorer vehicles.  The A-pillar trim retention clips may not be properly engaged, allowing the trim to detach.",
+            "consequence": "A detached trim piece can fall off the vehicle, becoming a road hazard and increasing the risk of a crash.",
+            "remedy": "Dealers will inspect and replace the A-pillar trim as necessary, free of charge. This will be a phased campaign, with the remedy becoming available in different phases based on model years. Owner notification letters were mailed between July 18, 2024 and December 16, 2025. Owners may contact Ford customer service at 1-866-436-7332.  Ford's number for this recall is 24S02.",
+            "date": "19/01/2024"
+          },
+          {
+            "campaignNumber": "26V012000",
+            "component": "EQUIPMENT:ELECTRICAL:ENGINE BLOCK HEATER",
+            "summary": "Ford Motor Company (Ford) is recalling certain 2016-2018 Focus, 2019 Explorer, and 2024 Explorer vehicles. The engine block heater may crack and develop a coolant leak, causing it to short circuit when the block heater is plugged in.",
+            "consequence": "An electrical short circuit can increase the risk of a fire.",
+            "remedy": "Owners are advised not to plug in their block heater until the vehicle is remedied. Dealers will replace the block heater, free of charge. Owners will also have a alternative option to replace engine block heater element with a threaded blanking plug, and remove the block heater electrical cord. Interim letters, notifying owners of the safety risk, were mailed February 13, 2026. Additional letters will be sent once the final remedy is available, anticipated in October 2026. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 25SA4. Vehicle Identification Numbers (VINs) involved in this recall became searchable on NHTSA.gov on January 16, 2026. This recall expands previous recall number 25V685.",
+            "date": "15/01/2026"
+          },
+          {
+            "campaignNumber": "26V101000",
+            "component": "SUSPENSION:REAR",
+            "summary": "Ford Motor Company (Ford) is recalling certain 2017-2019 Explorer vehicles. The rear suspension toe links may fracture.",
+            "consequence": "A rear toe link fracture can result in a loss of steering control, increasing the risk of a crash.",
+            "remedy": "Dealers will replace the toe links, free of charge. Owner notification letters were mailed on March 16, 2026. Owners may contact Ford Customer Service at 1-866-436-7332. Ford's number for this recall is 26S08. This recall is an expansion of previous NHTSA recall number 21V537. Vehicle Identification Numbers (VINs) involved in this recall will be searchable on NHTSA.gov beginning February 25, 2026.",
+            "date": "20/02/2026"
+          },
+          {
+            "campaignNumber": "26V448000",
+            "component": "STRUCTURE:BODY",
+            "summary": "Ford Motor Company (Ford) is recalling certain 2016-2019 Explorer vehicles. The roof rail covers may come loose and detach from the vehicle.",
+            "consequence": "A detached roof rail cover can create a road hazard, increasing the risk of a crash.",
+            "remedy": "Dealers will inspect the roof rail covers and as necessary, repair or replace the push-pins, rail clips, or roof rail covers, free of charge. Interim letters, notifying owners of the safety risk, are expected to be mailed August 24, 2026. Additional letters will be sent once the remedy is available, anticipated in September 2026. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 26S54. This recall expands previous NHTSA recall number 21V316. Vehicle Identification Numbers (VINs) involved in this recall became searchable on NHTSA.gov on July 16, 2026.",
+            "date": "14/07/2026"
+          }
+        ]
+      },
+      "mpg": {
+        "city": 16,
+        "hwy": 22,
+        "combined": 18
+      },
+      "image": "images/ford_explorer.jpg",
+      "edmundsReview": {
+        "rating": 4.3,
+        "ratingText": "Edmunds Rating: 4.3 / 5 - Excellent",
+        "summary": "The Ford Police Interceptor Utility (Explorer chassis) is renowned for its versatile AWD system, pursuit-tuned suspension, roomy interior, and balanced 3.7L V6 performance.",
+        "pros": [
+          "Standard Intelligent AWD provides excellent wet and winter weather capability",
+          "Refined ride quality with heavy-duty police pursuit cooling and suspension upgrades",
+          "Spacious front cabin with durable law-enforcement interior materials",
+          "Solid towing and cargo capacity for active state agency use"
+        ],
+        "cons": [
+          "Wide front pillars can block side cornering view",
+          "Infotainment screen is basic on utility fleet models"
+        ],
+        "verdict": "One of the most capable and popular utility vehicles in public service, offering all-weather versatility and reliability.",
+        "url": "https://www.edmunds.com/ford/explorer/2019/review/"
+      },
+      "kbbValuation": {
+        "fairPurchasePrice": 10617,
+        "formattedFairPrice": "$10,617",
+        "priceRange": "$9,342 - $11,891",
+        "privatePartyValue": 9767,
+        "suggestedRetail": 11678,
+        "savingsVsKbb": 3517,
+        "savingsPct": 33.1,
+        "formattedSavings": "$3,517",
+        "url": "https://www.kbb.com/ford/explorer/2019/"
+      }
+    },
+    {
+      "assetNumber": "405-526725-01-001",
+      "description": "2020 CHEVROLET TAHOE PPV",
+      "vin": "1GNLCDEC7LR289643",
+      "mileage": 163160,
+      "salesPrice": 9300.0,
+      "specs": {
+        "Make": "CHEVROLET",
+        "Model": "Tahoe",
+        "ModelYear": "2020",
+        "BodyClass": "Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV]",
+        "EngineCylinders": "8",
+        "DisplacementL": "5.3",
+        "EngineHP": "",
+        "FuelTypePrimary": "Gasoline",
+        "DriveType": "4x2",
+        "PlantCity": "ARLINGTON",
+        "PlantState": "TEXAS",
+        "PlantCountry": "UNITED STATES (USA)",
+        "VehicleType": "MULTIPURPOSE PASSENGER VEHICLE (MPV)",
+        "Manufacturer": "GENERAL MOTORS LLC",
+        "Trim": "Police Vehicle",
+        "Series": "",
+        "Aspiration": "Standard"
+      },
+      "recalls": {
+        "count": 3,
+        "items": [
+          {
+            "campaignNumber": "21V115000",
+            "component": "TIRES",
+            "summary": "General Motors LLC (GM) is recalling certain 2020 Buick Enclave, Cadillac XT4, XT5, Escalade, Escalade ESV, Chevrolet Suburban, Tahoe, Traverse, GMC Yukon, Yukon XL, 2018-2021 Chevrolet Express, GMC Savana, 2019-2020 Chevrolet Blazer, Silverado 1500, GMC Acadia, Sierra 1500, and certain Continental tires sold to the aftermarket for various model year 2018-2021 vehicles.  The affected tires were cured for too long during production.",
+            "consequence": "Over cured tires may develop a break in the sidewall resulting in sudden air loss or a belt edge separation which could lead to a tread/belt loss.  Either condition can cause a loss of vehicle control, increasing the risk of a crash.",
+            "remedy": "GM will notify owners, and dealers will inspect the tires, replacing them as necessary, free of charge.  The recall began March 22, 2021.  Owners may contact GMC customer service at 1-888-988-7267, Buick customer service at 1-866-608-8080, Chevrolet customer service at 1-800-222-1020 or Cadillac customer service at 1-800-458-8006.  GM's number for this recall is N212329050.",
+            "date": "25/02/2021"
+          },
+          {
+            "campaignNumber": "19V837000",
+            "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+            "summary": "General Motors LLC (GM) is recalling certain 2020 Cadillac Escalade, Escalade ESV, Chevrolet Camaro, Silverado 1500, Suburban, Tahoe, GMC Sierra 1500, Yukon, and Yukon XL vehicles.  The fuel pump may be missing a pressure regulator, allowing for over-pressurization of the fuel system.",
+            "consequence": "Over-pressurization can crack the fuel pump and cause leaks, increasing the risk of a fire in the presence of an ignition source.",
+            "remedy": "GM will notify owners, and dealers will replace the fuel pump, free of charge.  The recall began December 18, 2019.  Owners may contact Cadillac customer service at 1-800-333-4223, Chevrolet customer service at 1-800-222-1020, or GMC customer service at 1-888-988-7267.  GM's number for this recall is N192283991.",
+            "date": "21/11/2019"
+          },
+          {
+            "campaignNumber": "19V761000",
+            "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:WHEEL SPEED SENSOR/TONE RING",
+            "summary": "General Motors LLC (GM) is recalling certain 2015-2020 Chevrolet Suburban, Tahoe, and GMC Yukon, and 2014-2018 Chevrolet Silverado 1500 and GMC Sierra 1500 vehicles equipped with a 5.3-liter engine, a 3.08-ratio rear axle and four-wheel drive.  If a wheel-speed sensor fails, while the vehicle is traveling between 41 and 60 mph in four-wheel or automatic mode, the Electronic-Brake Control Module (EBCM) software may activate the driveline-protection system.",
+            "consequence": "Unintended activation of the driveline-protection system will cause unintended braking on the wheel on the opposite side of the failed sensor, causing the vehicle to pull to one side unexpectedly, increasing the risk of a crash.",
+            "remedy": "GM will notify owners, and dealers will reprogram the EBCM, free of charge.  The recall began December 11, 2019.  Owners may contact Chevrolet customer service at 1-800-630-2438 or GMC customer service at 1-800-462-8782.  GM's number for this recall is N192261050.",
+            "date": "24/10/2019"
+          }
+        ]
+      },
+      "mpg": {
+        "city": 15,
+        "hwy": 22,
+        "combined": 18
+      },
+      "image": "images/chevrolet_tahoe.jpg",
+      "edmundsReview": {
+        "rating": 4.6,
+        "ratingText": "Edmunds Rating: 4.6 / 5 - Excellent",
+        "summary": "The Chevrolet Tahoe PPV (Police Pursuit Vehicle) combines a commanding 5.3L V8 engine, heavy-duty pursuit suspension, lower ride height for high-speed stability, and massive cargo capability.",
+        "pros": [
+          "Robust 5.3L EcoTec3 V8 delivers confident acceleration and high towing capability",
+          "PPV pursuit package includes upgraded oil coolers, heavy-duty brakes, and lowered suspension",
+          "Extremely spacious cabin with versatile cargo storage capacity",
+          "Quiet high-speed cruising with impressive highway stability"
+        ],
+        "cons": [
+          "Solid rear axle can feel firm over severe bumps",
+          "Cargo floor is somewhat high due to fold-flat seating design"
+        ],
+        "verdict": "The gold standard for full-size utility vehicles \u2014 rugged, powerful, and built to handle harsh conditions.",
+        "url": "https://www.edmunds.com/chevrolet/tahoe/2020/review/"
+      },
+      "kbbValuation": {
+        "fairPurchasePrice": 15290,
+        "formattedFairPrice": "$15,290",
+        "priceRange": "$13,455 - $17,124",
+        "privatePartyValue": 14066,
+        "suggestedRetail": 16819,
+        "savingsVsKbb": 5990,
+        "savingsPct": 39.2,
+        "formattedSavings": "$5,990",
+        "url": "https://www.kbb.com/chevrolet/tahoe/2020/"
+      }
+    },
+    {
+      "assetNumber": "405-526892-01-001",
+      "description": "2020 CHEVROLET TAHOE PPV",
+      "vin": "1GNLCDECXLR251372",
+      "mileage": 152738,
+      "salesPrice": 11300.0,
+      "specs": {
+        "Make": "CHEVROLET",
+        "Model": "Tahoe",
+        "ModelYear": "2020",
+        "BodyClass": "Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV]",
+        "EngineCylinders": "8",
+        "DisplacementL": "5.3",
+        "EngineHP": "",
+        "FuelTypePrimary": "Gasoline",
+        "DriveType": "4x2",
+        "PlantCity": "ARLINGTON",
+        "PlantState": "TEXAS",
+        "PlantCountry": "UNITED STATES (USA)",
+        "VehicleType": "MULTIPURPOSE PASSENGER VEHICLE (MPV)",
+        "Manufacturer": "GENERAL MOTORS LLC",
+        "Trim": "Police Vehicle",
+        "Series": "",
+        "Aspiration": "Standard"
+      },
+      "recalls": {
+        "count": 3,
+        "items": [
+          {
+            "campaignNumber": "21V115000",
+            "component": "TIRES",
+            "summary": "General Motors LLC (GM) is recalling certain 2020 Buick Enclave, Cadillac XT4, XT5, Escalade, Escalade ESV, Chevrolet Suburban, Tahoe, Traverse, GMC Yukon, Yukon XL, 2018-2021 Chevrolet Express, GMC Savana, 2019-2020 Chevrolet Blazer, Silverado 1500, GMC Acadia, Sierra 1500, and certain Continental tires sold to the aftermarket for various model year 2018-2021 vehicles.  The affected tires were cured for too long during production.",
+            "consequence": "Over cured tires may develop a break in the sidewall resulting in sudden air loss or a belt edge separation which could lead to a tread/belt loss.  Either condition can cause a loss of vehicle control, increasing the risk of a crash.",
+            "remedy": "GM will notify owners, and dealers will inspect the tires, replacing them as necessary, free of charge.  The recall began March 22, 2021.  Owners may contact GMC customer service at 1-888-988-7267, Buick customer service at 1-866-608-8080, Chevrolet customer service at 1-800-222-1020 or Cadillac customer service at 1-800-458-8006.  GM's number for this recall is N212329050.",
+            "date": "25/02/2021"
+          },
+          {
+            "campaignNumber": "19V837000",
+            "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+            "summary": "General Motors LLC (GM) is recalling certain 2020 Cadillac Escalade, Escalade ESV, Chevrolet Camaro, Silverado 1500, Suburban, Tahoe, GMC Sierra 1500, Yukon, and Yukon XL vehicles.  The fuel pump may be missing a pressure regulator, allowing for over-pressurization of the fuel system.",
+            "consequence": "Over-pressurization can crack the fuel pump and cause leaks, increasing the risk of a fire in the presence of an ignition source.",
+            "remedy": "GM will notify owners, and dealers will replace the fuel pump, free of charge.  The recall began December 18, 2019.  Owners may contact Cadillac customer service at 1-800-333-4223, Chevrolet customer service at 1-800-222-1020, or GMC customer service at 1-888-988-7267.  GM's number for this recall is N192283991.",
+            "date": "21/11/2019"
+          },
+          {
+            "campaignNumber": "19V761000",
+            "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:WHEEL SPEED SENSOR/TONE RING",
+            "summary": "General Motors LLC (GM) is recalling certain 2015-2020 Chevrolet Suburban, Tahoe, and GMC Yukon, and 2014-2018 Chevrolet Silverado 1500 and GMC Sierra 1500 vehicles equipped with a 5.3-liter engine, a 3.08-ratio rear axle and four-wheel drive.  If a wheel-speed sensor fails, while the vehicle is traveling between 41 and 60 mph in four-wheel or automatic mode, the Electronic-Brake Control Module (EBCM) software may activate the driveline-protection system.",
+            "consequence": "Unintended activation of the driveline-protection system will cause unintended braking on the wheel on the opposite side of the failed sensor, causing the vehicle to pull to one side unexpectedly, increasing the risk of a crash.",
+            "remedy": "GM will notify owners, and dealers will reprogram the EBCM, free of charge.  The recall began December 11, 2019.  Owners may contact Chevrolet customer service at 1-800-630-2438 or GMC customer service at 1-800-462-8782.  GM's number for this recall is N192261050.",
+            "date": "24/10/2019"
+          }
+        ]
+      },
+      "mpg": {
+        "city": 15,
+        "hwy": 22,
+        "combined": 18
+      },
+      "image": "images/chevrolet_tahoe.jpg",
+      "edmundsReview": {
+        "rating": 4.6,
+        "ratingText": "Edmunds Rating: 4.6 / 5 - Excellent",
+        "summary": "The Chevrolet Tahoe PPV (Police Pursuit Vehicle) combines a commanding 5.3L V8 engine, heavy-duty pursuit suspension, lower ride height for high-speed stability, and massive cargo capability.",
+        "pros": [
+          "Robust 5.3L EcoTec3 V8 delivers confident acceleration and high towing capability",
+          "PPV pursuit package includes upgraded oil coolers, heavy-duty brakes, and lowered suspension",
+          "Extremely spacious cabin with versatile cargo storage capacity",
+          "Quiet high-speed cruising with impressive highway stability"
+        ],
+        "cons": [
+          "Solid rear axle can feel firm over severe bumps",
+          "Cargo floor is somewhat high due to fold-flat seating design"
+        ],
+        "verdict": "The gold standard for full-size utility vehicles \u2014 rugged, powerful, and built to handle harsh conditions.",
+        "url": "https://www.edmunds.com/chevrolet/tahoe/2020/review/"
+      },
+      "kbbValuation": {
+        "fairPurchasePrice": 15654,
+        "formattedFairPrice": "$15,654",
+        "priceRange": "$13,775 - $17,532",
+        "privatePartyValue": 14401,
+        "suggestedRetail": 17219,
+        "savingsVsKbb": 4354,
+        "savingsPct": 27.8,
+        "formattedSavings": "$4,354",
+        "url": "https://www.kbb.com/chevrolet/tahoe/2020/"
+      }
+    },
+    {
+      "assetNumber": "405-526925-01-001",
+      "description": "2020 CHEVROLET TAHOE PPV",
+      "vin": "1GNLCDEC6LR291593",
+      "mileage": 180965,
+      "salesPrice": 12500.0,
+      "specs": {
+        "Make": "CHEVROLET",
+        "Model": "Tahoe",
+        "ModelYear": "2020",
+        "BodyClass": "Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV]",
+        "EngineCylinders": "8",
+        "DisplacementL": "5.3",
+        "EngineHP": "",
+        "FuelTypePrimary": "Gasoline",
+        "DriveType": "4x2",
+        "PlantCity": "ARLINGTON",
+        "PlantState": "TEXAS",
+        "PlantCountry": "UNITED STATES (USA)",
+        "VehicleType": "MULTIPURPOSE PASSENGER VEHICLE (MPV)",
+        "Manufacturer": "GENERAL MOTORS LLC",
+        "Trim": "Police Vehicle",
+        "Series": "",
+        "Aspiration": "Standard"
+      },
+      "recalls": {
+        "count": 3,
+        "items": [
+          {
+            "campaignNumber": "21V115000",
+            "component": "TIRES",
+            "summary": "General Motors LLC (GM) is recalling certain 2020 Buick Enclave, Cadillac XT4, XT5, Escalade, Escalade ESV, Chevrolet Suburban, Tahoe, Traverse, GMC Yukon, Yukon XL, 2018-2021 Chevrolet Express, GMC Savana, 2019-2020 Chevrolet Blazer, Silverado 1500, GMC Acadia, Sierra 1500, and certain Continental tires sold to the aftermarket for various model year 2018-2021 vehicles.  The affected tires were cured for too long during production.",
+            "consequence": "Over cured tires may develop a break in the sidewall resulting in sudden air loss or a belt edge separation which could lead to a tread/belt loss.  Either condition can cause a loss of vehicle control, increasing the risk of a crash.",
+            "remedy": "GM will notify owners, and dealers will inspect the tires, replacing them as necessary, free of charge.  The recall began March 22, 2021.  Owners may contact GMC customer service at 1-888-988-7267, Buick customer service at 1-866-608-8080, Chevrolet customer service at 1-800-222-1020 or Cadillac customer service at 1-800-458-8006.  GM's number for this recall is N212329050.",
+            "date": "25/02/2021"
+          },
+          {
+            "campaignNumber": "19V837000",
+            "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+            "summary": "General Motors LLC (GM) is recalling certain 2020 Cadillac Escalade, Escalade ESV, Chevrolet Camaro, Silverado 1500, Suburban, Tahoe, GMC Sierra 1500, Yukon, and Yukon XL vehicles.  The fuel pump may be missing a pressure regulator, allowing for over-pressurization of the fuel system.",
+            "consequence": "Over-pressurization can crack the fuel pump and cause leaks, increasing the risk of a fire in the presence of an ignition source.",
+            "remedy": "GM will notify owners, and dealers will replace the fuel pump, free of charge.  The recall began December 18, 2019.  Owners may contact Cadillac customer service at 1-800-333-4223, Chevrolet customer service at 1-800-222-1020, or GMC customer service at 1-888-988-7267.  GM's number for this recall is N192283991.",
+            "date": "21/11/2019"
+          },
+          {
+            "campaignNumber": "19V761000",
+            "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:WHEEL SPEED SENSOR/TONE RING",
+            "summary": "General Motors LLC (GM) is recalling certain 2015-2020 Chevrolet Suburban, Tahoe, and GMC Yukon, and 2014-2018 Chevrolet Silverado 1500 and GMC Sierra 1500 vehicles equipped with a 5.3-liter engine, a 3.08-ratio rear axle and four-wheel drive.  If a wheel-speed sensor fails, while the vehicle is traveling between 41 and 60 mph in four-wheel or automatic mode, the Electronic-Brake Control Module (EBCM) software may activate the driveline-protection system.",
+            "consequence": "Unintended activation of the driveline-protection system will cause unintended braking on the wheel on the opposite side of the failed sensor, causing the vehicle to pull to one side unexpectedly, increasing the risk of a crash.",
+            "remedy": "GM will notify owners, and dealers will reprogram the EBCM, free of charge.  The recall began December 11, 2019.  Owners may contact Chevrolet customer service at 1-800-630-2438 or GMC customer service at 1-800-462-8782.  GM's number for this recall is N192261050.",
+            "date": "24/10/2019"
+          }
+        ]
+      },
+      "mpg": {
+        "city": 15,
+        "hwy": 22,
+        "combined": 18
+      },
+      "image": "images/chevrolet_tahoe.jpg",
+      "edmundsReview": {
+        "rating": 4.6,
+        "ratingText": "Edmunds Rating: 4.6 / 5 - Excellent",
+        "summary": "The Chevrolet Tahoe PPV (Police Pursuit Vehicle) combines a commanding 5.3L V8 engine, heavy-duty pursuit suspension, lower ride height for high-speed stability, and massive cargo capability.",
+        "pros": [
+          "Robust 5.3L EcoTec3 V8 delivers confident acceleration and high towing capability",
+          "PPV pursuit package includes upgraded oil coolers, heavy-duty brakes, and lowered suspension",
+          "Extremely spacious cabin with versatile cargo storage capacity",
+          "Quiet high-speed cruising with impressive highway stability"
+        ],
+        "cons": [
+          "Solid rear axle can feel firm over severe bumps",
+          "Cargo floor is somewhat high due to fold-flat seating design"
+        ],
+        "verdict": "The gold standard for full-size utility vehicles \u2014 rugged, powerful, and built to handle harsh conditions.",
+        "url": "https://www.edmunds.com/chevrolet/tahoe/2020/review/"
+      },
+      "kbbValuation": {
+        "fairPurchasePrice": 14667,
+        "formattedFairPrice": "$14,667",
+        "priceRange": "$12,906 - $16,427",
+        "privatePartyValue": 13493,
+        "suggestedRetail": 16133,
+        "savingsVsKbb": 2167,
+        "savingsPct": 14.8,
+        "formattedSavings": "$2,167",
+        "url": "https://www.kbb.com/chevrolet/tahoe/2020/"
+      }
+    },
+    {
+      "assetNumber": "405-526984-01-001",
+      "description": "2020 CHEVROLET TAHOE PPV",
+      "vin": "1GNLCDEC9LR303655",
+      "mileage": 169252,
+      "salesPrice": 8100.0,
+      "specs": {
+        "Make": "CHEVROLET",
+        "Model": "Tahoe",
+        "ModelYear": "2020",
+        "BodyClass": "Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV]",
+        "EngineCylinders": "8",
+        "DisplacementL": "5.3",
+        "EngineHP": "",
+        "FuelTypePrimary": "Gasoline",
+        "DriveType": "4x2",
+        "PlantCity": "ARLINGTON",
+        "PlantState": "TEXAS",
+        "PlantCountry": "UNITED STATES (USA)",
+        "VehicleType": "MULTIPURPOSE PASSENGER VEHICLE (MPV)",
+        "Manufacturer": "GENERAL MOTORS LLC",
+        "Trim": "Police Vehicle",
+        "Series": "",
+        "Aspiration": "Standard"
+      },
+      "recalls": {
+        "count": 3,
+        "items": [
+          {
+            "campaignNumber": "21V115000",
+            "component": "TIRES",
+            "summary": "General Motors LLC (GM) is recalling certain 2020 Buick Enclave, Cadillac XT4, XT5, Escalade, Escalade ESV, Chevrolet Suburban, Tahoe, Traverse, GMC Yukon, Yukon XL, 2018-2021 Chevrolet Express, GMC Savana, 2019-2020 Chevrolet Blazer, Silverado 1500, GMC Acadia, Sierra 1500, and certain Continental tires sold to the aftermarket for various model year 2018-2021 vehicles.  The affected tires were cured for too long during production.",
+            "consequence": "Over cured tires may develop a break in the sidewall resulting in sudden air loss or a belt edge separation which could lead to a tread/belt loss.  Either condition can cause a loss of vehicle control, increasing the risk of a crash.",
+            "remedy": "GM will notify owners, and dealers will inspect the tires, replacing them as necessary, free of charge.  The recall began March 22, 2021.  Owners may contact GMC customer service at 1-888-988-7267, Buick customer service at 1-866-608-8080, Chevrolet customer service at 1-800-222-1020 or Cadillac customer service at 1-800-458-8006.  GM's number for this recall is N212329050.",
+            "date": "25/02/2021"
+          },
+          {
+            "campaignNumber": "19V837000",
+            "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+            "summary": "General Motors LLC (GM) is recalling certain 2020 Cadillac Escalade, Escalade ESV, Chevrolet Camaro, Silverado 1500, Suburban, Tahoe, GMC Sierra 1500, Yukon, and Yukon XL vehicles.  The fuel pump may be missing a pressure regulator, allowing for over-pressurization of the fuel system.",
+            "consequence": "Over-pressurization can crack the fuel pump and cause leaks, increasing the risk of a fire in the presence of an ignition source.",
+            "remedy": "GM will notify owners, and dealers will replace the fuel pump, free of charge.  The recall began December 18, 2019.  Owners may contact Cadillac customer service at 1-800-333-4223, Chevrolet customer service at 1-800-222-1020, or GMC customer service at 1-888-988-7267.  GM's number for this recall is N192283991.",
+            "date": "21/11/2019"
+          },
+          {
+            "campaignNumber": "19V761000",
+            "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:WHEEL SPEED SENSOR/TONE RING",
+            "summary": "General Motors LLC (GM) is recalling certain 2015-2020 Chevrolet Suburban, Tahoe, and GMC Yukon, and 2014-2018 Chevrolet Silverado 1500 and GMC Sierra 1500 vehicles equipped with a 5.3-liter engine, a 3.08-ratio rear axle and four-wheel drive.  If a wheel-speed sensor fails, while the vehicle is traveling between 41 and 60 mph in four-wheel or automatic mode, the Electronic-Brake Control Module (EBCM) software may activate the driveline-protection system.",
+            "consequence": "Unintended activation of the driveline-protection system will cause unintended braking on the wheel on the opposite side of the failed sensor, causing the vehicle to pull to one side unexpectedly, increasing the risk of a crash.",
+            "remedy": "GM will notify owners, and dealers will reprogram the EBCM, free of charge.  The recall began December 11, 2019.  Owners may contact Chevrolet customer service at 1-800-630-2438 or GMC customer service at 1-800-462-8782.  GM's number for this recall is N192261050.",
+            "date": "24/10/2019"
+          }
+        ]
+      },
+      "mpg": {
+        "city": 15,
+        "hwy": 22,
+        "combined": 18
+      },
+      "image": "images/chevrolet_tahoe.jpg",
+      "edmundsReview": {
+        "rating": 4.6,
+        "ratingText": "Edmunds Rating: 4.6 / 5 - Excellent",
+        "summary": "The Chevrolet Tahoe PPV (Police Pursuit Vehicle) combines a commanding 5.3L V8 engine, heavy-duty pursuit suspension, lower ride height for high-speed stability, and massive cargo capability.",
+        "pros": [
+          "Robust 5.3L EcoTec3 V8 delivers confident acceleration and high towing capability",
+          "PPV pursuit package includes upgraded oil coolers, heavy-duty brakes, and lowered suspension",
+          "Extremely spacious cabin with versatile cargo storage capacity",
+          "Quiet high-speed cruising with impressive highway stability"
+        ],
+        "cons": [
+          "Solid rear axle can feel firm over severe bumps",
+          "Cargo floor is somewhat high due to fold-flat seating design"
+        ],
+        "verdict": "The gold standard for full-size utility vehicles \u2014 rugged, powerful, and built to handle harsh conditions.",
+        "url": "https://www.edmunds.com/chevrolet/tahoe/2020/review/"
+      },
+      "kbbValuation": {
+        "fairPurchasePrice": 15077,
+        "formattedFairPrice": "$15,077",
+        "priceRange": "$13,267 - $16,886",
+        "privatePartyValue": 13870,
+        "suggestedRetail": 16584,
+        "savingsVsKbb": 6977,
+        "savingsPct": 46.3,
+        "formattedSavings": "$6,977",
+        "url": "https://www.kbb.com/chevrolet/tahoe/2020/"
+      }
+    },
+    {
+      "assetNumber": "405-527221-01-001",
+      "description": "2020 CHEVROLET TAHOE PPV",
+      "vin": "1GNLCDEC9LR292835",
+      "mileage": 196333,
+      "salesPrice": 8000.0,
+      "specs": {
+        "Make": "CHEVROLET",
+        "Model": "Tahoe",
+        "ModelYear": "2020",
+        "BodyClass": "Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV]",
+        "EngineCylinders": "8",
+        "DisplacementL": "5.3",
+        "EngineHP": "",
+        "FuelTypePrimary": "Gasoline",
+        "DriveType": "4x2",
+        "PlantCity": "ARLINGTON",
+        "PlantState": "TEXAS",
+        "PlantCountry": "UNITED STATES (USA)",
+        "VehicleType": "MULTIPURPOSE PASSENGER VEHICLE (MPV)",
+        "Manufacturer": "GENERAL MOTORS LLC",
+        "Trim": "Police Vehicle",
+        "Series": "",
+        "Aspiration": "Standard"
+      },
+      "recalls": {
+        "count": 3,
+        "items": [
+          {
+            "campaignNumber": "21V115000",
+            "component": "TIRES",
+            "summary": "General Motors LLC (GM) is recalling certain 2020 Buick Enclave, Cadillac XT4, XT5, Escalade, Escalade ESV, Chevrolet Suburban, Tahoe, Traverse, GMC Yukon, Yukon XL, 2018-2021 Chevrolet Express, GMC Savana, 2019-2020 Chevrolet Blazer, Silverado 1500, GMC Acadia, Sierra 1500, and certain Continental tires sold to the aftermarket for various model year 2018-2021 vehicles.  The affected tires were cured for too long during production.",
+            "consequence": "Over cured tires may develop a break in the sidewall resulting in sudden air loss or a belt edge separation which could lead to a tread/belt loss.  Either condition can cause a loss of vehicle control, increasing the risk of a crash.",
+            "remedy": "GM will notify owners, and dealers will inspect the tires, replacing them as necessary, free of charge.  The recall began March 22, 2021.  Owners may contact GMC customer service at 1-888-988-7267, Buick customer service at 1-866-608-8080, Chevrolet customer service at 1-800-222-1020 or Cadillac customer service at 1-800-458-8006.  GM's number for this recall is N212329050.",
+            "date": "25/02/2021"
+          },
+          {
+            "campaignNumber": "19V837000",
+            "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+            "summary": "General Motors LLC (GM) is recalling certain 2020 Cadillac Escalade, Escalade ESV, Chevrolet Camaro, Silverado 1500, Suburban, Tahoe, GMC Sierra 1500, Yukon, and Yukon XL vehicles.  The fuel pump may be missing a pressure regulator, allowing for over-pressurization of the fuel system.",
+            "consequence": "Over-pressurization can crack the fuel pump and cause leaks, increasing the risk of a fire in the presence of an ignition source.",
+            "remedy": "GM will notify owners, and dealers will replace the fuel pump, free of charge.  The recall began December 18, 2019.  Owners may contact Cadillac customer service at 1-800-333-4223, Chevrolet customer service at 1-800-222-1020, or GMC customer service at 1-888-988-7267.  GM's number for this recall is N192283991.",
+            "date": "21/11/2019"
+          },
+          {
+            "campaignNumber": "19V761000",
+            "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:WHEEL SPEED SENSOR/TONE RING",
+            "summary": "General Motors LLC (GM) is recalling certain 2015-2020 Chevrolet Suburban, Tahoe, and GMC Yukon, and 2014-2018 Chevrolet Silverado 1500 and GMC Sierra 1500 vehicles equipped with a 5.3-liter engine, a 3.08-ratio rear axle and four-wheel drive.  If a wheel-speed sensor fails, while the vehicle is traveling between 41 and 60 mph in four-wheel or automatic mode, the Electronic-Brake Control Module (EBCM) software may activate the driveline-protection system.",
+            "consequence": "Unintended activation of the driveline-protection system will cause unintended braking on the wheel on the opposite side of the failed sensor, causing the vehicle to pull to one side unexpectedly, increasing the risk of a crash.",
+            "remedy": "GM will notify owners, and dealers will reprogram the EBCM, free of charge.  The recall began December 11, 2019.  Owners may contact Chevrolet customer service at 1-800-630-2438 or GMC customer service at 1-800-462-8782.  GM's number for this recall is N192261050.",
+            "date": "24/10/2019"
+          }
+        ]
+      },
+      "mpg": {
+        "city": 15,
+        "hwy": 22,
+        "combined": 18
+      },
+      "image": "images/chevrolet_tahoe.jpg",
+      "edmundsReview": {
+        "rating": 4.6,
+        "ratingText": "Edmunds Rating: 4.6 / 5 - Excellent",
+        "summary": "The Chevrolet Tahoe PPV (Police Pursuit Vehicle) combines a commanding 5.3L V8 engine, heavy-duty pursuit suspension, lower ride height for high-speed stability, and massive cargo capability.",
+        "pros": [
+          "Robust 5.3L EcoTec3 V8 delivers confident acceleration and high towing capability",
+          "PPV pursuit package includes upgraded oil coolers, heavy-duty brakes, and lowered suspension",
+          "Extremely spacious cabin with versatile cargo storage capacity",
+          "Quiet high-speed cruising with impressive highway stability"
+        ],
+        "cons": [
+          "Solid rear axle can feel firm over severe bumps",
+          "Cargo floor is somewhat high due to fold-flat seating design"
+        ],
+        "verdict": "The gold standard for full-size utility vehicles \u2014 rugged, powerful, and built to handle harsh conditions.",
+        "url": "https://www.edmunds.com/chevrolet/tahoe/2020/review/"
+      },
+      "kbbValuation": {
+        "fairPurchasePrice": 14129,
+        "formattedFairPrice": "$14,129",
+        "priceRange": "$12,433 - $15,824",
+        "privatePartyValue": 12998,
+        "suggestedRetail": 15541,
+        "savingsVsKbb": 6129,
+        "savingsPct": 43.4,
+        "formattedSavings": "$6,129",
+        "url": "https://www.kbb.com/chevrolet/tahoe/2020/"
+      }
+    },
+    {
+      "assetNumber": "405-541328-01-001",
+      "description": "2018 DODGE JOURNEY",
+      "vin": "3C4PDCBG5JT512016",
+      "mileage": 37628,
+      "salesPrice": 9500.0,
+      "specs": {
+        "Make": "DODGE",
+        "Model": "Journey",
+        "ModelYear": "2018",
+        "BodyClass": "Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV]",
+        "EngineCylinders": "6",
+        "DisplacementL": "3.6",
+        "EngineHP": "283",
+        "FuelTypePrimary": "Gasoline",
+        "DriveType": "FWD/Front-Wheel Drive",
+        "PlantCity": "TOLUCA",
+        "PlantState": "STATE OF MEXICO",
+        "PlantCountry": "MEXICO",
+        "VehicleType": "MULTIPURPOSE PASSENGER VEHICLE (MPV)",
+        "Manufacturer": "CHRYSLER DE MEXICO TOLUCA",
+        "Trim": "SXT",
+        "Series": "",
+        "Aspiration": "Standard"
+      },
+      "recalls": {
+        "count": 6,
+        "items": [
+          {
+            "campaignNumber": "18V396000",
+            "component": "VISIBILITY:REARVIEW MIRRORS/DEVICES",
+            "summary": "Chrysler (FCA US LLC) is recalling certain 2018 Dodge Journey vehicles.  When reverse gear has been selected, the rear camera view may not be fully visible within two seconds.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard (FMVSS) number 111, \"Rearview Mirrors.\"",
+            "consequence": "If the full camera view is delayed and the driver does not check their surroundings before backing up, there may be an increased risk of a crash.",
+            "remedy": "Chrysler will notify owners, and dealers will replace the rearview mirror, free of charge.  The recall began August 2, 2018.  Owners may contact Chrysler customer service at 1-800-853-1403.  Chrysler's number for this recall is U58.",
+            "date": "14/06/2018"
+          },
+          {
+            "campaignNumber": "18V398000",
+            "component": "BACK OVER PREVENTION: SENSING SYSTEM: CAMERA",
+            "summary": "Chrysler (FCA US LLC) is recalling certain 2018 Dodge Journey and RAM 1500, 2500, and 3500 vehicles.  The backup camera may experience a loss of image display while backing up.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard (FMVSS) number 111, \"Rearview Mirrors.\"",
+            "consequence": "A loss of image in the rearview camera while backing up can increase the risk of a crash.",
+            "remedy": "Chrysler will notify owners, and dealers will replace the rearview mirror, free of charge.  The recall began August 2, 2018.  Owners may contact Chrysler customer service at 1-800-853-1403.  Chrysler's number for this recall is U56.",
+            "date": "14/06/2018"
+          },
+          {
+            "campaignNumber": "18V332000",
+            "component": "ELECTRICAL SYSTEM:WIRING",
+            "summary": "Chrysler (FCA US LLC) is recalling certain 2014-2018 Dodge Journey, Charger and Durango, RAM 2500, 3500, 3500 Cab Chassis (more than 10,000lb), 4500 Cab Chassis and 5500 Cab Chassis, Jeep Cherokee and Grand Cherokee and Chrysler 300, 2014-2019 RAM 1500, 2015-2018 Dodge Challenger, 2015-2017 Chrysler 200, 2016-2018 RAM 3500 Cab Chassis (less than 10,000 lb), 2017-2018 Chrysler Pacifica and 2018 Jeep Wrangler vehicles.  These vehicles are being recalled to address a defect that could prevent the cruise control system from disengaging.  If, when using cruise control, there is a short circuit within the vehicle's wiring, the driver may not be able to shut off the cruise control either by depressing the brake pedal or manually turning the system off once it has been engaged, resulting in either the vehicle maintaining its current speed or possibly accelerating.",
+            "consequence": "If the vehicle maintains its speed or accelerates despite attempts to deactivate the cruise control, there would be an increased risk of a crash.",
+            "remedy": "Chrysler will notify owners, and dealers will inspect the software, and perform a software flash on the engine or powertrain control module, free of charge.  The recall began June 4, 2018.  Owners may contact Chrysler customer service at 1-800-853-1403.  Note: Owners are advised to stop using cruise control until the software update has been performed.  In the event that cruise control cannot be disengaged while driving, owners should firmly and steadily apply the brakes and shift the transmission to neutral, placing the vehicle in park once it has stopped.",
+            "date": "17/05/2018"
+          },
+          {
+            "campaignNumber": "18V523000",
+            "component": "SERVICE BRAKES, HYDRAULIC:FOUNDATION COMPONENTS:DISC:CALIPER",
+            "summary": "Chrysler (FCA US LLC) is recalling certain 2018-2019 Dodge Grand Caravan and Jeep Compass, 2018 Dodge Journey, and 2019 Jeep Cherokee vehicles.  The rear brake caliper pistons on these vehicles may have an insufficient coating causing gas pockets to form, potentially reducing rear brake performance.",
+            "consequence": "A reduction of braking performance can increase the risk of a crash.",
+            "remedy": "Chrysler will notify owners, and dealers will bleed the vehicle's brake system, free of charge.  The recall began September 29, 2018.  Owners may contact Chrysler customer service at 1-800-853-1403.  Chrysler's number for this recall is U86.",
+            "date": "09/08/2018"
+          },
+          {
+            "campaignNumber": "18V524000",
+            "component": "ELECTRICAL SYSTEM:WIRING:FRONT UNDERHOOD",
+            "summary": "Chrysler (FCA US LLC) is recalling certain 2018 Jeep Renegade, Compass and Grand Cherokee, RAM 1500 and Promaster, Fiat 500x, Dodge Journey, Challenger, Charger and Durango and Chrysler 300x vehicles, 2017-2018 Jeep Wrangler, Dodge Grand Caravan and Chrysler Town and Country vehicles and 2018-2019 Jeep Cherokee and 2018 Chrysler Pacifica and Pacifica Hybrid vehicles.  The powertrain control module may be equipped with a voltage regulator chip in the circuit board that may fail, causing a stall or a no start condition.",
+            "consequence": "A vehicle stall can increase the risk of a crash.",
+            "remedy": "Chrysler will notify owners, and dealers will replace the powertrain control module, free of charge.  The recall began October 2, 2018.  Owners may contact Chrysler customer service at 1-800-853-1403.  Chrysler's number for this recall is U87.",
+            "date": "09/08/2018"
+          },
+          {
+            "campaignNumber": "22V723000",
+            "component": "EXTERIOR LIGHTING",
+            "summary": "Chrysler (FCA US, LLC) is recalling certain 2017-2018 Dodge Journey vehicles.  The amber side reflex reflector assembled into the headlamp may not reflect brightly enough.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 108, \"Lamps, Reflective Devices, and Associated Equipment.\"",
+            "consequence": "A dim reflector may reduce the visibility of the vehicle to other drivers, increasing the risk of a crash.",
+            "remedy": "Dealers will replace the headlamp assemblies, free of charge.  Owner notification letters were mailed February 16, 2023.  Owners may contact FCA US, LLC customer service at 1-800-853-1403.  FCA US, LLC's number for this recall is Z99.",
+            "date": "29/09/2022"
+          }
+        ]
+      },
+      "mpg": {
+        "city": 19,
+        "hwy": 25,
+        "combined": 21
+      },
+      "image": "images/dodge_journey.jpg",
+      "edmundsReview": {
+        "rating": 3.8,
+        "ratingText": "Edmunds Rating: 3.8 / 5 - Good Value",
+        "summary": "The 2018 Dodge Journey offers an affordable entry into midsize crossover ownership with low maintenance costs, smooth city cruising, and versatile seating configurations.",
+        "pros": [
+          "Exceptionally low odometer mileage (37,628 miles) on this surplus vehicle",
+          "Smooth ride quality that absorbs road bumps easily",
+          "User-friendly layout with clever floor storage cubbies",
+          "Economical purchase price for a versatile crossover utility"
+        ],
+        "cons": [
+          "4-speed automatic transmission on 2.4L engine feels dated",
+          "Cargo space behind third row is compact"
+        ],
+        "verdict": "A budget-friendly utility vehicle that offers outstanding low-mileage value for everyday commuting.",
+        "url": "https://www.edmunds.com/dodge/journey/2018/review/"
+      },
+      "kbbValuation": {
+        "fairPurchasePrice": 17933,
+        "formattedFairPrice": "$17,933",
+        "priceRange": "$15,781 - $20,084",
+        "privatePartyValue": 16498,
+        "suggestedRetail": 19726,
+        "savingsVsKbb": 8433,
+        "savingsPct": 47.0,
+        "formattedSavings": "$8,433",
+        "url": "https://www.kbb.com/dodge/journey/2018/"
+      }
+    },
+    {
+      "assetNumber": "405-582561-01-001",
+      "description": "2018 CHEVROLET 1500 CREW CAB 4X4",
+      "vin": "3GCUKNEC3JG398300",
+      "mileage": 137854,
+      "salesPrice": 11700.0,
+      "specs": {
+        "Make": "CHEVROLET",
+        "Model": "Silverado",
+        "ModelYear": "2018",
+        "BodyClass": "Pickup",
+        "EngineCylinders": "8",
+        "DisplacementL": "5.3",
+        "EngineHP": "",
+        "FuelTypePrimary": "Gasoline",
+        "DriveType": "4WD/4-Wheel Drive/4x4",
+        "PlantCity": "SILAO",
+        "PlantState": "",
+        "PlantCountry": "MEXICO",
+        "VehicleType": "TRUCK",
+        "Manufacturer": "GENERAL MOTORS LLC",
+        "Trim": "Work Truck/LS/Fleet/Base",
+        "Series": "1500",
+        "Aspiration": "Standard"
+      },
+      "recalls": {
+        "count": 7,
+        "items": [
+          {
+            "campaignNumber": "19V645000",
+            "component": "SERVICE BRAKES, HYDRAULIC:POWER ASSIST:VACUUM",
+            "summary": "General Motors LLC (GM) is recalling certain 2015-2017 Cadillac Escalade, 2014-2018 Chevrolet Silverado, GMC Sierra, 2015-2018 Chevrolet Suburban, Tahoe, GMC Yukon vehicles.  The amount of vacuum created by the vacuum pump may decrease over time.",
+            "consequence": "As the vacuum level drops, the brake assist decreases, increasing braking effort, extending the distance required to stop the vehicle, thereby increasing the risk of a crash.",
+            "remedy": "GM will notify owners, and dealers will reprogram the Electronic Brake Control Module, free of charge.  The recall began October 8, 2019.  Owners may contact Chevrolet customer service at 1-800-630-2438, Cadillac customer service at 1-800-458-8006 or GMC customer service at 1-800-462-8782.  GM's number for this recall is N192268490.",
+            "date": "06/09/2019"
+          },
+          {
+            "campaignNumber": "19V761000",
+            "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:WHEEL SPEED SENSOR/TONE RING",
+            "summary": "General Motors LLC (GM) is recalling certain 2015-2020 Chevrolet Suburban, Tahoe, and GMC Yukon, and 2014-2018 Chevrolet Silverado 1500 and GMC Sierra 1500 vehicles equipped with a 5.3-liter engine, a 3.08-ratio rear axle and four-wheel drive.  If a wheel-speed sensor fails, while the vehicle is traveling between 41 and 60 mph in four-wheel or automatic mode, the Electronic-Brake Control Module (EBCM) software may activate the driveline-protection system.",
+            "consequence": "Unintended activation of the driveline-protection system will cause unintended braking on the wheel on the opposite side of the failed sensor, causing the vehicle to pull to one side unexpectedly, increasing the risk of a crash.",
+            "remedy": "GM will notify owners, and dealers will reprogram the EBCM, free of charge.  The recall began December 11, 2019.  Owners may contact Chevrolet customer service at 1-800-630-2438 or GMC customer service at 1-800-462-8782.  GM's number for this recall is N192261050.",
+            "date": "24/10/2019"
+          },
+          {
+            "campaignNumber": "20V603000",
+            "component": "SERVICE BRAKES, HYDRAULIC:POWER ASSIST:VACUUM",
+            "summary": "General Motors LLC (GM) is recalling certain 2018 Cadillac Escalade, Chevrolet Silverado 1500 and Tahoe, GMC Sierra 1500 and Yukon vehicles equipped with either a 5.3L or 6.2L V8 engine.  The output of the mechanical vacuum pump can decrease over time, decreasing the amount of vacuum/power brake assist.",
+            "consequence": "A decrease in brake assist can increase the brake pedal effort and distance required to stop the vehicle, increasing the risk of a crash.",
+            "remedy": "GM will notify owners, and dealers will reprogram the Electronic Brake Control Module, free of charge.  The recall began November 11, 2020.  Owners may contact GM customer service at 1-866-522-9559, Cadillac customer service at 1-800-458-8006 or Chevrolet customer service at 1-800-630-2438.  GM's number for this recall is N202300860.",
+            "date": "01/10/2020"
+          },
+          {
+            "campaignNumber": "24V756000",
+            "component": "AIR BAGS:SIDE/WINDOW:CURTAIN:INFLATOR",
+            "summary": "General Motors, LLC (GM) is recalling certain 2018 Chevrolet Silverado 1500, GMC Sierra 1500, 2018-2019 Chevrolet Silverado 2500, 3500, and GMC Sierra 2500, 3500 Crew Cab trucks.  The left or right-side roof-rail air bag (RRAB) inflator end cap may detach from the inflator or the inflator sidewall may rupture.",
+            "consequence": "A separated inflator end cap or inflator rupture can allow compressed gas to escape, resulting in the end cap or other components being propelled into the vehicle, increasing the risk of injury or crash.",
+            "remedy": "Dealers will replace the left and right side RRAB modules, free of charge.  Owner notification letters were mailed November 8, 2024.  Owners may contact Chevrolet customer service at 1-800-222-1020, and GMC Customer Service at 888-988-7267.  GM's number for this recall is N242474500.",
+            "date": "10/10/2024"
+          },
+          {
+            "campaignNumber": "25V432000",
+            "component": "AIR BAGS",
+            "summary": "General Motors (GM) is recalling certain 2018 GMC Sierra 1500, 2019 Sierra 2500, 3500, Chevrolet Silverado 3500, and Chevrolet Silverado 2500 and 2018 Chevrolet Silverado 1500 Crew Cab vehicles. The left or right-side roof-rail air bag (RRAB) inflator end cap may detach from the inflator or the inflator sidewall may rupture.",
+            "consequence": "A detached end cap or inflator rupture can allow compressed gas to escape and project the end cap or fragments of the inflator into the vehicle, increases the risk of injury or crash.",
+            "remedy": "Dealers will replace the left and right side RRAB modules, free of charge. Owner notification letters were mailed July 23, 2025. Owners may contact GMC customer service at 1-888-988-7267 or Chevrolet customer service at 1-800-222-1020. GM's number for this recall is N252513060.",
+            "date": "26/06/2025"
+          },
+          {
+            "campaignNumber": "26V166000",
+            "component": "AIR BAGS",
+            "summary": "General Motors, LLC (GM) is recalling certain 2018 Chevrolet Silverado 1500, GMC Sierra 1500, 2019 Chevrolet Silverado 2500, Silverado 3500, GMC Sierra 2500, and Sierra 3500 Crew Cab vehicles.  The left or right-side roof rail air bag (RRAB) inflator end cap may detach from the inflator or the inflator sidewall may rupture.",
+            "consequence": "A detached end cap or inflator rupture can allow compressed gas to escape and project the end cap or fragments of the inflator into the vehicle, increasing the risk of injury.",
+            "remedy": "Dealers will replace the left and right-side RRAB modules, free of charge. Owner notification letters were mailed April 16, 2026. Owners may contact GMC customer service at 1-888-988-7267 or Chevrolet customer service at 1-800-222-1020. GM's number for this recall is N262549710. Vehicle Identification Numbers (VINs) involved in this recall became searchable on NHTSA.gov on March 19, 2026.",
+            "date": "19/03/2026"
+          },
+          {
+            "campaignNumber": "26V325000",
+            "component": "AIR BAGS",
+            "summary": "General Motors, LLC (GM) is recalling certain 2018 Chevrolet Silverado 1500, GMC Sierra 1500, 2019 Chevrolet Silverado 2500, Silverado 3500, GMC Sierra 2500, and Sierra 3500 vehicles. The left-side or right-side roof rail air bag (RRAB) inflator end cap may detach from the inflator or the inflator sidewall may rupture.",
+            "consequence": "A detached end cap or inflator rupture can allow compressed gas to escape and project the end cap or fragments of the inflator into the vehicle, increasing the risk of injury.",
+            "remedy": "Dealers will replace both RRAB modules, free of charge. Owner notification letters were mailed June 24, 2026. Owners may contact GMC customer service at 1-888-988-7267 or Chevrolet customer service at 1-800-222-1020. GM's number for this recall is N262557310. Vehicle Identification Numbers (VINs) involved in this recall became searchable on NHTSA.gov on May 21, 2026. This recall expands previous NHTSA recall number 26V166.",
+            "date": "21/05/2026"
+          }
+        ]
+      },
+      "mpg": {
+        "city": 16,
+        "hwy": 22,
+        "combined": 18
+      },
+      "image": "images/chevrolet_silverado.jpg",
+      "edmundsReview": {
+        "rating": 4.5,
+        "ratingText": "Edmunds Rating: 4.5 / 5 - Outstanding",
+        "summary": "The Chevrolet Silverado 1500 Crew Cab 4x4 is celebrated for its powerful 5.3L V8 engine, remarkably quiet highway cabin, robust 4WD system, and heavy-duty towing performance.",
+        "pros": [
+          "Quiet, comfortable, and well-insulated Crew Cab interior",
+          "Strong 5.3L V8 engine with active fuel management and high towing capacity",
+          "Capable Autotrac 4WD system with low-range transfer case",
+          "CornerStep rear bumper and durable roll-formed steel bed"
+        ],
+        "cons": [
+          "Transmission can hesitate during hard downshifts",
+          "Steering feel is relaxed rather than sporty"
+        ],
+        "verdict": "A powerhouse 4x4 pickup truck that combines serious work capacity with refined passenger comfort.",
+        "url": "https://www.edmunds.com/chevrolet/silverado-1500/2018/review/"
+      },
+      "kbbValuation": {
+        "fairPurchasePrice": 20275,
+        "formattedFairPrice": "$20,275",
+        "priceRange": "$17,842 - $22,708",
+        "privatePartyValue": 18653,
+        "suggestedRetail": 22302,
+        "savingsVsKbb": 8575,
+        "savingsPct": 42.3,
+        "formattedSavings": "$8,575",
+        "url": "https://www.kbb.com/chevrolet/silverado-1500-crew-cab/2018/"
+      }
+    },
+    {
+      "assetNumber": "405-599025-01-001",
+      "description": "2017 CHEVROLET 1500 CREW CAB 4X4",
+      "vin": "3GCUKNEC5HG403491",
+      "mileage": 83873,
+      "salesPrice": 16300.0,
+      "specs": {
+        "Make": "CHEVROLET",
+        "Model": "Silverado",
+        "ModelYear": "2017",
+        "BodyClass": "Pickup",
+        "EngineCylinders": "8",
+        "DisplacementL": "5.3",
+        "EngineHP": "",
+        "FuelTypePrimary": "Gasoline",
+        "DriveType": "4WD/4-Wheel Drive/4x4",
+        "PlantCity": "SILAO",
+        "PlantState": "",
+        "PlantCountry": "MEXICO",
+        "VehicleType": "TRUCK",
+        "Manufacturer": "GENERAL MOTORS LLC",
+        "Trim": "Work Truck/LS/Fleet/Base",
+        "Series": "1500",
+        "Aspiration": "Standard"
+      },
+      "recalls": {
+        "count": 6,
+        "items": [
+          {
+            "campaignNumber": "19V645000",
+            "component": "SERVICE BRAKES, HYDRAULIC:POWER ASSIST:VACUUM",
+            "summary": "General Motors LLC (GM) is recalling certain 2015-2017 Cadillac Escalade, 2014-2018 Chevrolet Silverado, GMC Sierra, 2015-2018 Chevrolet Suburban, Tahoe, GMC Yukon vehicles.  The amount of vacuum created by the vacuum pump may decrease over time.",
+            "consequence": "As the vacuum level drops, the brake assist decreases, increasing braking effort, extending the distance required to stop the vehicle, thereby increasing the risk of a crash.",
+            "remedy": "GM will notify owners, and dealers will reprogram the Electronic Brake Control Module, free of charge.  The recall began October 8, 2019.  Owners may contact Chevrolet customer service at 1-800-630-2438, Cadillac customer service at 1-800-458-8006 or GMC customer service at 1-800-462-8782.  GM's number for this recall is N192268490.",
+            "date": "06/09/2019"
+          },
+          {
+            "campaignNumber": "19V761000",
+            "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:WHEEL SPEED SENSOR/TONE RING",
+            "summary": "General Motors LLC (GM) is recalling certain 2015-2020 Chevrolet Suburban, Tahoe, and GMC Yukon, and 2014-2018 Chevrolet Silverado 1500 and GMC Sierra 1500 vehicles equipped with a 5.3-liter engine, a 3.08-ratio rear axle and four-wheel drive.  If a wheel-speed sensor fails, while the vehicle is traveling between 41 and 60 mph in four-wheel or automatic mode, the Electronic-Brake Control Module (EBCM) software may activate the driveline-protection system.",
+            "consequence": "Unintended activation of the driveline-protection system will cause unintended braking on the wheel on the opposite side of the failed sensor, causing the vehicle to pull to one side unexpectedly, increasing the risk of a crash.",
+            "remedy": "GM will notify owners, and dealers will reprogram the EBCM, free of charge.  The recall began December 11, 2019.  Owners may contact Chevrolet customer service at 1-800-630-2438 or GMC customer service at 1-800-462-8782.  GM's number for this recall is N192261050.",
+            "date": "24/10/2019"
+          },
+          {
+            "campaignNumber": "16V651000",
+            "component": "AIR BAGS:FRONTAL",
+            "summary": "General Motors LLC (GM) is recalling certain model year 2015-2017 Chevrolet Silverado 2500 HD, 3500 HD, Tahoe, Suburban,  GMC Sierra 2500 HD and 3500 HD, GMC Yukon, GMC Yukon XL, Cadillac Escalade and Cadillac Escalade ESV vehicles and 2014-2017 Chevrolet Corvette, Silverado 1500, Trax, Caprice Police Pursuit Vehicle, GMC Sierra 1500, Buick Encore, and 2014-2016 Buick Lacrosse, Chevrolet Spark EV and SS vehicles.  In the affected vehicles, certain driving conditions may cause the air bag sensing and diagnostic module (SDM) software to activate a diagnostic test.  During this test, deployment of the frontal air bags and the seat belt pretensioners would not occur in the event of a crash.",
+            "consequence": "A failure of the front air bags or seat belt pretensioners to deploy in the event of a crash necessitating deployment increases the risk of injury to the driver and front passenger.",
+            "remedy": "GM will notify owners, and dealers will reflash the SDM software.  Vehicles that have had a previous air bag deployment will have the SDM replaced.  These repairs will be performed free of charge.  The recall began on October 13, 2016.  Owners may contact Buick customer service at 1-800-521-7300, Cadillac customer service at 1-800-458-8006, Chevrolet customer service at 1-800-222-1020, or GMC customer service at 1-800-462-8782.  GM's number for this recall is 16007.",
+            "date": "08/09/2016"
+          },
+          {
+            "campaignNumber": "17V487000",
+            "component": "CHILD SEAT:TETHER: CONNECTOR/CLIP",
+            "summary": "General Motors LLC (GM) is recalling certain 2017 Chevrolet Silverado 1500, and GMC Sierra 1500 trucks.  The owner's manual for the affected vehicles may be missing instructions on how to use the tether anchorage and child restraint anchorage systems.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard (FMVSS) number 225, \"Child Restraint Anchorage Systems.\"",
+            "consequence": "If the instructions are missing from the owner's manual, the child seat may be installed incorrectly and not be properly secured, increasing the risk of injury in a crash.",
+            "remedy": "GM will notify owners, and dealers will provide a corrected insert for the owners manual, free of charge.  The recall began on September 25, 2017.  Owners may contact GM customer service at 1-800-222-1020 (Chevrolet), or 1-800-462-8782 (GMC).  GM's number for this recall is 17307.",
+            "date": "03/08/2017"
+          },
+          {
+            "campaignNumber": "16V256000",
+            "component": "SUSPENSION:FRONT:CONTROL ARM",
+            "summary": "General Motors LLC (GM) is recalling certain model year 2016-2017 Chevrolet Silverado 1500 and 2016 Cadillac Escalade, Cadillac Escalade ESV, Chevrolet Suburban, Chevrolet Tahoe, GMC Sierra, GMC Yukon and GMC Yukon XL vehicles.  The front upper control arms may have inadequate welds near the control arm bushing.",
+            "consequence": "Inadequate welds may allow the control arm to separate from the bushing, compromising steering and increasing the risk of a crash.",
+            "remedy": "GM will notify owners, and dealers will replace the left and right front upper control arms and realign the vehicle, free of charge.  The recall began on May 18, 2016.  Until the repairs have been made, owners are advised not to drive their vehicles.  Owners may contact Chevrolet customer service at 1-800-222-1020, Cadillac customer service at 1-800-458-8006, or GMC customer service at 1-800-462-8782.  GM's number for this recall is 42190.",
+            "date": "28/04/2016"
+          },
+          {
+            "campaignNumber": "17V437000",
+            "component": "AIR BAGS:FRONTAL",
+            "summary": "General Motors LLC (GM) is recalling certain model year 2014-2016 Buick Lacrosse and Chevrolet Spark EV, Caprice PPV and SS vehicles, 2014-2017 Buick Encore and Chevrolet Corvette, Silverado 1500 and GMC Sierra 1500 vehicles, 2015-2016 Cadillac Escalade and Escalade ESV, Chevrolet Tahoe, Trax, Suburban and Silverado 2500 and 3500 and GMC Yukon and Yukon XL vehicles, and 2015-2017 GMC Sierra HD 2500 and 3500 vehicles.  While being previously remedied for recall 16V-651, the affected vehicles may not have received the complete software update necessary to remedy the recall condition.  Without the update, certain driving conditions may cause the air bag sensing and diagnostic module (SDM) software to activate a diagnostic test.  During this test, deployment of the frontal air bags and the seat belt pretensioners would not occur in the event of a crash.",
+            "consequence": "A failure of the front air bags or seat belt pretensioners to deploy in the event of a crash necessitating deployment increases the risk of injury to the driver and front passenger.",
+            "remedy": "GM will notify owners, and dealers will reflash the SDM software.  Vehicles that have had a previous air bag deployment will have the SDM replaced.  These repairs will be performed free of charge.  The recall began on August 4, 2017.  Owners may contact Buick customer service at 1-800-521-7300, Cadillac customer service at 1-800-458-8006, Chevrolet customer service at 1-800-222-1020, or GMC customer service at 1-800-462-8782.  GM's number for this recall is 17287.",
+            "date": "10/07/2017"
+          }
+        ]
+      },
+      "mpg": {
+        "city": 16,
+        "hwy": 22,
+        "combined": 18
+      },
+      "image": "images/chevrolet_silverado.jpg",
+      "edmundsReview": {
+        "rating": 4.5,
+        "ratingText": "Edmunds Rating: 4.5 / 5 - Outstanding",
+        "summary": "The Chevrolet Silverado 1500 Crew Cab 4x4 is celebrated for its powerful 5.3L V8 engine, remarkably quiet highway cabin, robust 4WD system, and heavy-duty towing performance.",
+        "pros": [
+          "Quiet, comfortable, and well-insulated Crew Cab interior",
+          "Strong 5.3L V8 engine with active fuel management and high towing capacity",
+          "Capable Autotrac 4WD system with low-range transfer case",
+          "CornerStep rear bumper and durable roll-formed steel bed"
+        ],
+        "cons": [
+          "Transmission can hesitate during hard downshifts",
+          "Steering feel is relaxed rather than sporty"
+        ],
+        "verdict": "A powerhouse 4x4 pickup truck that combines serious work capacity with refined passenger comfort.",
+        "url": "https://www.edmunds.com/chevrolet/silverado-1500/2018/review/"
+      },
+      "kbbValuation": {
+        "fairPurchasePrice": 22164,
+        "formattedFairPrice": "$22,164",
+        "priceRange": "$19,504 - $24,823",
+        "privatePartyValue": 20390,
+        "suggestedRetail": 24380,
+        "savingsVsKbb": 5864,
+        "savingsPct": 26.5,
+        "formattedSavings": "$5,864",
+        "url": "https://www.kbb.com/chevrolet/silverado-1500-crew-cab/2018/"
+      }
+    },
+    {
+      "assetNumber": "515-002000-01-001",
+      "description": "2015 CHEVY IMPALA",
+      "vin": "2G1WA5E37F1124909",
+      "mileage": 91185,
+      "salesPrice": 5000.0,
+      "specs": {
+        "Make": "CHEVROLET",
+        "Model": "Impala Limited",
+        "ModelYear": "2015",
+        "BodyClass": "Sedan/Saloon",
+        "EngineCylinders": "6",
+        "DisplacementL": "3.6",
+        "EngineHP": "",
+        "FuelTypePrimary": "Gasoline",
+        "DriveType": "FWD/Front-Wheel Drive",
+        "PlantCity": "OSHAWA #2",
+        "PlantState": "ONTARIO",
+        "PlantCountry": "CANADA",
+        "VehicleType": "PASSENGER CAR",
+        "Manufacturer": "GENERAL MOTORS LLC",
+        "Trim": "LS Fleet",
+        "Series": "",
+        "Aspiration": "Standard"
+      },
+      "recalls": {
+        "count": 3,
+        "items": [
+          {
+            "campaignNumber": "14V489000",
+            "component": "STRUCTURE",
+            "summary": "General Motors LLC (GM) is recalling certain model year 2014-2015 Chevrolet Impala vehicles manufactured May 7, 2014, to July 28, 2014.  In the event of an accident, the center storage console may not stay latched.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard No. 201, \"Occupant Protection In Interior Impact.\"",
+            "consequence": "The storage compartment door may not remain closed in the event of a crash, increasing the risk of occupant injury.",
+            "remedy": "Parts to remedy this condition are not currently available.  GM will send owners an interim notification in early October 2014, and will send a second letter when parts are available.  At that time dealers will inspect, and if necessary, replace the console storage compartment door inertia latch, free of charge.  Owners may contact Chevrolet customer service at 1-800-222-1020.  GM's number for this recall is 14476.",
+            "date": "08/08/2014"
+          },
+          {
+            "campaignNumber": "15V465000",
+            "component": "AIR BAGS",
+            "summary": "General Motors LLC (GM) is recalling certain model year 2014-2015 Chevrolet Impala vehicles manufactured April 15, 2013, to June 19, 2015, equipped with front vented-heated passenger seats. Accordingly, the Automatic Occupant Sensing (AOS) system may fail to suppress the front passenger air bag if a child seat is in the front passenger seat.  These vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard (FMVSS) No. 208, \"Occupant Crash Protection.\"",
+            "consequence": "If the front passenger air bag deploys with a child seat in the front passenger seat, it increases the risk of injury to the child.",
+            "remedy": "GM will notify owners, and dealers will correct the calibration-learning error by preconditioning the empty seat, and also resetting the ECU to a seat zero-value, free of charge. The recall began on August 25, 2015. Owners may contact Chevrolet customer service at 1-800-222-1020. GM's number for this recall is 15400.",
+            "date": "24/07/2015"
+          },
+          {
+            "campaignNumber": "14V541000",
+            "component": "PARKING BRAKE",
+            "summary": "General Motors LLC (GM) is recalling certain model year 2013-2015 Cadillac XTS vehicles manufactured February 14, 2012, to August 22, 2014, and 2014-2015 Chevrolet Impala vehicles manufactured November 5, 2012, to September 2, 2014.  In the affected vehicles, the electronic parking brake piston actuation arm may not fully retract causing the brake pads to stay partially engaged.",
+            "consequence": "Brake pads that remain partially engaged with the rotors may cause excessive brake heat that may result in a fire.",
+            "remedy": "GM will notify owners, and dealers will update the electronic parking brake software, free of charge.  The recall began on October 28, 2014.  Owners may contact Chevrolet customer service at 1-800-222-1020, or Cadillac customer service at 1-800-458-8006.  GM's number for this recall is 14471.",
+            "date": "09/09/2014"
+          }
+        ]
+      },
+      "mpg": {
+        "city": 19,
+        "hwy": 29,
+        "combined": 22
+      },
+      "image": "images/chevy_impala.jpg",
+      "edmundsReview": {
+        "rating": 4.4,
+        "ratingText": "Edmunds Rating: 4.4 / 5 - Excellent",
+        "summary": "The 2015 Chevrolet Impala is a top-ranked full-size sedan praised for its cavernous passenger cabin, serene highway ride quality, huge trunk space, and smooth 3.6L V6 engine.",
+        "pros": [
+          "Abundant passenger room in both front and back seats",
+          "Massive 18.8 cubic feet trunk capacity",
+          "Quiet, smooth highway ride quality that absorbs road imperfections effortlessly",
+          "Strong 305-hp 3.6L V6 engine with crisp acceleration"
+        ],
+        "cons": [
+          "Thick rear roof pillars impair rear diagonal visibility",
+          "Large size makes tight parallel parking take extra attention"
+        ],
+        "verdict": "One of the finest full-size American sedans made, providing luxury-level highway comfort at a fraction of the cost.",
+        "url": "https://www.edmunds.com/chevrolet/impala/2015/review/"
+      },
+      "kbbValuation": {
+        "fairPurchasePrice": 10258,
+        "formattedFairPrice": "$10,258",
+        "priceRange": "$9,027 - $11,488",
+        "privatePartyValue": 9437,
+        "suggestedRetail": 11283,
+        "savingsVsKbb": 5258,
+        "savingsPct": 51.3,
+        "formattedSavings": "$5,258",
+        "url": "https://www.kbb.com/chevrolet/impala/2015/"
+      }
+    }
+  ]
+}
