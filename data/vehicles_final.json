@@ -34,41 +34,8 @@
         "Aspiration": "Standard"
       },
       "recalls": {
-        "count": 4,
-        "items": [
-          {
-            "campaignNumber": "19V645000",
-            "component": "SERVICE BRAKES, HYDRAULIC:POWER ASSIST:VACUUM",
-            "summary": "General Motors LLC (GM) is recalling certain 2015-2017 Cadillac Escalade, 2014-2018 Chevrolet Silverado, GMC Sierra, 2015-2018 Chevrolet Suburban, Tahoe, GMC Yukon vehicles.  The amount of vacuum created by the vacuum pump may decrease over time.",
-            "consequence": "As the vacuum level drops, the brake assist decreases, increasing braking effort, extending the distance required to stop the vehicle, thereby increasing the risk of a crash.",
-            "remedy": "GM will notify owners, and dealers will reprogram the Electronic Brake Control Module, free of charge.  The recall began October 8, 2019.  Owners may contact Chevrolet customer service at 1-800-630-2438, Cadillac customer service at 1-800-458-8006 or GMC customer service at 1-800-462-8782.  GM's number for this recall is N192268490.",
-            "date": "06/09/2019"
-          },
-          {
-            "campaignNumber": "19V761000",
-            "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:WHEEL SPEED SENSOR/TONE RING",
-            "summary": "General Motors LLC (GM) is recalling certain 2015-2020 Chevrolet Suburban, Tahoe, and GMC Yukon, and 2014-2018 Chevrolet Silverado 1500 and GMC Sierra 1500 vehicles equipped with a 5.3-liter engine, a 3.08-ratio rear axle and four-wheel drive.  If a wheel-speed sensor fails, while the vehicle is traveling between 41 and 60 mph in four-wheel or automatic mode, the Electronic-Brake Control Module (EBCM) software may activate the driveline-protection system.",
-            "consequence": "Unintended activation of the driveline-protection system will cause unintended braking on the wheel on the opposite side of the failed sensor, causing the vehicle to pull to one side unexpectedly, increasing the risk of a crash.",
-            "remedy": "GM will notify owners, and dealers will reprogram the EBCM, free of charge.  The recall began December 11, 2019.  Owners may contact Chevrolet customer service at 1-800-630-2438 or GMC customer service at 1-800-462-8782.  GM's number for this recall is N192261050.",
-            "date": "24/10/2019"
-          },
-          {
-            "campaignNumber": "16V651000",
-            "component": "AIR BAGS:FRONTAL",
-            "summary": "General Motors LLC (GM) is recalling certain model year 2015-2017 Chevrolet Silverado 2500 HD, 3500 HD, Tahoe, Suburban,  GMC Sierra 2500 HD and 3500 HD, GMC Yukon, GMC Yukon XL, Cadillac Escalade and Cadillac Escalade ESV vehicles and 2014-2017 Chevrolet Corvette, Silverado 1500, Trax, Caprice Police Pursuit Vehicle, GMC Sierra 1500, Buick Encore, and 2014-2016 Buick Lacrosse, Chevrolet Spark EV and SS vehicles.  In the affected vehicles, certain driving conditions may cause the air bag sensing and diagnostic module (SDM) software to activate a diagnostic test.  During this test, deployment of the frontal air bags and the seat belt pretensioners would not occur in the event of a crash.",
-            "consequence": "A failure of the front air bags or seat belt pretensioners to deploy in the event of a crash necessitating deployment increases the risk of injury to the driver and front passenger.",
-            "remedy": "GM will notify owners, and dealers will reflash the SDM software.  Vehicles that have had a previous air bag deployment will have the SDM replaced.  These repairs will be performed free of charge.  The recall began on October 13, 2016.  Owners may contact Buick customer service at 1-800-521-7300, Cadillac customer service at 1-800-458-8006, Chevrolet customer service at 1-800-222-1020, or GMC customer service at 1-800-462-8782.  GM's number for this recall is 16007.",
-            "date": "08/09/2016"
-          },
-          {
-            "campaignNumber": "26V289000",
-            "component": "POWER TRAIN:TRANSFER CASE (4-WHEEL DRIVE)",
-            "summary": "General Motors, LLC (GM) is recalling certain 2026 Cadillac Escalade and Escalade ESV, Chevrolet Silverado 1500, Suburban, and Tahoe, and GMC Sierra 1500, Yukon, and Yukon XL vehicles with four-wheel (4WD) or all-wheel drive (AWD), and certain 2015-2020 Suburban, Escalade, Escalade ESV, Yukon, Yukon XL, and Tahoe vehicles. A component missing from the drivetrain transfer case may cause the front and/or rear wheels to lock up without warning to the driver.",
-            "consequence": "Front or rear wheel lockup increases the risk of a crash.",
-            "remedy": "Owners are advised not to drive their vehicle until the remedy is completed. Dealers will inspect and, if necessary, replace the transfer case assembly, free of charge. Owner notification letters were mailed May 18, 2026. Owners may contact GMC customer service at 1-800-462-8782, Chevrolet customer service at 1-800-222-1020 or Cadillac customer service at 1-800-333-4223.  GM's number for this recall is N262557620. Vehicle Identification Numbers (VINs) involved in this recall became searchable on NHTSA.gov on May 7, 2026.",
-            "date": "07/05/2026"
-          }
-        ]
+        "count": 0,
+        "items": []
       },
       "mpg": {
         "city": 16,
@@ -228,25 +195,8 @@
         "Aspiration": "Standard"
       },
       "recalls": {
-        "count": 2,
-        "items": [
-          {
-            "campaignNumber": "19V761000",
-            "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:WHEEL SPEED SENSOR/TONE RING",
-            "summary": "General Motors LLC (GM) is recalling certain 2015-2020 Chevrolet Suburban, Tahoe, and GMC Yukon, and 2014-2018 Chevrolet Silverado 1500 and GMC Sierra 1500 vehicles equipped with a 5.3-liter engine, a 3.08-ratio rear axle and four-wheel drive.  If a wheel-speed sensor fails, while the vehicle is traveling between 41 and 60 mph in four-wheel or automatic mode, the Electronic-Brake Control Module (EBCM) software may activate the driveline-protection system.",
-            "consequence": "Unintended activation of the driveline-protection system will cause unintended braking on the wheel on the opposite side of the failed sensor, causing the vehicle to pull to one side unexpectedly, increasing the risk of a crash.",
-            "remedy": "GM will notify owners, and dealers will reprogram the EBCM, free of charge.  The recall began December 11, 2019.  Owners may contact Chevrolet customer service at 1-800-630-2438 or GMC customer service at 1-800-462-8782.  GM's number for this recall is N192261050.",
-            "date": "24/10/2019"
-          },
-          {
-            "campaignNumber": "26V289000",
-            "component": "POWER TRAIN:TRANSFER CASE (4-WHEEL DRIVE)",
-            "summary": "General Motors, LLC (GM) is recalling certain 2026 Cadillac Escalade and Escalade ESV, Chevrolet Silverado 1500, Suburban, and Tahoe, and GMC Sierra 1500, Yukon, and Yukon XL vehicles with four-wheel (4WD) or all-wheel drive (AWD), and certain 2015-2020 Suburban, Escalade, Escalade ESV, Yukon, Yukon XL, and Tahoe vehicles. A component missing from the drivetrain transfer case may cause the front and/or rear wheels to lock up without warning to the driver.",
-            "consequence": "Front or rear wheel lockup increases the risk of a crash.",
-            "remedy": "Owners are advised not to drive their vehicle until the remedy is completed. Dealers will inspect and, if necessary, replace the transfer case assembly, free of charge. Owner notification letters were mailed May 18, 2026. Owners may contact GMC customer service at 1-800-462-8782, Chevrolet customer service at 1-800-222-1020 or Cadillac customer service at 1-800-333-4223.  GM's number for this recall is N262557620. Vehicle Identification Numbers (VINs) involved in this recall became searchable on NHTSA.gov on May 7, 2026.",
-            "date": "07/05/2026"
-          }
-        ]
+        "count": 0,
+        "items": []
       },
       "mpg": {
         "city": 15,
@@ -309,57 +259,8 @@
         "Aspiration": "Standard"
       },
       "recalls": {
-        "count": 6,
-        "items": [
-          {
-            "campaignNumber": "21V316000",
-            "component": "STRUCTURE:BODY",
-            "summary": "Ford Motor Company (Ford) is recalling certain 2016-2019 Explorer vehicles.  The retention pins could loosen and allow the roof rail covers to detach from the vehicle.",
-            "consequence": "A detached roof rail cover can create a road hazard, increasing the risk of a crash.",
-            "remedy": "Dealers will install push-pins and replace any damaged rail clips and roof rail covers, as necessary, free of charge.  The interim owner notification letter was mailed on June 22, 2021.  Owner notification letters (remedy available) were mailed on October 1, 2021.  Owners may contact Ford customer service at 1-866-436-7332.  Ford's number for this recall is 21S22.",
-            "date": "05/05/2021"
-          },
-          {
-            "campaignNumber": "19V633000",
-            "component": "SEATS:FRONT ASSEMBLY:RECLINER",
-            "summary": "Ford Motor Company (Ford) is recalling certain 2018-2020 F-150 and 2019-2020 F-250, F-350, F-450, and F-550 Super Duty pickup trucks, and 2018-2019 Ford Explorer, 2019-2020 Expedition, and 2020 Escape vehicles equipped with driver and/or passenger's manual front seat back recliner mechanisms.  Also included are certain 2020 Ford Explorer and Lincoln Aviator vehicles equipped with rear outboard seats and manual seat back recliner mechanisms.  The recliner mechanisms may be missing the third pawl required for seat back strength, resulting in a loose seat back.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard (FMVSS) numbers 202, \"Head Restraints\" and 207, \"Seating Systems.\"",
-            "consequence": "A seat back with an improperly assembled recliner mechanism may have reduced strength and may not adequately restrain an occupant in a crash, increasing the risk of injury.",
-            "remedy": "Ford will notify owners, and Ford and Lincoln dealers will inspect the seat structure and replace them, as necessary, free of charge.  The recall began October 21, 2019.  Owners may contact Ford customer service at 1-866-436-7332.  Ford's number for this recall is 19C07.",
-            "date": "28/08/2019"
-          },
-          {
-            "campaignNumber": "24V031000",
-            "component": "STRUCTURE:BODY:ROOF AND PILLARS",
-            "summary": "Ford Motor Company (Ford) is recalling certain 2011-2019 Explorer vehicles.  The A-pillar trim retention clips may not be properly engaged, allowing the trim to detach.",
-            "consequence": "A detached trim piece can fall off the vehicle, becoming a road hazard and increasing the risk of a crash.",
-            "remedy": "Dealers will inspect and replace the A-pillar trim as necessary, free of charge. This will be a phased campaign, with the remedy becoming available in different phases based on model years. Owner notification letters were mailed between July 18, 2024 and December 16, 2025. Owners may contact Ford customer service at 1-866-436-7332.  Ford's number for this recall is 24S02.",
-            "date": "19/01/2024"
-          },
-          {
-            "campaignNumber": "26V012000",
-            "component": "EQUIPMENT:ELECTRICAL:ENGINE BLOCK HEATER",
-            "summary": "Ford Motor Company (Ford) is recalling certain 2016-2018 Focus, 2019 Explorer, and 2024 Explorer vehicles. The engine block heater may crack and develop a coolant leak, causing it to short circuit when the block heater is plugged in.",
-            "consequence": "An electrical short circuit can increase the risk of a fire.",
-            "remedy": "Owners are advised not to plug in their block heater until the vehicle is remedied. Dealers will replace the block heater, free of charge. Owners will also have a alternative option to replace engine block heater element with a threaded blanking plug, and remove the block heater electrical cord. Interim letters, notifying owners of the safety risk, were mailed February 13, 2026. Additional letters will be sent once the final remedy is available, anticipated in October 2026. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 25SA4. Vehicle Identification Numbers (VINs) involved in this recall became searchable on NHTSA.gov on January 16, 2026. This recall expands previous recall number 25V685.",
-            "date": "15/01/2026"
-          },
-          {
-            "campaignNumber": "26V101000",
-            "component": "SUSPENSION:REAR",
-            "summary": "Ford Motor Company (Ford) is recalling certain 2017-2019 Explorer vehicles. The rear suspension toe links may fracture.",
-            "consequence": "A rear toe link fracture can result in a loss of steering control, increasing the risk of a crash.",
-            "remedy": "Dealers will replace the toe links, free of charge. Owner notification letters were mailed on March 16, 2026. Owners may contact Ford Customer Service at 1-866-436-7332. Ford's number for this recall is 26S08. This recall is an expansion of previous NHTSA recall number 21V537. Vehicle Identification Numbers (VINs) involved in this recall will be searchable on NHTSA.gov beginning February 25, 2026.",
-            "date": "20/02/2026"
-          },
-          {
-            "campaignNumber": "26V448000",
-            "component": "STRUCTURE:BODY",
-            "summary": "Ford Motor Company (Ford) is recalling certain 2016-2019 Explorer vehicles. The roof rail covers may come loose and detach from the vehicle.",
-            "consequence": "A detached roof rail cover can create a road hazard, increasing the risk of a crash.",
-            "remedy": "Dealers will inspect the roof rail covers and as necessary, repair or replace the push-pins, rail clips, or roof rail covers, free of charge. Interim letters, notifying owners of the safety risk, are expected to be mailed August 24, 2026. Additional letters will be sent once the remedy is available, anticipated in September 2026. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 26S54. This recall expands previous NHTSA recall number 21V316. Vehicle Identification Numbers (VINs) involved in this recall became searchable on NHTSA.gov on July 16, 2026.",
-            "date": "14/07/2026"
-          }
-        ]
+        "count": 0,
+        "items": []
       },
       "mpg": {
         "city": 16,
@@ -422,57 +323,8 @@
         "Aspiration": "Standard"
       },
       "recalls": {
-        "count": 6,
-        "items": [
-          {
-            "campaignNumber": "21V316000",
-            "component": "STRUCTURE:BODY",
-            "summary": "Ford Motor Company (Ford) is recalling certain 2016-2019 Explorer vehicles.  The retention pins could loosen and allow the roof rail covers to detach from the vehicle.",
-            "consequence": "A detached roof rail cover can create a road hazard, increasing the risk of a crash.",
-            "remedy": "Dealers will install push-pins and replace any damaged rail clips and roof rail covers, as necessary, free of charge.  The interim owner notification letter was mailed on June 22, 2021.  Owner notification letters (remedy available) were mailed on October 1, 2021.  Owners may contact Ford customer service at 1-866-436-7332.  Ford's number for this recall is 21S22.",
-            "date": "05/05/2021"
-          },
-          {
-            "campaignNumber": "19V633000",
-            "component": "SEATS:FRONT ASSEMBLY:RECLINER",
-            "summary": "Ford Motor Company (Ford) is recalling certain 2018-2020 F-150 and 2019-2020 F-250, F-350, F-450, and F-550 Super Duty pickup trucks, and 2018-2019 Ford Explorer, 2019-2020 Expedition, and 2020 Escape vehicles equipped with driver and/or passenger's manual front seat back recliner mechanisms.  Also included are certain 2020 Ford Explorer and Lincoln Aviator vehicles equipped with rear outboard seats and manual seat back recliner mechanisms.  The recliner mechanisms may be missing the third pawl required for seat back strength, resulting in a loose seat back.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard (FMVSS) numbers 202, \"Head Restraints\" and 207, \"Seating Systems.\"",
-            "consequence": "A seat back with an improperly assembled recliner mechanism may have reduced strength and may not adequately restrain an occupant in a crash, increasing the risk of injury.",
-            "remedy": "Ford will notify owners, and Ford and Lincoln dealers will inspect the seat structure and replace them, as necessary, free of charge.  The recall began October 21, 2019.  Owners may contact Ford customer service at 1-866-436-7332.  Ford's number for this recall is 19C07.",
-            "date": "28/08/2019"
-          },
-          {
-            "campaignNumber": "24V031000",
-            "component": "STRUCTURE:BODY:ROOF AND PILLARS",
-            "summary": "Ford Motor Company (Ford) is recalling certain 2011-2019 Explorer vehicles.  The A-pillar trim retention clips may not be properly engaged, allowing the trim to detach.",
-            "consequence": "A detached trim piece can fall off the vehicle, becoming a road hazard and increasing the risk of a crash.",
-            "remedy": "Dealers will inspect and replace the A-pillar trim as necessary, free of charge. This will be a phased campaign, with the remedy becoming available in different phases based on model years. Owner notification letters were mailed between July 18, 2024 and December 16, 2025. Owners may contact Ford customer service at 1-866-436-7332.  Ford's number for this recall is 24S02.",
-            "date": "19/01/2024"
-          },
-          {
-            "campaignNumber": "26V012000",
-            "component": "EQUIPMENT:ELECTRICAL:ENGINE BLOCK HEATER",
-            "summary": "Ford Motor Company (Ford) is recalling certain 2016-2018 Focus, 2019 Explorer, and 2024 Explorer vehicles. The engine block heater may crack and develop a coolant leak, causing it to short circuit when the block heater is plugged in.",
-            "consequence": "An electrical short circuit can increase the risk of a fire.",
-            "remedy": "Owners are advised not to plug in their block heater until the vehicle is remedied. Dealers will replace the block heater, free of charge. Owners will also have a alternative option to replace engine block heater element with a threaded blanking plug, and remove the block heater electrical cord. Interim letters, notifying owners of the safety risk, were mailed February 13, 2026. Additional letters will be sent once the final remedy is available, anticipated in October 2026. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 25SA4. Vehicle Identification Numbers (VINs) involved in this recall became searchable on NHTSA.gov on January 16, 2026. This recall expands previous recall number 25V685.",
-            "date": "15/01/2026"
-          },
-          {
-            "campaignNumber": "26V101000",
-            "component": "SUSPENSION:REAR",
-            "summary": "Ford Motor Company (Ford) is recalling certain 2017-2019 Explorer vehicles. The rear suspension toe links may fracture.",
-            "consequence": "A rear toe link fracture can result in a loss of steering control, increasing the risk of a crash.",
-            "remedy": "Dealers will replace the toe links, free of charge. Owner notification letters were mailed on March 16, 2026. Owners may contact Ford Customer Service at 1-866-436-7332. Ford's number for this recall is 26S08. This recall is an expansion of previous NHTSA recall number 21V537. Vehicle Identification Numbers (VINs) involved in this recall will be searchable on NHTSA.gov beginning February 25, 2026.",
-            "date": "20/02/2026"
-          },
-          {
-            "campaignNumber": "26V448000",
-            "component": "STRUCTURE:BODY",
-            "summary": "Ford Motor Company (Ford) is recalling certain 2016-2019 Explorer vehicles. The roof rail covers may come loose and detach from the vehicle.",
-            "consequence": "A detached roof rail cover can create a road hazard, increasing the risk of a crash.",
-            "remedy": "Dealers will inspect the roof rail covers and as necessary, repair or replace the push-pins, rail clips, or roof rail covers, free of charge. Interim letters, notifying owners of the safety risk, are expected to be mailed August 24, 2026. Additional letters will be sent once the remedy is available, anticipated in September 2026. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 26S54. This recall expands previous NHTSA recall number 21V316. Vehicle Identification Numbers (VINs) involved in this recall became searchable on NHTSA.gov on July 16, 2026.",
-            "date": "14/07/2026"
-          }
-        ]
+        "count": 0,
+        "items": []
       },
       "mpg": {
         "city": 16,
@@ -535,57 +387,8 @@
         "Aspiration": "Standard"
       },
       "recalls": {
-        "count": 6,
-        "items": [
-          {
-            "campaignNumber": "21V316000",
-            "component": "STRUCTURE:BODY",
-            "summary": "Ford Motor Company (Ford) is recalling certain 2016-2019 Explorer vehicles.  The retention pins could loosen and allow the roof rail covers to detach from the vehicle.",
-            "consequence": "A detached roof rail cover can create a road hazard, increasing the risk of a crash.",
-            "remedy": "Dealers will install push-pins and replace any damaged rail clips and roof rail covers, as necessary, free of charge.  The interim owner notification letter was mailed on June 22, 2021.  Owner notification letters (remedy available) were mailed on October 1, 2021.  Owners may contact Ford customer service at 1-866-436-7332.  Ford's number for this recall is 21S22.",
-            "date": "05/05/2021"
-          },
-          {
-            "campaignNumber": "19V633000",
-            "component": "SEATS:FRONT ASSEMBLY:RECLINER",
-            "summary": "Ford Motor Company (Ford) is recalling certain 2018-2020 F-150 and 2019-2020 F-250, F-350, F-450, and F-550 Super Duty pickup trucks, and 2018-2019 Ford Explorer, 2019-2020 Expedition, and 2020 Escape vehicles equipped with driver and/or passenger's manual front seat back recliner mechanisms.  Also included are certain 2020 Ford Explorer and Lincoln Aviator vehicles equipped with rear outboard seats and manual seat back recliner mechanisms.  The recliner mechanisms may be missing the third pawl required for seat back strength, resulting in a loose seat back.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard (FMVSS) numbers 202, \"Head Restraints\" and 207, \"Seating Systems.\"",
-            "consequence": "A seat back with an improperly assembled recliner mechanism may have reduced strength and may not adequately restrain an occupant in a crash, increasing the risk of injury.",
-            "remedy": "Ford will notify owners, and Ford and Lincoln dealers will inspect the seat structure and replace them, as necessary, free of charge.  The recall began October 21, 2019.  Owners may contact Ford customer service at 1-866-436-7332.  Ford's number for this recall is 19C07.",
-            "date": "28/08/2019"
-          },
-          {
-            "campaignNumber": "24V031000",
-            "component": "STRUCTURE:BODY:ROOF AND PILLARS",
-            "summary": "Ford Motor Company (Ford) is recalling certain 2011-2019 Explorer vehicles.  The A-pillar trim retention clips may not be properly engaged, allowing the trim to detach.",
-            "consequence": "A detached trim piece can fall off the vehicle, becoming a road hazard and increasing the risk of a crash.",
-            "remedy": "Dealers will inspect and replace the A-pillar trim as necessary, free of charge. This will be a phased campaign, with the remedy becoming available in different phases based on model years. Owner notification letters were mailed between July 18, 2024 and December 16, 2025. Owners may contact Ford customer service at 1-866-436-7332.  Ford's number for this recall is 24S02.",
-            "date": "19/01/2024"
-          },
-          {
-            "campaignNumber": "26V012000",
-            "component": "EQUIPMENT:ELECTRICAL:ENGINE BLOCK HEATER",
-            "summary": "Ford Motor Company (Ford) is recalling certain 2016-2018 Focus, 2019 Explorer, and 2024 Explorer vehicles. The engine block heater may crack and develop a coolant leak, causing it to short circuit when the block heater is plugged in.",
-            "consequence": "An electrical short circuit can increase the risk of a fire.",
-            "remedy": "Owners are advised not to plug in their block heater until the vehicle is remedied. Dealers will replace the block heater, free of charge. Owners will also have a alternative option to replace engine block heater element with a threaded blanking plug, and remove the block heater electrical cord. Interim letters, notifying owners of the safety risk, were mailed February 13, 2026. Additional letters will be sent once the final remedy is available, anticipated in October 2026. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 25SA4. Vehicle Identification Numbers (VINs) involved in this recall became searchable on NHTSA.gov on January 16, 2026. This recall expands previous recall number 25V685.",
-            "date": "15/01/2026"
-          },
-          {
-            "campaignNumber": "26V101000",
-            "component": "SUSPENSION:REAR",
-            "summary": "Ford Motor Company (Ford) is recalling certain 2017-2019 Explorer vehicles. The rear suspension toe links may fracture.",
-            "consequence": "A rear toe link fracture can result in a loss of steering control, increasing the risk of a crash.",
-            "remedy": "Dealers will replace the toe links, free of charge. Owner notification letters were mailed on March 16, 2026. Owners may contact Ford Customer Service at 1-866-436-7332. Ford's number for this recall is 26S08. This recall is an expansion of previous NHTSA recall number 21V537. Vehicle Identification Numbers (VINs) involved in this recall will be searchable on NHTSA.gov beginning February 25, 2026.",
-            "date": "20/02/2026"
-          },
-          {
-            "campaignNumber": "26V448000",
-            "component": "STRUCTURE:BODY",
-            "summary": "Ford Motor Company (Ford) is recalling certain 2016-2019 Explorer vehicles. The roof rail covers may come loose and detach from the vehicle.",
-            "consequence": "A detached roof rail cover can create a road hazard, increasing the risk of a crash.",
-            "remedy": "Dealers will inspect the roof rail covers and as necessary, repair or replace the push-pins, rail clips, or roof rail covers, free of charge. Interim letters, notifying owners of the safety risk, are expected to be mailed August 24, 2026. Additional letters will be sent once the remedy is available, anticipated in September 2026. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 26S54. This recall expands previous NHTSA recall number 21V316. Vehicle Identification Numbers (VINs) involved in this recall became searchable on NHTSA.gov on July 16, 2026.",
-            "date": "14/07/2026"
-          }
-        ]
+        "count": 0,
+        "items": []
       },
       "mpg": {
         "city": 16,
@@ -1206,57 +1009,8 @@
         "Aspiration": "Standard"
       },
       "recalls": {
-        "count": 6,
-        "items": [
-          {
-            "campaignNumber": "19V645000",
-            "component": "SERVICE BRAKES, HYDRAULIC:POWER ASSIST:VACUUM",
-            "summary": "General Motors LLC (GM) is recalling certain 2015-2017 Cadillac Escalade, 2014-2018 Chevrolet Silverado, GMC Sierra, 2015-2018 Chevrolet Suburban, Tahoe, GMC Yukon vehicles.  The amount of vacuum created by the vacuum pump may decrease over time.",
-            "consequence": "As the vacuum level drops, the brake assist decreases, increasing braking effort, extending the distance required to stop the vehicle, thereby increasing the risk of a crash.",
-            "remedy": "GM will notify owners, and dealers will reprogram the Electronic Brake Control Module, free of charge.  The recall began October 8, 2019.  Owners may contact Chevrolet customer service at 1-800-630-2438, Cadillac customer service at 1-800-458-8006 or GMC customer service at 1-800-462-8782.  GM's number for this recall is N192268490.",
-            "date": "06/09/2019"
-          },
-          {
-            "campaignNumber": "19V761000",
-            "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:WHEEL SPEED SENSOR/TONE RING",
-            "summary": "General Motors LLC (GM) is recalling certain 2015-2020 Chevrolet Suburban, Tahoe, and GMC Yukon, and 2014-2018 Chevrolet Silverado 1500 and GMC Sierra 1500 vehicles equipped with a 5.3-liter engine, a 3.08-ratio rear axle and four-wheel drive.  If a wheel-speed sensor fails, while the vehicle is traveling between 41 and 60 mph in four-wheel or automatic mode, the Electronic-Brake Control Module (EBCM) software may activate the driveline-protection system.",
-            "consequence": "Unintended activation of the driveline-protection system will cause unintended braking on the wheel on the opposite side of the failed sensor, causing the vehicle to pull to one side unexpectedly, increasing the risk of a crash.",
-            "remedy": "GM will notify owners, and dealers will reprogram the EBCM, free of charge.  The recall began December 11, 2019.  Owners may contact Chevrolet customer service at 1-800-630-2438 or GMC customer service at 1-800-462-8782.  GM's number for this recall is N192261050.",
-            "date": "24/10/2019"
-          },
-          {
-            "campaignNumber": "16V651000",
-            "component": "AIR BAGS:FRONTAL",
-            "summary": "General Motors LLC (GM) is recalling certain model year 2015-2017 Chevrolet Silverado 2500 HD, 3500 HD, Tahoe, Suburban,  GMC Sierra 2500 HD and 3500 HD, GMC Yukon, GMC Yukon XL, Cadillac Escalade and Cadillac Escalade ESV vehicles and 2014-2017 Chevrolet Corvette, Silverado 1500, Trax, Caprice Police Pursuit Vehicle, GMC Sierra 1500, Buick Encore, and 2014-2016 Buick Lacrosse, Chevrolet Spark EV and SS vehicles.  In the affected vehicles, certain driving conditions may cause the air bag sensing and diagnostic module (SDM) software to activate a diagnostic test.  During this test, deployment of the frontal air bags and the seat belt pretensioners would not occur in the event of a crash.",
-            "consequence": "A failure of the front air bags or seat belt pretensioners to deploy in the event of a crash necessitating deployment increases the risk of injury to the driver and front passenger.",
-            "remedy": "GM will notify owners, and dealers will reflash the SDM software.  Vehicles that have had a previous air bag deployment will have the SDM replaced.  These repairs will be performed free of charge.  The recall began on October 13, 2016.  Owners may contact Buick customer service at 1-800-521-7300, Cadillac customer service at 1-800-458-8006, Chevrolet customer service at 1-800-222-1020, or GMC customer service at 1-800-462-8782.  GM's number for this recall is 16007.",
-            "date": "08/09/2016"
-          },
-          {
-            "campaignNumber": "17V487000",
-            "component": "CHILD SEAT:TETHER: CONNECTOR/CLIP",
-            "summary": "General Motors LLC (GM) is recalling certain 2017 Chevrolet Silverado 1500, and GMC Sierra 1500 trucks.  The owner's manual for the affected vehicles may be missing instructions on how to use the tether anchorage and child restraint anchorage systems.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard (FMVSS) number 225, \"Child Restraint Anchorage Systems.\"",
-            "consequence": "If the instructions are missing from the owner's manual, the child seat may be installed incorrectly and not be properly secured, increasing the risk of injury in a crash.",
-            "remedy": "GM will notify owners, and dealers will provide a corrected insert for the owners manual, free of charge.  The recall began on September 25, 2017.  Owners may contact GM customer service at 1-800-222-1020 (Chevrolet), or 1-800-462-8782 (GMC).  GM's number for this recall is 17307.",
-            "date": "03/08/2017"
-          },
-          {
-            "campaignNumber": "16V256000",
-            "component": "SUSPENSION:FRONT:CONTROL ARM",
-            "summary": "General Motors LLC (GM) is recalling certain model year 2016-2017 Chevrolet Silverado 1500 and 2016 Cadillac Escalade, Cadillac Escalade ESV, Chevrolet Suburban, Chevrolet Tahoe, GMC Sierra, GMC Yukon and GMC Yukon XL vehicles.  The front upper control arms may have inadequate welds near the control arm bushing.",
-            "consequence": "Inadequate welds may allow the control arm to separate from the bushing, compromising steering and increasing the risk of a crash.",
-            "remedy": "GM will notify owners, and dealers will replace the left and right front upper control arms and realign the vehicle, free of charge.  The recall began on May 18, 2016.  Until the repairs have been made, owners are advised not to drive their vehicles.  Owners may contact Chevrolet customer service at 1-800-222-1020, Cadillac customer service at 1-800-458-8006, or GMC customer service at 1-800-462-8782.  GM's number for this recall is 42190.",
-            "date": "28/04/2016"
-          },
-          {
-            "campaignNumber": "17V437000",
-            "component": "AIR BAGS:FRONTAL",
-            "summary": "General Motors LLC (GM) is recalling certain model year 2014-2016 Buick Lacrosse and Chevrolet Spark EV, Caprice PPV and SS vehicles, 2014-2017 Buick Encore and Chevrolet Corvette, Silverado 1500 and GMC Sierra 1500 vehicles, 2015-2016 Cadillac Escalade and Escalade ESV, Chevrolet Tahoe, Trax, Suburban and Silverado 2500 and 3500 and GMC Yukon and Yukon XL vehicles, and 2015-2017 GMC Sierra HD 2500 and 3500 vehicles.  While being previously remedied for recall 16V-651, the affected vehicles may not have received the complete software update necessary to remedy the recall condition.  Without the update, certain driving conditions may cause the air bag sensing and diagnostic module (SDM) software to activate a diagnostic test.  During this test, deployment of the frontal air bags and the seat belt pretensioners would not occur in the event of a crash.",
-            "consequence": "A failure of the front air bags or seat belt pretensioners to deploy in the event of a crash necessitating deployment increases the risk of injury to the driver and front passenger.",
-            "remedy": "GM will notify owners, and dealers will reflash the SDM software.  Vehicles that have had a previous air bag deployment will have the SDM replaced.  These repairs will be performed free of charge.  The recall began on August 4, 2017.  Owners may contact Buick customer service at 1-800-521-7300, Cadillac customer service at 1-800-458-8006, Chevrolet customer service at 1-800-222-1020, or GMC customer service at 1-800-462-8782.  GM's number for this recall is 17287.",
-            "date": "10/07/2017"
-          }
-        ]
+        "count": 0,
+        "items": []
       },
       "mpg": {
         "city": 16,
@@ -1319,57 +1073,8 @@
         "Aspiration": "Standard"
       },
       "recalls": {
-        "count": 6,
-        "items": [
-          {
-            "campaignNumber": "21V316000",
-            "component": "STRUCTURE:BODY",
-            "summary": "Ford Motor Company (Ford) is recalling certain 2016-2019 Explorer vehicles.  The retention pins could loosen and allow the roof rail covers to detach from the vehicle.",
-            "consequence": "A detached roof rail cover can create a road hazard, increasing the risk of a crash.",
-            "remedy": "Dealers will install push-pins and replace any damaged rail clips and roof rail covers, as necessary, free of charge.  The interim owner notification letter was mailed on June 22, 2021.  Owner notification letters (remedy available) were mailed on October 1, 2021.  Owners may contact Ford customer service at 1-866-436-7332.  Ford's number for this recall is 21S22.",
-            "date": "05/05/2021"
-          },
-          {
-            "campaignNumber": "19V633000",
-            "component": "SEATS:FRONT ASSEMBLY:RECLINER",
-            "summary": "Ford Motor Company (Ford) is recalling certain 2018-2020 F-150 and 2019-2020 F-250, F-350, F-450, and F-550 Super Duty pickup trucks, and 2018-2019 Ford Explorer, 2019-2020 Expedition, and 2020 Escape vehicles equipped with driver and/or passenger's manual front seat back recliner mechanisms.  Also included are certain 2020 Ford Explorer and Lincoln Aviator vehicles equipped with rear outboard seats and manual seat back recliner mechanisms.  The recliner mechanisms may be missing the third pawl required for seat back strength, resulting in a loose seat back.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard (FMVSS) numbers 202, \"Head Restraints\" and 207, \"Seating Systems.\"",
-            "consequence": "A seat back with an improperly assembled recliner mechanism may have reduced strength and may not adequately restrain an occupant in a crash, increasing the risk of injury.",
-            "remedy": "Ford will notify owners, and Ford and Lincoln dealers will inspect the seat structure and replace them, as necessary, free of charge.  The recall began October 21, 2019.  Owners may contact Ford customer service at 1-866-436-7332.  Ford's number for this recall is 19C07.",
-            "date": "28/08/2019"
-          },
-          {
-            "campaignNumber": "24V031000",
-            "component": "STRUCTURE:BODY:ROOF AND PILLARS",
-            "summary": "Ford Motor Company (Ford) is recalling certain 2011-2019 Explorer vehicles.  The A-pillar trim retention clips may not be properly engaged, allowing the trim to detach.",
-            "consequence": "A detached trim piece can fall off the vehicle, becoming a road hazard and increasing the risk of a crash.",
-            "remedy": "Dealers will inspect and replace the A-pillar trim as necessary, free of charge. This will be a phased campaign, with the remedy becoming available in different phases based on model years. Owner notification letters were mailed between July 18, 2024 and December 16, 2025. Owners may contact Ford customer service at 1-866-436-7332.  Ford's number for this recall is 24S02.",
-            "date": "19/01/2024"
-          },
-          {
-            "campaignNumber": "26V012000",
-            "component": "EQUIPMENT:ELECTRICAL:ENGINE BLOCK HEATER",
-            "summary": "Ford Motor Company (Ford) is recalling certain 2016-2018 Focus, 2019 Explorer, and 2024 Explorer vehicles. The engine block heater may crack and develop a coolant leak, causing it to short circuit when the block heater is plugged in.",
-            "consequence": "An electrical short circuit can increase the risk of a fire.",
-            "remedy": "Owners are advised not to plug in their block heater until the vehicle is remedied. Dealers will replace the block heater, free of charge. Owners will also have a alternative option to replace engine block heater element with a threaded blanking plug, and remove the block heater electrical cord. Interim letters, notifying owners of the safety risk, were mailed February 13, 2026. Additional letters will be sent once the final remedy is available, anticipated in October 2026. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 25SA4. Vehicle Identification Numbers (VINs) involved in this recall became searchable on NHTSA.gov on January 16, 2026. This recall expands previous recall number 25V685.",
-            "date": "15/01/2026"
-          },
-          {
-            "campaignNumber": "26V101000",
-            "component": "SUSPENSION:REAR",
-            "summary": "Ford Motor Company (Ford) is recalling certain 2017-2019 Explorer vehicles. The rear suspension toe links may fracture.",
-            "consequence": "A rear toe link fracture can result in a loss of steering control, increasing the risk of a crash.",
-            "remedy": "Dealers will replace the toe links, free of charge. Owner notification letters were mailed on March 16, 2026. Owners may contact Ford Customer Service at 1-866-436-7332. Ford's number for this recall is 26S08. This recall is an expansion of previous NHTSA recall number 21V537. Vehicle Identification Numbers (VINs) involved in this recall will be searchable on NHTSA.gov beginning February 25, 2026.",
-            "date": "20/02/2026"
-          },
-          {
-            "campaignNumber": "26V448000",
-            "component": "STRUCTURE:BODY",
-            "summary": "Ford Motor Company (Ford) is recalling certain 2016-2019 Explorer vehicles. The roof rail covers may come loose and detach from the vehicle.",
-            "consequence": "A detached roof rail cover can create a road hazard, increasing the risk of a crash.",
-            "remedy": "Dealers will inspect the roof rail covers and as necessary, repair or replace the push-pins, rail clips, or roof rail covers, free of charge. Interim letters, notifying owners of the safety risk, are expected to be mailed August 24, 2026. Additional letters will be sent once the remedy is available, anticipated in September 2026. Owners may contact Ford customer service at 1-866-436-7332. Ford's number for this recall is 26S54. This recall expands previous NHTSA recall number 21V316. Vehicle Identification Numbers (VINs) involved in this recall became searchable on NHTSA.gov on July 16, 2026.",
-            "date": "14/07/2026"
-          }
-        ]
+        "count": 0,
+        "items": []
       },
       "mpg": {
         "city": 16,
