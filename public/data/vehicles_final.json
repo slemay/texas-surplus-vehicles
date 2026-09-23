@@ -34,8 +34,41 @@
         "Aspiration": "Standard"
       },
       "recalls": {
-        "count": 0,
-        "items": []
+        "count": 4,
+        "items": [
+          {
+            "campaignNumber": "19V645000",
+            "component": "SERVICE BRAKES, HYDRAULIC:POWER ASSIST:VACUUM",
+            "summary": "General Motors LLC (GM) is recalling certain 2015-2017 Cadillac Escalade, 2014-2018 Chevrolet Silverado, GMC Sierra, 2015-2018 Chevrolet Suburban, Tahoe, GMC Yukon vehicles.  The amount of vacuum created by the vacuum pump may decrease over time.",
+            "consequence": "As the vacuum level drops, the brake assist decreases, increasing braking effort, extending the distance required to stop the vehicle, thereby increasing the risk of a crash.",
+            "remedy": "GM will notify owners, and dealers will reprogram the Electronic Brake Control Module, free of charge.  The recall began October 8, 2019.  Owners may contact Chevrolet customer service at 1-800-630-2438, Cadillac customer service at 1-800-458-8006 or GMC customer service at 1-800-462-8782.  GM's number for this recall is N192268490.",
+            "date": "06/09/2019"
+          },
+          {
+            "campaignNumber": "19V761000",
+            "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:WHEEL SPEED SENSOR/TONE RING",
+            "summary": "General Motors LLC (GM) is recalling certain 2015-2020 Chevrolet Suburban, Tahoe, and GMC Yukon, and 2014-2018 Chevrolet Silverado 1500 and GMC Sierra 1500 vehicles equipped with a 5.3-liter engine, a 3.08-ratio rear axle and four-wheel drive.  If a wheel-speed sensor fails, while the vehicle is traveling between 41 and 60 mph in four-wheel or automatic mode, the Electronic-Brake Control Module (EBCM) software may activate the driveline-protection system.",
+            "consequence": "Unintended activation of the driveline-protection system will cause unintended braking on the wheel on the opposite side of the failed sensor, causing the vehicle to pull to one side unexpectedly, increasing the risk of a crash.",
+            "remedy": "GM will notify owners, and dealers will reprogram the EBCM, free of charge.  The recall began December 11, 2019.  Owners may contact Chevrolet customer service at 1-800-630-2438 or GMC customer service at 1-800-462-8782.  GM's number for this recall is N192261050.",
+            "date": "24/10/2019"
+          },
+          {
+            "campaignNumber": "16V651000",
+            "component": "AIR BAGS:FRONTAL",
+            "summary": "General Motors LLC (GM) is recalling certain model year 2015-2017 Chevrolet Silverado 2500 HD, 3500 HD, Tahoe, Suburban,  GMC Sierra 2500 HD and 3500 HD, GMC Yukon, GMC Yukon XL, Cadillac Escalade and Cadillac Escalade ESV vehicles and 2014-2017 Chevrolet Corvette, Silverado 1500, Trax, Caprice Police Pursuit Vehicle, GMC Sierra 1500, Buick Encore, and 2014-2016 Buick Lacrosse, Chevrolet Spark EV and SS vehicles.  In the affected vehicles, certain driving conditions may cause the air bag sensing and diagnostic module (SDM) software to activate a diagnostic test.  During this test, deployment of the frontal air bags and the seat belt pretensioners would not occur in the event of a crash.",
+            "consequence": "A failure of the front air bags or seat belt pretensioners to deploy in the event of a crash necessitating deployment increases the risk of injury to the driver and front passenger.",
+            "remedy": "GM will notify owners, and dealers will reflash the SDM software.  Vehicles that have had a previous air bag deployment will have the SDM replaced.  These repairs will be performed free of charge.  The recall began on October 13, 2016.  Owners may contact Buick customer service at 1-800-521-7300, Cadillac customer service at 1-800-458-8006, Chevrolet customer service at 1-800-222-1020, or GMC customer service at 1-800-462-8782.  GM's number for this recall is 16007.",
+            "date": "08/09/2016"
+          },
+          {
+            "campaignNumber": "26V289000",
+            "component": "POWER TRAIN:TRANSFER CASE (4-WHEEL DRIVE)",
+            "summary": "General Motors, LLC (GM) is recalling certain 2026 Cadillac Escalade and Escalade ESV, Chevrolet Silverado 1500, Suburban, and Tahoe, and GMC Sierra 1500, Yukon, and Yukon XL vehicles with four-wheel (4WD) or all-wheel drive (AWD), and certain 2015-2020 Suburban, Escalade, Escalade ESV, Yukon, Yukon XL, and Tahoe vehicles. A component missing from the drivetrain transfer case may cause the front and/or rear wheels to lock up without warning to the driver.",
+            "consequence": "Front or rear wheel lockup increases the risk of a crash.",
+            "remedy": "Owners are advised not to drive their vehicle until the remedy is completed. Dealers will inspect and, if necessary, replace the transfer case assembly, free of charge. Owner notification letters were mailed May 18, 2026. Owners may contact GMC customer service at 1-800-462-8782, Chevrolet customer service at 1-800-222-1020 or Cadillac customer service at 1-800-333-4223.  GM's number for this recall is N262557620. Vehicle Identification Numbers (VINs) involved in this recall became searchable on NHTSA.gov on May 7, 2026.",
+            "date": "07/05/2026"
+          }
+        ]
       },
       "mpg": {
         "city": 16,
@@ -793,8 +826,49 @@
         "Aspiration": "Standard"
       },
       "recalls": {
-        "count": 0,
-        "items": []
+        "count": 5,
+        "items": [
+          {
+            "campaignNumber": "22V903000",
+            "component": "EXTERIOR LIGHTING:LIGHTING CONTROL MODULE:SOFTWARE",
+            "summary": "General Motors, LLC (GM) is recalling certain 2020-2023 Cadillac CT4 and CT5; 2021-2023 Buick Envision; and 2022-2023 Cadillac Escalade and Escalade ESV, Chevrolet Silverado 1500, Suburban, Tahoe, GMC Sierra 1500, Yukon, and Yukon XL vehicles.  The daytime running lights (DRLs) may not deactivate when the headlights are on.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 108, \"Lamps, Reflective Devices, and Associated Equipment.\"",
+            "consequence": "DRLs that do not deactivate as intended may result in a glare, reducing visibility, and increasing the risk of a crash.",
+            "remedy": "The body control module software will be updated by a dealer, or through an over-the-air (OTA) update, free of charge.  Owner notification letters were mailed January 23, 2023.  Owners may contact GMC customer service at 1-888-988-7267, Chevrolet customer service at 1-800-222-1020, or Cadillac customer service at 1-800-458-8006.  GM's number for this recall is N222386380.  This recall expands previous recall number 22V-827.",
+            "date": "08/12/2022"
+          },
+          {
+            "campaignNumber": "23V642000",
+            "component": "SUSPENSION:REAR",
+            "summary": "General Motors, LLC (GM) is recalling certain 2023 Cadillac Escalade, Escalade ESV, Chevrolet Suburban, Chevrolet Tahoe, GMC Yukon, and Yukon XL vehicles.  The rear suspension outer control arm bolts may not have been properly heat-treated, which can cause the bolts to break.",
+            "consequence": "A broken suspension bolt can result in misalignment of the rear wheel, increasing the risk of a crash.",
+            "remedy": "Dealers will replace both rear suspension outer control arm bolts, free of charge.  Owner notification letters were mailed November 14, 2023.  Owners may contact Chevrolet customer service at 1-800-222-1020; Cadillac customer service at 1-800-458-8006; and GMC customer service at 1-800-462-8782.  GM's number for this recall is N232415910.",
+            "date": "20/09/2023"
+          },
+          {
+            "campaignNumber": "24V674000",
+            "component": "SERVICE BRAKES, HYDRAULIC:BRAKE FLUID LOW WARNING: LAMP",
+            "summary": "General Motors, LLC (GM) is recalling certain 2023 Chevrolet Silverado 1500, GMC Sierra 1500, 2023-2024 Chevrolet Tahoe, Suburban, GMC Yukon, Yukon XL, Cadillac Escalade, and Escalade ESV vehicles.  The electronic brake control module software may fail to display a warning light when a loss of brake fluid occurs.  As such, these vehicles fail to comply with the requirements of Federal Vehicle Safety Standard number 135, \"Light Vehicle Brake Systems.\"",
+            "consequence": "Without a warning light, the vehicle may be driven with low brake fluid, which can reduce braking performance and increase the risk of a crash.",
+            "remedy": "The Electronic Brake Control Module (eBCM) software will be updated through an over-the-air (OTA) update or by a dealer, free of charge.  Owner notification letters were mailed October 25, 2024.  Owners can contact GMC customer service at 1-800-462-8782, Chevrolet customer service at 1-800-222-1020, or Cadillac customer service at 1-800-458-8006.  GM's number for this recall is N242447990.",
+            "date": "12/09/2024"
+          },
+          {
+            "campaignNumber": "25V274000",
+            "component": "ENGINE AND ENGINE COOLING:ENGINE:HARD PARTS INTERNAL/MECHANICAL",
+            "summary": "General Motors LLC (GM) is recalling certain 2021-2024 Cadillac Escalade and Escalade ESV, Chevrolet Silverado 1500, Suburban, and Tahoe, GMC Sierra 1500, Yukon, and Yukon XL vehicles equipped with a 6.2L V8 gas engine.  The connecting rod and/or crankshaft engine components may have manufacturing defects that can lead to engine damage and engine failure.",
+            "consequence": "Engine failure increases the risk of a crash.",
+            "remedy": "Dealers will inspect the engine, and as necessary, repair or replace the engine.  For vehicles that pass inspection, dealers will add higher viscosity oil, install 6 oil fill cap, replace the oil filter, and update the owner's manual.  Repairs will be performed free of charge.  Owner notification letters were mailed June 18, 2025.  Owners may contact Cadillac customer service at 1-800-333-4223, Chevrolet customer service at 1-800-222-1020, or GMC customer service at 1-800-462-8782.  GM's number for this recall is N252494000.",
+            "date": "24/04/2025"
+          },
+          {
+            "campaignNumber": "25V619000",
+            "component": "FUEL SYSTEM, DIESEL:STORAGE:TANK ASSEMBLY",
+            "summary": "General Motors, LLC (GM) is recalling certain 2021 Cadillac Escalade, 2021, 2023-2024 Chevrolet Tahoe, and 2022 and 2024 GMC Yukon vehicles equipped with a 6-cylinder diesel engine. The original fuel tank may have been replaced with an incorrect fuel tank, which can allow fuel to leak in a rollover crash.",
+            "consequence": "A fuel leak in the presence of an ignition source increases the risk of a vehicle fire.",
+            "remedy": "Dealers will inspect for the correct fuel tank and replace it, if necessary, free of charge. Owner notification letters were mailed November 5, 2025. Owners may contact Cadillac customer service at 1-800-333-4223, Chevrolet customer service at 1-800-222-1020, or GMC customer service at 1-800-462-8782.  GM's number for this recall is N252512770. Vehicle Identification Numbers (VINs) involved in this recall became searchable on NHTSA.gov on September 18, 2025.",
+            "date": "18/09/2025"
+          }
+        ]
       },
       "mpg": {
         "city": 16,
