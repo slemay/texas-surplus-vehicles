@@ -260,8 +260,33 @@
         "Aspiration": "Standard"
       },
       "recalls": {
-        "count": 0,
-        "items": []
+        "count": 3,
+        "items": [
+          {
+            "campaignNumber": "21V115000",
+            "component": "TIRES",
+            "summary": "General Motors LLC (GM) is recalling certain 2020 Buick Enclave, Cadillac XT4, XT5, Escalade, Escalade ESV, Chevrolet Suburban, Tahoe, Traverse, GMC Yukon, Yukon XL, 2018-2021 Chevrolet Express, GMC Savana, 2019-2020 Chevrolet Blazer, Silverado 1500, GMC Acadia, Sierra 1500, and certain Continental tires sold to the aftermarket for various model year 2018-2021 vehicles.  The affected tires were cured for too long during production.",
+            "consequence": "Over cured tires may develop a break in the sidewall resulting in sudden air loss or a belt edge separation which could lead to a tread/belt loss.  Either condition can cause a loss of vehicle control, increasing the risk of a crash.",
+            "remedy": "GM will notify owners, and dealers will inspect the tires, replacing them as necessary, free of charge.  The recall began March 22, 2021.  Owners may contact GMC customer service at 1-888-988-7267, Buick customer service at 1-866-608-8080, Chevrolet customer service at 1-800-222-1020 or Cadillac customer service at 1-800-458-8006.  GM's number for this recall is N212329050.",
+            "date": "25/02/2021"
+          },
+          {
+            "campaignNumber": "19V837000",
+            "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
+            "summary": "General Motors LLC (GM) is recalling certain 2020 Cadillac Escalade, Escalade ESV, Chevrolet Camaro, Silverado 1500, Suburban, Tahoe, GMC Sierra 1500, Yukon, and Yukon XL vehicles.  The fuel pump may be missing a pressure regulator, allowing for over-pressurization of the fuel system.",
+            "consequence": "Over-pressurization can crack the fuel pump and cause leaks, increasing the risk of a fire in the presence of an ignition source.",
+            "remedy": "GM will notify owners, and dealers will replace the fuel pump, free of charge.  The recall began December 18, 2019.  Owners may contact Cadillac customer service at 1-800-333-4223, Chevrolet customer service at 1-800-222-1020, or GMC customer service at 1-888-988-7267.  GM's number for this recall is N192283991.",
+            "date": "21/11/2019"
+          },
+          {
+            "campaignNumber": "19V761000",
+            "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:WHEEL SPEED SENSOR/TONE RING",
+            "summary": "General Motors LLC (GM) is recalling certain 2015-2020 Chevrolet Suburban, Tahoe, and GMC Yukon, and 2014-2018 Chevrolet Silverado 1500 and GMC Sierra 1500 vehicles equipped with a 5.3-liter engine, a 3.08-ratio rear axle and four-wheel drive.  If a wheel-speed sensor fails, while the vehicle is traveling between 41 and 60 mph in four-wheel or automatic mode, the Electronic-Brake Control Module (EBCM) software may activate the driveline-protection system.",
+            "consequence": "Unintended activation of the driveline-protection system will cause unintended braking on the wheel on the opposite side of the failed sensor, causing the vehicle to pull to one side unexpectedly, increasing the risk of a crash.",
+            "remedy": "GM will notify owners, and dealers will reprogram the EBCM, free of charge.  The recall began December 11, 2019.  Owners may contact Chevrolet customer service at 1-800-630-2438 or GMC customer service at 1-800-462-8782.  GM's number for this recall is N192261050.",
+            "date": "24/10/2019"
+          }
+        ]
       },
       "mpg": {
         "city": 16,
