@@ -235,273 +235,6 @@
       }
     },
     {
-      "assetNumber": "405-526947-01-001",
-      "description": "2020 CHEVROLET TAHOE PPV",
-      "vin": "1GNLCDEC7LR289822",
-      "mileage": 147293,
-      "salesPrice": 7900.0,
-      "specs": {
-        "Make": "CHEVROLET",
-        "Model": "Tahoe",
-        "ModelYear": "2020",
-        "BodyClass": "Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV]",
-        "EngineCylinders": "8",
-        "DisplacementL": "5.3",
-        "EngineHP": "",
-        "FuelTypePrimary": "Gasoline",
-        "DriveType": "4x2",
-        "PlantCity": "ARLINGTON",
-        "PlantState": "TEXAS",
-        "PlantCountry": "UNITED STATES (USA)",
-        "VehicleType": "MULTIPURPOSE PASSENGER VEHICLE (MPV)",
-        "Manufacturer": "GENERAL MOTORS LLC",
-        "Trim": "Police Vehicle",
-        "Series": "",
-        "Aspiration": "Standard"
-      },
-      "recalls": {
-        "count": 3,
-        "items": [
-          {
-            "campaignNumber": "21V115000",
-            "component": "TIRES",
-            "summary": "General Motors LLC (GM) is recalling certain 2020 Buick Enclave, Cadillac XT4, XT5, Escalade, Escalade ESV, Chevrolet Suburban, Tahoe, Traverse, GMC Yukon, Yukon XL, 2018-2021 Chevrolet Express, GMC Savana, 2019-2020 Chevrolet Blazer, Silverado 1500, GMC Acadia, Sierra 1500, and certain Continental tires sold to the aftermarket for various model year 2018-2021 vehicles.  The affected tires were cured for too long during production.",
-            "consequence": "Over cured tires may develop a break in the sidewall resulting in sudden air loss or a belt edge separation which could lead to a tread/belt loss.  Either condition can cause a loss of vehicle control, increasing the risk of a crash.",
-            "remedy": "GM will notify owners, and dealers will inspect the tires, replacing them as necessary, free of charge.  The recall began March 22, 2021.  Owners may contact GMC customer service at 1-888-988-7267, Buick customer service at 1-866-608-8080, Chevrolet customer service at 1-800-222-1020 or Cadillac customer service at 1-800-458-8006.  GM's number for this recall is N212329050.",
-            "date": "25/02/2021"
-          },
-          {
-            "campaignNumber": "19V837000",
-            "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
-            "summary": "General Motors LLC (GM) is recalling certain 2020 Cadillac Escalade, Escalade ESV, Chevrolet Camaro, Silverado 1500, Suburban, Tahoe, GMC Sierra 1500, Yukon, and Yukon XL vehicles.  The fuel pump may be missing a pressure regulator, allowing for over-pressurization of the fuel system.",
-            "consequence": "Over-pressurization can crack the fuel pump and cause leaks, increasing the risk of a fire in the presence of an ignition source.",
-            "remedy": "GM will notify owners, and dealers will replace the fuel pump, free of charge.  The recall began December 18, 2019.  Owners may contact Cadillac customer service at 1-800-333-4223, Chevrolet customer service at 1-800-222-1020, or GMC customer service at 1-888-988-7267.  GM's number for this recall is N192283991.",
-            "date": "21/11/2019"
-          },
-          {
-            "campaignNumber": "19V761000",
-            "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:WHEEL SPEED SENSOR/TONE RING",
-            "summary": "General Motors LLC (GM) is recalling certain 2015-2020 Chevrolet Suburban, Tahoe, and GMC Yukon, and 2014-2018 Chevrolet Silverado 1500 and GMC Sierra 1500 vehicles equipped with a 5.3-liter engine, a 3.08-ratio rear axle and four-wheel drive.  If a wheel-speed sensor fails, while the vehicle is traveling between 41 and 60 mph in four-wheel or automatic mode, the Electronic-Brake Control Module (EBCM) software may activate the driveline-protection system.",
-            "consequence": "Unintended activation of the driveline-protection system will cause unintended braking on the wheel on the opposite side of the failed sensor, causing the vehicle to pull to one side unexpectedly, increasing the risk of a crash.",
-            "remedy": "GM will notify owners, and dealers will reprogram the EBCM, free of charge.  The recall began December 11, 2019.  Owners may contact Chevrolet customer service at 1-800-630-2438 or GMC customer service at 1-800-462-8782.  GM's number for this recall is N192261050.",
-            "date": "24/10/2019"
-          }
-        ]
-      },
-      "mpg": {
-        "city": 16,
-        "hwy": 22,
-        "combined": 18
-      },
-      "image": "images/chevrolet_tahoe.jpg",
-      "edmundsReview": {
-        "rating": 4.6,
-        "ratingText": "Edmunds Rating: 4.6 / 5 - Excellent",
-        "summary": "The Chevrolet Tahoe PPV (Police Pursuit Vehicle) combines a commanding 5.3L V8 engine, heavy-duty pursuit suspension, lower ride height for high-speed stability, and massive cargo capability.",
-        "pros": [
-          "Robust 5.3L EcoTec3 V8 delivers confident acceleration and high towing capability",
-          "PPV pursuit package includes upgraded oil coolers, heavy-duty brakes, and lowered suspension",
-          "Extremely spacious cabin with versatile cargo storage capacity",
-          "Quiet high-speed cruising with impressive highway stability"
-        ],
-        "cons": [
-          "Solid rear axle can feel firm over severe bumps",
-          "Cargo floor is somewhat high due to fold-flat seating design"
-        ],
-        "verdict": "The gold standard for full-size utility vehicles \u2014 rugged, powerful, and built to handle harsh conditions.",
-        "url": "https://www.edmunds.com/chevrolet/tahoe/2020/review/"
-      },
-      "kbbValuation": {
-        "fairPurchasePrice": 15844,
-        "formattedFairPrice": "$15,844",
-        "priceRange": "$13,942 - $17,745",
-        "privatePartyValue": 14576,
-        "suggestedRetail": 17428,
-        "savingsVsKbb": 7944,
-        "savingsPct": 50.1,
-        "formattedSavings": "$7,944",
-        "url": "https://www.kbb.com/chevrolet/tahoe/2020/"
-      }
-    },
-    {
-      "assetNumber": "405-527112-01-001",
-      "description": "2020 CHEVROLET TAHOE PPV",
-      "vin": "1GNLCDEC9LR303459",
-      "mileage": 184371,
-      "salesPrice": 6000.0,
-      "specs": {
-        "Make": "CHEVROLET",
-        "Model": "Tahoe",
-        "ModelYear": "2020",
-        "BodyClass": "Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV]",
-        "EngineCylinders": "8",
-        "DisplacementL": "5.3",
-        "EngineHP": "",
-        "FuelTypePrimary": "Gasoline",
-        "DriveType": "4x2",
-        "PlantCity": "ARLINGTON",
-        "PlantState": "TEXAS",
-        "PlantCountry": "UNITED STATES (USA)",
-        "VehicleType": "MULTIPURPOSE PASSENGER VEHICLE (MPV)",
-        "Manufacturer": "GENERAL MOTORS LLC",
-        "Trim": "Police Vehicle",
-        "Series": "",
-        "Aspiration": "Standard"
-      },
-      "recalls": {
-        "count": 3,
-        "items": [
-          {
-            "campaignNumber": "21V115000",
-            "component": "TIRES",
-            "summary": "General Motors LLC (GM) is recalling certain 2020 Buick Enclave, Cadillac XT4, XT5, Escalade, Escalade ESV, Chevrolet Suburban, Tahoe, Traverse, GMC Yukon, Yukon XL, 2018-2021 Chevrolet Express, GMC Savana, 2019-2020 Chevrolet Blazer, Silverado 1500, GMC Acadia, Sierra 1500, and certain Continental tires sold to the aftermarket for various model year 2018-2021 vehicles.  The affected tires were cured for too long during production.",
-            "consequence": "Over cured tires may develop a break in the sidewall resulting in sudden air loss or a belt edge separation which could lead to a tread/belt loss.  Either condition can cause a loss of vehicle control, increasing the risk of a crash.",
-            "remedy": "GM will notify owners, and dealers will inspect the tires, replacing them as necessary, free of charge.  The recall began March 22, 2021.  Owners may contact GMC customer service at 1-888-988-7267, Buick customer service at 1-866-608-8080, Chevrolet customer service at 1-800-222-1020 or Cadillac customer service at 1-800-458-8006.  GM's number for this recall is N212329050.",
-            "date": "25/02/2021"
-          },
-          {
-            "campaignNumber": "19V837000",
-            "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
-            "summary": "General Motors LLC (GM) is recalling certain 2020 Cadillac Escalade, Escalade ESV, Chevrolet Camaro, Silverado 1500, Suburban, Tahoe, GMC Sierra 1500, Yukon, and Yukon XL vehicles.  The fuel pump may be missing a pressure regulator, allowing for over-pressurization of the fuel system.",
-            "consequence": "Over-pressurization can crack the fuel pump and cause leaks, increasing the risk of a fire in the presence of an ignition source.",
-            "remedy": "GM will notify owners, and dealers will replace the fuel pump, free of charge.  The recall began December 18, 2019.  Owners may contact Cadillac customer service at 1-800-333-4223, Chevrolet customer service at 1-800-222-1020, or GMC customer service at 1-888-988-7267.  GM's number for this recall is N192283991.",
-            "date": "21/11/2019"
-          },
-          {
-            "campaignNumber": "19V761000",
-            "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:WHEEL SPEED SENSOR/TONE RING",
-            "summary": "General Motors LLC (GM) is recalling certain 2015-2020 Chevrolet Suburban, Tahoe, and GMC Yukon, and 2014-2018 Chevrolet Silverado 1500 and GMC Sierra 1500 vehicles equipped with a 5.3-liter engine, a 3.08-ratio rear axle and four-wheel drive.  If a wheel-speed sensor fails, while the vehicle is traveling between 41 and 60 mph in four-wheel or automatic mode, the Electronic-Brake Control Module (EBCM) software may activate the driveline-protection system.",
-            "consequence": "Unintended activation of the driveline-protection system will cause unintended braking on the wheel on the opposite side of the failed sensor, causing the vehicle to pull to one side unexpectedly, increasing the risk of a crash.",
-            "remedy": "GM will notify owners, and dealers will reprogram the EBCM, free of charge.  The recall began December 11, 2019.  Owners may contact Chevrolet customer service at 1-800-630-2438 or GMC customer service at 1-800-462-8782.  GM's number for this recall is N192261050.",
-            "date": "24/10/2019"
-          }
-        ]
-      },
-      "mpg": {
-        "city": 16,
-        "hwy": 22,
-        "combined": 18
-      },
-      "image": "images/chevrolet_tahoe.jpg",
-      "edmundsReview": {
-        "rating": 4.6,
-        "ratingText": "Edmunds Rating: 4.6 / 5 - Excellent",
-        "summary": "The Chevrolet Tahoe PPV (Police Pursuit Vehicle) combines a commanding 5.3L V8 engine, heavy-duty pursuit suspension, lower ride height for high-speed stability, and massive cargo capability.",
-        "pros": [
-          "Robust 5.3L EcoTec3 V8 delivers confident acceleration and high towing capability",
-          "PPV pursuit package includes upgraded oil coolers, heavy-duty brakes, and lowered suspension",
-          "Extremely spacious cabin with versatile cargo storage capacity",
-          "Quiet high-speed cruising with impressive highway stability"
-        ],
-        "cons": [
-          "Solid rear axle can feel firm over severe bumps",
-          "Cargo floor is somewhat high due to fold-flat seating design"
-        ],
-        "verdict": "The gold standard for full-size utility vehicles \u2014 rugged, powerful, and built to handle harsh conditions.",
-        "url": "https://www.edmunds.com/chevrolet/tahoe/2020/review/"
-      },
-      "kbbValuation": {
-        "fairPurchasePrice": 14548,
-        "formattedFairPrice": "$14,548",
-        "priceRange": "$12,802 - $16,293",
-        "privatePartyValue": 13384,
-        "suggestedRetail": 16002,
-        "savingsVsKbb": 8548,
-        "savingsPct": 58.8,
-        "formattedSavings": "$8,548",
-        "url": "https://www.kbb.com/chevrolet/tahoe/2020/"
-      }
-    },
-    {
-      "assetNumber": "405-527171-01-001",
-      "description": "2020 CHEVROLET TAHOE PPV",
-      "vin": "1GNLCDEC7LR292462",
-      "mileage": 171056,
-      "salesPrice": 6500.0,
-      "specs": {
-        "Make": "CHEVROLET",
-        "Model": "Tahoe",
-        "ModelYear": "2020",
-        "BodyClass": "Sport Utility Vehicle [SUV]/Multipurpose Vehicle [MPV]",
-        "EngineCylinders": "8",
-        "DisplacementL": "5.3",
-        "EngineHP": "",
-        "FuelTypePrimary": "Gasoline",
-        "DriveType": "4x2",
-        "PlantCity": "ARLINGTON",
-        "PlantState": "TEXAS",
-        "PlantCountry": "UNITED STATES (USA)",
-        "VehicleType": "MULTIPURPOSE PASSENGER VEHICLE (MPV)",
-        "Manufacturer": "GENERAL MOTORS LLC",
-        "Trim": "Police Vehicle",
-        "Series": "",
-        "Aspiration": "Standard"
-      },
-      "recalls": {
-        "count": 3,
-        "items": [
-          {
-            "campaignNumber": "21V115000",
-            "component": "TIRES",
-            "summary": "General Motors LLC (GM) is recalling certain 2020 Buick Enclave, Cadillac XT4, XT5, Escalade, Escalade ESV, Chevrolet Suburban, Tahoe, Traverse, GMC Yukon, Yukon XL, 2018-2021 Chevrolet Express, GMC Savana, 2019-2020 Chevrolet Blazer, Silverado 1500, GMC Acadia, Sierra 1500, and certain Continental tires sold to the aftermarket for various model year 2018-2021 vehicles.  The affected tires were cured for too long during production.",
-            "consequence": "Over cured tires may develop a break in the sidewall resulting in sudden air loss or a belt edge separation which could lead to a tread/belt loss.  Either condition can cause a loss of vehicle control, increasing the risk of a crash.",
-            "remedy": "GM will notify owners, and dealers will inspect the tires, replacing them as necessary, free of charge.  The recall began March 22, 2021.  Owners may contact GMC customer service at 1-888-988-7267, Buick customer service at 1-866-608-8080, Chevrolet customer service at 1-800-222-1020 or Cadillac customer service at 1-800-458-8006.  GM's number for this recall is N212329050.",
-            "date": "25/02/2021"
-          },
-          {
-            "campaignNumber": "19V837000",
-            "component": "FUEL SYSTEM, GASOLINE:DELIVERY:FUEL PUMP",
-            "summary": "General Motors LLC (GM) is recalling certain 2020 Cadillac Escalade, Escalade ESV, Chevrolet Camaro, Silverado 1500, Suburban, Tahoe, GMC Sierra 1500, Yukon, and Yukon XL vehicles.  The fuel pump may be missing a pressure regulator, allowing for over-pressurization of the fuel system.",
-            "consequence": "Over-pressurization can crack the fuel pump and cause leaks, increasing the risk of a fire in the presence of an ignition source.",
-            "remedy": "GM will notify owners, and dealers will replace the fuel pump, free of charge.  The recall began December 18, 2019.  Owners may contact Cadillac customer service at 1-800-333-4223, Chevrolet customer service at 1-800-222-1020, or GMC customer service at 1-888-988-7267.  GM's number for this recall is N192283991.",
-            "date": "21/11/2019"
-          },
-          {
-            "campaignNumber": "19V761000",
-            "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:WHEEL SPEED SENSOR/TONE RING",
-            "summary": "General Motors LLC (GM) is recalling certain 2015-2020 Chevrolet Suburban, Tahoe, and GMC Yukon, and 2014-2018 Chevrolet Silverado 1500 and GMC Sierra 1500 vehicles equipped with a 5.3-liter engine, a 3.08-ratio rear axle and four-wheel drive.  If a wheel-speed sensor fails, while the vehicle is traveling between 41 and 60 mph in four-wheel or automatic mode, the Electronic-Brake Control Module (EBCM) software may activate the driveline-protection system.",
-            "consequence": "Unintended activation of the driveline-protection system will cause unintended braking on the wheel on the opposite side of the failed sensor, causing the vehicle to pull to one side unexpectedly, increasing the risk of a crash.",
-            "remedy": "GM will notify owners, and dealers will reprogram the EBCM, free of charge.  The recall began December 11, 2019.  Owners may contact Chevrolet customer service at 1-800-630-2438 or GMC customer service at 1-800-462-8782.  GM's number for this recall is N192261050.",
-            "date": "24/10/2019"
-          }
-        ]
-      },
-      "mpg": {
-        "city": 16,
-        "hwy": 22,
-        "combined": 18
-      },
-      "image": "images/chevrolet_tahoe.jpg",
-      "edmundsReview": {
-        "rating": 4.6,
-        "ratingText": "Edmunds Rating: 4.6 / 5 - Excellent",
-        "summary": "The Chevrolet Tahoe PPV (Police Pursuit Vehicle) combines a commanding 5.3L V8 engine, heavy-duty pursuit suspension, lower ride height for high-speed stability, and massive cargo capability.",
-        "pros": [
-          "Robust 5.3L EcoTec3 V8 delivers confident acceleration and high towing capability",
-          "PPV pursuit package includes upgraded oil coolers, heavy-duty brakes, and lowered suspension",
-          "Extremely spacious cabin with versatile cargo storage capacity",
-          "Quiet high-speed cruising with impressive highway stability"
-        ],
-        "cons": [
-          "Solid rear axle can feel firm over severe bumps",
-          "Cargo floor is somewhat high due to fold-flat seating design"
-        ],
-        "verdict": "The gold standard for full-size utility vehicles \u2014 rugged, powerful, and built to handle harsh conditions.",
-        "url": "https://www.edmunds.com/chevrolet/tahoe/2020/review/"
-      },
-      "kbbValuation": {
-        "fairPurchasePrice": 15014,
-        "formattedFairPrice": "$15,014",
-        "priceRange": "$13,212 - $16,815",
-        "privatePartyValue": 13812,
-        "suggestedRetail": 16515,
-        "savingsVsKbb": 8514,
-        "savingsPct": 56.7,
-        "formattedSavings": "$8,514",
-        "url": "https://www.kbb.com/chevrolet/tahoe/2020/"
-      }
-    },
-    {
       "assetNumber": "405-528405-01-001",
       "description": "2023 CHEVROLET TAHOE 4WD",
       "vin": "1GNSKLED0PR164670",
@@ -604,6 +337,119 @@
         "savingsPct": 0.0,
         "formattedSavings": "$0",
         "url": "https://www.kbb.com/chevrolet/tahoe/2020/"
+      }
+    },
+    {
+      "assetNumber": "772-041030-01-001",
+      "description": "2014 CHEVROLET 1500 EXPRESS 8 PASS",
+      "vin": "1GNSGBF47E1142025",
+      "mileage": 83031,
+      "salesPrice": 8100.0,
+      "specs": {
+        "Make": "CHEVROLET",
+        "Model": "Express",
+        "ModelYear": "2014",
+        "BodyClass": "Van",
+        "EngineCylinders": "8",
+        "DisplacementL": "5.3",
+        "EngineHP": "",
+        "FuelTypePrimary": "Gasoline",
+        "DriveType": "4x2",
+        "PlantCity": "WENTZVILLE",
+        "PlantState": "MISSOURI",
+        "PlantCountry": "UNITED STATES (USA)",
+        "VehicleType": "MULTIPURPOSE PASSENGER VEHICLE (MPV)",
+        "Manufacturer": "GENERAL MOTORS LLC",
+        "Trim": "LS",
+        "Series": "1500 Passenger",
+        "Aspiration": "Standard"
+      },
+      "recalls": {
+        "count": 6,
+        "items": [
+          {
+            "campaignNumber": "19V645000",
+            "component": "SERVICE BRAKES, HYDRAULIC:POWER ASSIST:VACUUM",
+            "summary": "General Motors LLC (GM) is recalling certain 2015-2017 Cadillac Escalade, 2014-2018 Chevrolet Silverado, GMC Sierra, 2015-2018 Chevrolet Suburban, Tahoe, GMC Yukon vehicles.  The amount of vacuum created by the vacuum pump may decrease over time.",
+            "consequence": "As the vacuum level drops, the brake assist decreases, increasing braking effort, extending the distance required to stop the vehicle, thereby increasing the risk of a crash.",
+            "remedy": "GM will notify owners, and dealers will reprogram the Electronic Brake Control Module, free of charge.  The recall began October 8, 2019.  Owners may contact Chevrolet customer service at 1-800-630-2438, Cadillac customer service at 1-800-458-8006 or GMC customer service at 1-800-462-8782.  GM's number for this recall is N192268490.",
+            "date": "06/09/2019"
+          },
+          {
+            "campaignNumber": "19V761000",
+            "component": "SERVICE BRAKES, HYDRAULIC:ANTILOCK/TRACTION CONTROL/ELECTRONIC LIMITED SLIP:WHEEL SPEED SENSOR/TONE RING",
+            "summary": "General Motors LLC (GM) is recalling certain 2015-2020 Chevrolet Suburban, Tahoe, and GMC Yukon, and 2014-2018 Chevrolet Silverado 1500 and GMC Sierra 1500 vehicles equipped with a 5.3-liter engine, a 3.08-ratio rear axle and four-wheel drive.  If a wheel-speed sensor fails, while the vehicle is traveling between 41 and 60 mph in four-wheel or automatic mode, the Electronic-Brake Control Module (EBCM) software may activate the driveline-protection system.",
+            "consequence": "Unintended activation of the driveline-protection system will cause unintended braking on the wheel on the opposite side of the failed sensor, causing the vehicle to pull to one side unexpectedly, increasing the risk of a crash.",
+            "remedy": "GM will notify owners, and dealers will reprogram the EBCM, free of charge.  The recall began December 11, 2019.  Owners may contact Chevrolet customer service at 1-800-630-2438 or GMC customer service at 1-800-462-8782.  GM's number for this recall is N192261050.",
+            "date": "24/10/2019"
+          },
+          {
+            "campaignNumber": "16V651000",
+            "component": "AIR BAGS:FRONTAL",
+            "summary": "General Motors LLC (GM) is recalling certain model year 2015-2017 Chevrolet Silverado 2500 HD, 3500 HD, Tahoe, Suburban,  GMC Sierra 2500 HD and 3500 HD, GMC Yukon, GMC Yukon XL, Cadillac Escalade and Cadillac Escalade ESV vehicles and 2014-2017 Chevrolet Corvette, Silverado 1500, Trax, Caprice Police Pursuit Vehicle, GMC Sierra 1500, Buick Encore, and 2014-2016 Buick Lacrosse, Chevrolet Spark EV and SS vehicles.  In the affected vehicles, certain driving conditions may cause the air bag sensing and diagnostic module (SDM) software to activate a diagnostic test.  During this test, deployment of the frontal air bags and the seat belt pretensioners would not occur in the event of a crash.",
+            "consequence": "A failure of the front air bags or seat belt pretensioners to deploy in the event of a crash necessitating deployment increases the risk of injury to the driver and front passenger.",
+            "remedy": "GM will notify owners, and dealers will reflash the SDM software.  Vehicles that have had a previous air bag deployment will have the SDM replaced.  These repairs will be performed free of charge.  The recall began on October 13, 2016.  Owners may contact Buick customer service at 1-800-521-7300, Cadillac customer service at 1-800-458-8006, Chevrolet customer service at 1-800-222-1020, or GMC customer service at 1-800-462-8782.  GM's number for this recall is 16007.",
+            "date": "08/09/2016"
+          },
+          {
+            "campaignNumber": "17V414000",
+            "component": "STEERING:ELECTRIC POWER ASSIST SYSTEM",
+            "summary": "General Motors LLC (GM) is recalling certain 2014 Chevrolet Silverado 1500 and GMC Sierra 1500 vehicles.  The vehicles may have a temporary loss of electric power steering (EPS) assist, especially during low-speed turning maneuvers.",
+            "consequence": "If EPS assist is lost and then returns, the driver might lose temporary control of the steering wheel, increasing the risk of a crash.",
+            "remedy": "GM will notify owners, and dealers will update the EPS module software, free of charge.  The recall began on August 10, 2017.  Owners may contact Chevrolet customer service at 1-800-222-1020 or GMC customer service at 1-800-432-8782.  GM's number for this recall is 17276.",
+            "date": "29/06/2017"
+          },
+          {
+            "campaignNumber": "17V437000",
+            "component": "AIR BAGS:FRONTAL",
+            "summary": "General Motors LLC (GM) is recalling certain model year 2014-2016 Buick Lacrosse and Chevrolet Spark EV, Caprice PPV and SS vehicles, 2014-2017 Buick Encore and Chevrolet Corvette, Silverado 1500 and GMC Sierra 1500 vehicles, 2015-2016 Cadillac Escalade and Escalade ESV, Chevrolet Tahoe, Trax, Suburban and Silverado 2500 and 3500 and GMC Yukon and Yukon XL vehicles, and 2015-2017 GMC Sierra HD 2500 and 3500 vehicles.  While being previously remedied for recall 16V-651, the affected vehicles may not have received the complete software update necessary to remedy the recall condition.  Without the update, certain driving conditions may cause the air bag sensing and diagnostic module (SDM) software to activate a diagnostic test.  During this test, deployment of the frontal air bags and the seat belt pretensioners would not occur in the event of a crash.",
+            "consequence": "A failure of the front air bags or seat belt pretensioners to deploy in the event of a crash necessitating deployment increases the risk of injury to the driver and front passenger.",
+            "remedy": "GM will notify owners, and dealers will reflash the SDM software.  Vehicles that have had a previous air bag deployment will have the SDM replaced.  These repairs will be performed free of charge.  The recall began on August 4, 2017.  Owners may contact Buick customer service at 1-800-521-7300, Cadillac customer service at 1-800-458-8006, Chevrolet customer service at 1-800-222-1020, or GMC customer service at 1-800-462-8782.  GM's number for this recall is 17287.",
+            "date": "10/07/2017"
+          },
+          {
+            "campaignNumber": "21V245000",
+            "component": "SEAT BELTS:FRONT",
+            "summary": "General Motors, LLC (GM) is recalling certain 2014-2016 Chevrolet Silverado 1500, 2015-2016 Chevrolet Tahoe, and 2014-2015 GMC Sierra 1500 vehicles that may have received an incorrect replacement tensioner cable assembly as part of a previous recall remedy or a subsequent repair.  The flexible steel cable connecting the driver's seat belt to the outboard side of the seat may be repeatedly bent over the seat side shield as the driver enters and exits the vehicle causing the cable to fatigue and separate.",
+            "consequence": "A broken pretensioner cable reduces the effectiveness of the driver's seat belt, increasing the risk of injury.",
+            "remedy": "GM will notify owners, and dealers will replace the driver seat belt lap pretensioner, free of charge.  The recall began on May 5, 2021.  Owners may contact Chevrolet customer service at 1-800-222-1020, and GMC customer service at 1-800-462-8782.  GM's number for this recall is N212330040.",
+            "date": "08/04/2021"
+          }
+        ]
+      },
+      "mpg": {
+        "city": 16,
+        "hwy": 22,
+        "combined": 18
+      },
+      "image": "images/chevrolet_silverado.jpg",
+      "edmundsReview": {
+        "rating": 4.5,
+        "ratingText": "Edmunds Rating: 4.5 / 5 - Outstanding",
+        "summary": "The Chevrolet Silverado 1500 Crew Cab 4x4 is celebrated for its powerful 5.3L V8 engine, remarkably quiet highway cabin, robust 4WD system, and heavy-duty towing performance.",
+        "pros": [
+          "Quiet, comfortable, and well-insulated Crew Cab interior",
+          "Strong 5.3L V8 engine with active fuel management and high towing capacity",
+          "Capable Autotrac 4WD system with low-range transfer case",
+          "CornerStep rear bumper and durable roll-formed steel bed"
+        ],
+        "cons": [
+          "Transmission can hesitate during hard downshifts",
+          "Steering feel is relaxed rather than sporty"
+        ],
+        "verdict": "A powerhouse 4x4 pickup truck that combines serious work capacity with refined passenger comfort.",
+        "url": "https://www.edmunds.com/chevrolet/silverado-1500/2018/review/"
+      },
+      "kbbValuation": {
+        "fairPurchasePrice": 21193,
+        "formattedFairPrice": "$21,193",
+        "priceRange": "$18,649 - $23,736",
+        "privatePartyValue": 19497,
+        "suggestedRetail": 23312,
+        "savingsVsKbb": 13093,
+        "savingsPct": 61.8,
+        "formattedSavings": "$13,093",
+        "url": "https://www.kbb.com/chevrolet/silverado-1500-crew-cab/2018/"
       }
     }
   ]
